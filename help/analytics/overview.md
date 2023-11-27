@@ -1,15 +1,15 @@
 ---
 title: 您的 Analytics 真实体验
-description: 客户生成的内容
+description: Analytics by You的特色是用户生成的内容，这些内容由熟悉Adobe Analytics并获得一定专业知识和影响力的日常用户创建。
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
 solution: Analytics
 exl-id: a8dd4631-950b-4504-9af7-7953165ef175
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 25%
+source-wordcount: '213'
+ht-degree: 22%
 
 ---
 

@@ -1,16 +1,16 @@
 ---
 title: 您的 Campaign 真实体验
-description: 客户生成的内容
+description: Campaign by You的特色是用户生成的内容，这些内容由熟悉Adobe Campaign并获得一定专业知识和影响力的日常用户创建。
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
 solution: Campaign
 thumbnail: null
 exl-id: cb9a03bd-8ce1-4681-929f-68f6ff435f6c
-source-git-commit: 7bbe86435c683f41509a8cbe6b117b354309644a
+source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 38%
+source-wordcount: '226'
+ht-degree: 34%
 
 ---
 

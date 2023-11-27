@@ -1,15 +1,15 @@
 ---
 title: 您的 Experience Manager 真实体验
-description: 客户生成的内容
+description: “按您Experience Manager”提供的特征是用户生成的内容，这些内容由熟悉Adobe Experience Manager并获得一定专业知识和影响力的日常用户创建。
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
 solution: Experience Manager
 exl-id: f6aa9dbd-fb4f-40fa-b607-174755a1ca9f
-source-git-commit: 7bbe86435c683f41509a8cbe6b117b354309644a
+source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 22%
+source-wordcount: '204'
+ht-degree: 19%
 
 ---
 
