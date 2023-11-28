@@ -52,7 +52,7 @@ ht-degree: 1%
 
 ### 步骤2：标识要包含在[！DNL]中的元素 [!DNL Marketo Engage]]文档和 [!DNL Changelogs]
 
-格式因基于云的平台和共享文档而异。 您可以设计符合组织需求的格式。 [以下是一个简单的文档和更改日志Excel模板](/help/marketo-tutorial-instance/_assets/downloads/[!DNL Adobe]_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx)，其中包含您可以开始使用的重要元素。 其中包括：
+格式因基于云的平台和共享文档而异。 您可以设计符合组织需求的格式。 [以下是一个简单的文档和更改日志Excel模板](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx)，其中包含您可以开始使用的重要元素。 其中包括：
 
 * 文档
    * 项目模板名称
@@ -94,7 +94,7 @@ ht-degree: 1%
 
 ## 展望未来
 
-通过下载此内容开始使用 [简单模板](/help/marketo-tutorial-instance/_assets/downloads/[!DNL Adobe]_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx)。
+通过下载此内容开始使用 [简单模板](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx)。
 
 按照上述步骤开发您的治理指南和文档。 在处理过程中，请牢记以下经验法则：
 
