@@ -1,6 +1,6 @@
 ---
 title: 您的 Analytics 真实体验
-description: Analytics by You的特色是用户生成的内容，这些内容由熟悉Adobe Analytics并获得一定专业知识和影响力的日常用户创建。
+description: Analytics by You 的特色是已凭借对 Adobe Analytics 的了解达到一定专业和影响力水平的普通用户创建的用户生成内容。
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
@@ -8,8 +8,8 @@ solution: Analytics
 exl-id: a8dd4631-950b-4504-9af7-7953165ef175
 source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 22%
+source-wordcount: '196'
+ht-degree: 23%
 
 ---
 
@@ -62,7 +62,7 @@ ht-degree: 22%
     </a>
     <div>
       <a href="/help/analytics/administration/admin-tips/create-standardized-naming-conventions.md">
-    <strong>创建标准的命名惯例</strong>
+    <strong>创建标准化的命名惯例</strong>
     </a>
     </div>
     <p>
@@ -77,6 +77,6 @@ ht-degree: 22%
 ## 其他资源
 
 * [Experience LeagueAdobe Analytics社区](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community)
-* [Adobe Analytics 文档](https://experienceleague.adobe.com/docs/analytics.html)
+* [Adobe Analytics文档](https://experienceleague.adobe.com/docs/analytics.html)
 * [Adobe Analytics 教程](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html)
 * [Adobe Analytics产品信息](https://business.adobe.com/products/analytics/adobe-analytics.html)

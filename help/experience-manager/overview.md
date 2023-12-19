@@ -1,6 +1,6 @@
 ---
 title: 您的 Experience Manager 真实体验
-description: “按您Experience Manager”提供的特征是用户生成的内容，这些内容由熟悉Adobe Experience Manager并获得一定专业知识和影响力的日常用户创建。
+description: Experience Manager by You 的特色是已凭借对 Adobe Experience Manager 的了解达到一定专业和影响力水平的普通用户创建的用户生成内容。
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
@@ -8,8 +8,8 @@ solution: Experience Manager
 exl-id: f6aa9dbd-fb4f-40fa-b607-174755a1ca9f
 source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 19%
+source-wordcount: '188'
+ht-degree: 23%
 
 ---
 

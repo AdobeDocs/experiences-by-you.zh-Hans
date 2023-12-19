@@ -1,6 +1,6 @@
 ---
 title: 您的 Campaign 真实体验
-description: Campaign by You的特色是用户生成的内容，这些内容由熟悉Adobe Campaign并获得一定专业知识和影响力的日常用户创建。
+description: Campaign by You 的特色是已凭借对 Adobe Campaign 的了解达到一定专业和影响力水平的普通用户创建的用户生成内容。
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
@@ -9,8 +9,8 @@ thumbnail: null
 exl-id: cb9a03bd-8ce1-4681-929f-68f6ff435f6c
 source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '226'
-ht-degree: 34%
+source-wordcount: '195'
+ht-degree: 27%
 
 ---
 
@@ -50,7 +50,7 @@ ht-degree: 34%
     </a>
     <div>
       <a href="/help/campaign/acs/troubleshooting-for-marketers.md">
-    <strong>营销人员疑难解答：5 种常见的工作流和投放错误</strong>
+    <strong>营销人员故障诊断：5个常见的工作流和交付错误</strong>
     </a>
     </div>
     <p>
@@ -63,7 +63,7 @@ ht-degree: 34%
     </a>
     <div>
       <a href="/help/campaign/10-best-practices-for-marketers.md">
-    <strong>营销人员借助 Adobe Campaign 取得成功的十大最佳实践</strong>
+    <strong>为营销人员推广Adobe Campaign成功的十大最佳实践</strong>
     </a>
     </div>
     <p>
