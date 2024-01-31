@@ -11,10 +11,10 @@ jira: KT-14103
 thumbnail: KT-14103.jpeg
 hide: false
 exl-id: e127b84d-ef92-4527-a0e6-a36af35b7ee0
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+source-git-commit: 26805f8f9edf3a3a3a38c4cb954e07378f13920d
 workflow-type: tm+mt
-source-wordcount: '933'
-ht-degree: 1%
+source-wordcount: '905'
+ht-degree: 0%
 
 ---
 
@@ -52,7 +52,7 @@ ht-degree: 1%
 
 ### 步骤2：标识要包含在[！DNL]中的元素 [!DNL Marketo Engage]]文档和 [!DNL Changelogs]
 
-格式因基于云的平台和共享文档而异。 您可以设计符合组织需求的格式。 [以下是一个简单的文档和更改日志Excel模板](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx)，其中包含您可以开始使用的重要元素。 其中包括：
+格式因基于云的平台和共享文档而异。 您可以设计符合组织需求的格式。 [以下是一个简单的文档和更改日志Excel模板](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx) 涵盖您可以开始使用的重要元素。 其中包括：
 
 * 文档
    * 项目模板名称
@@ -92,9 +92,9 @@ ht-degree: 1%
 
 安排定期审查文档，以确保文档保持准确和最新。 在繁忙的时刻很容易被忽视。 主动在日历上设置提醒，以确保您的团队定期进行更新，以反映操作程序中的任何更改或优化。
 
-## 展望未来
+## 接下来呢？
 
-通过下载此内容开始使用 [简单模板](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx)。
+通过下载此内容开始使用 [简单模板](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx).
 
 按照上述步骤开发您的治理指南和文档。 在处理过程中，请牢记以下经验法则：
 
