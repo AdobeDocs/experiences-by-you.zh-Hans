@@ -2,10 +2,10 @@
 user-guide-title: 您的体验
 user-guide-description: Adobe 客户生成内容
 breadcrumb-title: 您的体验
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+source-git-commit: ab1af7dd740f61ba1c7bf8c2ad44826a3a013fc3
 workflow-type: tm+mt
-source-wordcount: '288'
-ht-degree: 75%
+source-wordcount: '293'
+ht-degree: 64%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 75%
 
 + [!DNL Analytics] 由您提供 {#analytics}
    + [概述](/help/analytics/overview.md)
-   + [!DNL Analytics] 简介{#intro-to-analytics}
+   + 简介 [!DNL Analytics] {#intro-to-analytics}
       + 从第三方平台转换 {#transitioning-from-other-platforms}
          + [转换自 [!DNL Google Analytics]](/help/analytics/intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Analysis Workspace {#analysis-workspace}
@@ -26,7 +26,7 @@ ht-degree: 75%
          + [通过直方图解锁洞察](/help/analytics/analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
          + [不仅仅是文字 – 使用文本可视化和描述](/help/analytics/analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.md)
          + [使用同类群组分析来理解客户行为](/help/analytics/analysis-workspace/visualizations/use-cohort-analysis-to-understand-customer-behavior.md)
-      + 区段 {#segmentation}
+      + 分段{#segmentation}
          + [构建客户历程区段](/help/analytics/analysis-workspace/segmentation/building-customer-journey-segments.md)
          + [构建客户历程区段 — 第2部分](/help/analytics/analysis-workspace/segmentation/building-customer-journey-segments-part-two.md)
          + [区段生成器与快速区段的区别](/help/analytics/analysis-workspace/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
@@ -34,7 +34,7 @@ ht-degree: 75%
       + 量度 {#metrics}
          + [从 Excel 转为使用计算指标](/help/analytics/analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
          + [使用计算量度将您的数据分析提升到新的水平](../analytics/analysis-workspace/metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
-      + 简化和共享项目 {#curate-and-share-projects}
+      + 策划和共享项目 {#curate-and-share-projects}
          + [释放仅供查看共享的力量](/help/analytics/analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
       + 提示和技巧 {#tips-and-tricks}
          + [右键单击“提示和技巧”获得更高效的工作流](/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
@@ -63,24 +63,26 @@ ht-degree: 75%
    + [!DNL Campaign Standard] {#campaign-standard}
       + [营销人员疑难解答](/help/campaign/acs/troubleshooting-for-marketers.md)
    + 战略与思维领导力{#strategy}
-      + [营销人员借助  [!DNL Adobe Campaign]  取得成功的十大最佳实践](/help/campaign/10-best-practices-for-marketers.md)
-+ 您的 Experience Manager 真实体验 {#experience-manager}
+      + [的十个最佳实践 [!DNL Adobe Campaign] 营销人员的成功](/help/campaign/10-best-practices-for-marketers.md)
++ 由您Experience Manager {#experience-manager}
    + [概述](/help/experience-manager/overview.md)
    + AEM Sites {#sites}
       + [AEM Sites成熟度评估](/help/experience-manager/sites/expert-resources/maturity-assessment.md)
       + 最佳实践 {#sites-best-practices}
          + [AEM Champion提示和技巧：第1场](/help/experience-manager/sites/expert-resources/champion-tips-1.md)
          + [AEM Champion提示和技巧：第2场讲座](/help/experience-manager/sites/expert-resources/champion-tips-2.md)
-   + AEM as a Cloud Service {#cloud-service}
+   + AEMas a Cloud Service {#cloud-service}
       + [[!DNL Cloud Manager] 入门剧本](/help/experience-manager/cloud-service/expert-resources/aem-champions/onboarding-playbook.md)
       + [[!DNL Cloud Manager] 环境类型](/help/experience-manager/cloud-service/expert-resources/aem-champions/environment-types.md)
-      + [[!DNL Cloud Manager] UI](/help/experience-manager/cloud-service/expert-resources/aem-champions/cloud-manager-ui.md)
+      + [[!DNL Cloud Manager] 用户界面](/help/experience-manager/cloud-service/expert-resources/aem-champions/cloud-manager-ui.md)
+      + 最佳实践 {#cloud-manager-best-practices}
+         + [在Cloud Manager中使用日志](/help/experience-manager/cloud-service/expert-resources/aem-champions/cloud-manager-using-logs.md)
 + [!DNL Marketo Engage] 由您提供 {#marketo-engage}
    + [概述](/help/marketo/overview.md)
    + 基础知识 {#fundamentals}
       + [在UI中导航](/help/marketo/fundamentals/ui-navigation.md)
       + [审核继承的实例 — 教程](https://experienceleague.adobe.com/docs/experiences-by-you/auditing-an-inherited-instance/overview.html)
-   + 项目和营销策划 {#programs-and-campaigns}
+   + 项目和活动 {#programs-and-campaigns}
       + [电子邮件程序](/help/marketo/programs/email-programs.md)
       + [参与计划](/help/marketo/programs/engagement-programs.md)
    + 报告和分析 {#reporting-and-analytics}
