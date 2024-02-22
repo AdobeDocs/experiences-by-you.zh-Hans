@@ -2,10 +2,10 @@
 user-guide-title: 您的体验
 user-guide-description: Adobe 客户生成内容
 breadcrumb-title: 您的体验
-source-git-commit: ab1af7dd740f61ba1c7bf8c2ad44826a3a013fc3
+source-git-commit: 90e94736bc5f29829211cb954f6b9d54684c8eb7
 workflow-type: tm+mt
-source-wordcount: '293'
-ht-degree: 64%
+source-wordcount: '297'
+ht-degree: 63%
 
 ---
 
@@ -38,6 +38,7 @@ ht-degree: 64%
          + [释放仅供查看共享的力量](/help/analytics/analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
       + 提示和技巧 {#tips-and-tricks}
          + [右键单击“提示和技巧”获得更高效的工作流](/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
+         + [#Tags — 您的个人助理](/help/analytics/analysis-workspace/tips-and-tricks/tags-your-personal-assistant.md)
    + 管理 {#administration}
       + 关键管理技巧 {#key-admin-skills}
          + [创建赋权社区](/help/analytics/administration/key-admin-skills/empowered-community.md)
