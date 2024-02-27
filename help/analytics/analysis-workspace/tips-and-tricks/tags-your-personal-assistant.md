@@ -9,7 +9,7 @@ duration: 36000
 last-substantial-update: 2024-02-22T00:00:00Z
 jira: KT-14963
 thumbnail: KT-14963.jpeg
-source-git-commit: 718a4fcd0ae06f544d1a78926b0c4d13cda8808a
+source-git-commit: e63d6cf68e70622ddcdbe92064d84ad72ca483c3
 workflow-type: tm+mt
 source-wordcount: '1427'
 ht-degree: 0%
@@ -50,7 +50,7 @@ _了解#TAGS如何简化您的数字分析，作为个人助理高效地找到�
 
 从第一天开始，这就是游戏的规则，但如果我们能改变规则呢？
 
-事实上，如果我们能创建自己的个人助理来永久地转换这些角色呢？
+事实上，如果我们能创建自己的个人助理，来彻底改变这些规则呢？
 
 说真的，我们在这里讨论的是TAGS  没错!!  这是我们的朋友，这个标签，以前叫“号码”和“井号”，就像我们在电话上看到的一样。  我们这些音乐家甚至称之为“锐利的”。
 
