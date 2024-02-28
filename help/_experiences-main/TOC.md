@@ -2,10 +2,10 @@
 user-guide-title: 您的体验
 user-guide-description: Adobe 客户生成内容
 breadcrumb-title: 您的体验
-source-git-commit: 90e94736bc5f29829211cb954f6b9d54684c8eb7
+source-git-commit: bd723c4ed43fb4d11ae21cb70bba6202bac94266
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 63%
+source-wordcount: '304'
+ht-degree: 61%
 
 ---
 
@@ -78,6 +78,7 @@ ht-degree: 63%
       + [[!DNL Cloud Manager] 用户界面](/help/experience-manager/cloud-service/expert-resources/aem-champions/cloud-manager-ui.md)
       + 最佳实践 {#cloud-manager-best-practices}
          + [在Cloud Manager中使用日志](/help/experience-manager/cloud-service/expert-resources/aem-champions/cloud-manager-using-logs.md)
+         + [迁移到AEMas a Cloud Service](/help/experience-manager/cloud-service/expert-resources/aem-champions/migration.md)
 + [!DNL Marketo Engage] 由您提供 {#marketo-engage}
    + [概述](/help/marketo/overview.md)
    + 基础知识 {#fundamentals}
