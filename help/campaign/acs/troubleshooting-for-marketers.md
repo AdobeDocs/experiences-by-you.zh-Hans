@@ -10,15 +10,14 @@ doc-type: Article
 last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
-exl-id: 24a6815b-52d1-4bd6-9d27-522720a91f83
-source-git-commit: 35e62c4f1a093b4f755e175e9b553a43887e4292
+source-git-commit: a27a5538a7009d00d01227865ced4c5039147496
 workflow-type: tm+mt
-source-wordcount: '722'
-ht-degree: 3%
+source-wordcount: '711'
+ht-degree: 2%
 
 ---
 
-# 营销人员疑难解答：5 种常见的工作流和投放错误
+# 营销人员故障诊断：5个常见的工作流和交付错误
 
 通过： [苏拉杰·帕特拉](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}，高级顾问， Meijer
 
@@ -73,7 +72,7 @@ ht-degree: 3%
 
 ![通用字段数据集错误](/help/_assets/kt-13256/dataset-error.png)
 
-**解决方案:**
+**解决方案：**
 
 可通过两种方式解决此错误：
 
@@ -90,7 +89,7 @@ ht-degree: 3%
 **错误代码：**
 `XTK-170036 Unable to parse expression 'i__name'`
 
-**原因:**
+**原因：**
 
 在以下情况下可能会出现失败点： **扩充活动**. 下面显示了其中最常用的一种方法。
 
@@ -98,7 +97,7 @@ ht-degree: 3%
 
 在活动中手动编辑表达式名称时，会发生这种情况。 该图显示了表达式修改自 `name `到 `i__name`.
 
-**解决方案:**
+**解决方案：**
 
 您可以通过三种方式解决此错误：
 
