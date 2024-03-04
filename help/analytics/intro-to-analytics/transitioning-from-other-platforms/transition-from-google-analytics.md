@@ -7,11 +7,10 @@ role: User
 level: Beginner
 kt: 9830
 thumbnail: 34749.jpg
-exl-id: b2be6081-a1c0-4435-affb-454ed5a74662
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+source-git-commit: c6c9e5b19c601592811151450aecd8dfdd084ff6
 workflow-type: tm+mt
-source-wordcount: '3290'
-ht-degree: 76%
+source-wordcount: '3323'
+ht-degree: 72%
 
 ---
 
@@ -31,7 +30,7 @@ ht-degree: 76%
 
 ## 2. 界面
 
-当人们比较 [!DNL Adobe Analytics] 和Google [!DNL Analytics]，则他们会注释 [!DNL Adobe]的界面起初令人望而却步。 事实确实是这样的，但信不信由您，这是一个优势而非弱点。[!DNL Adobe] 提供了广泛的工具，实现了更灵活的数据可视化，让您可以更自由地根据需求进行构建。
+当人们比较 [!DNL Adobe Analytics] 和Google [!DNL Analytics]，则他们会注释 [!DNL Adobe]的界面起初令人望而却步。 事实确实是这样的，但信不信由您，这是一个优势而非弱点。[!DNL Adobe] 提供了范围广泛的工具，实现了更灵活的数据可视化，让您可以更自由地根据需求进行构建。
 
 我们来了解一下“原位”报告。
 
@@ -43,7 +42,7 @@ ht-degree: 76%
 
 ##### 2.1.1.1.工作区/自定义设置主屏幕([!DNL Adobe Analytics])
 
-[!DNL Adobe Analytics] 并未打算为所有用户创建在登录时看到的预建报表。默认主页会将用户转到工作区登录屏幕，其中向每位用户显示了他们自己已创建或者已经与他们分享的所有报告。此外，每位用户能够自行选择将任意这些报告设置为其主屏幕。
+[!DNL Adobe Analytics] 不会假定创建预先构建的报告以供所有用户登录时查看。 默认主页会将用户转到工作区登录屏幕，其中向每位用户显示了他们自己已创建或者已经与他们分享的所有报告。此外，每位用户能够自行选择将任意这些报告设置为其主屏幕。
 
 ![workspace-create-project](assets/ga-to-aa_1.png)
 
@@ -55,7 +54,7 @@ ht-degree: 76%
 
 
 
-##### 2.1.1.2. 主屏幕洞察 (Google [!DNL Analytics])
+##### 2.1.1.2.主屏幕分析(Google) [!DNL Analytics])
 
 * Google [!DNL Analytics] 主屏幕为您提供了一些预建的可视化图表。 其中涵盖的内容如下：
 * 过去七天内的用户数、会话数、跳出率和会话持续时间
@@ -158,7 +157,7 @@ Google和 [!DNL Adobe] 有一些可导航的报表，这些报表是基于维度
 
 ##### 2.1.3.1。 [!DNL Adobe Analytics] 报表
 
-[!DNL Adobe Analytics] 也有一个“报告”分区，但为了支持 Analysis Workspace，该分区正在逐步取消。 事实上, 由于“工作区”是一个功能更强大的工具，因此该界面已宣布终止使用。 这些表中的大多数都可以更容易地构建和修改。[!DNL Adobe]的章节划分得更加细致，这可能会让人望而生畏：
+[!DNL Adobe Analytics] 还有一个报表部分，但为了支持Analysis Workspace，该部分正在逐步取消。 事实上, 由于“工作区”是一个功能更强大的工具，因此该界面已宣布终止使用。 这些表中的大多数都可以更容易地构建和修改。[!DNL Adobe]的章节划分得更加细致，这可能会让人望而生畏：
 
 ![analytics-site-metrics](assets/ga-to-aa_6.png)
 
@@ -174,7 +173,7 @@ Google和 [!DNL Adobe] 有一些可导航的报表，这些报表是基于维度
 
 路径在“工作区”中不可用。 “工作区”有一个流程图，您可以在其中查看单个页面/值的输入和输出流。 相比之下，路径允许您查看网站中使用的最常见路径。 默认情况下，“页面”是为您设置的第一个路径报告。但是，您可以为自定义道具（如“页面类型”值）启用此功能。 您可以查看页面类型中的路径。我个人很喜欢的“路径”另一点是呈现信息的简单方式... 工作区中的流量图（具体取决于您要查看的信息数量）可能会让人不知所措。我建议您这两者都试试… 根据您尝试达成的目标，它们都可能会有用途和价值。需要注意的是，任何维度都可以在“流”中使用，而“路径“必须在“管理”面板的 Prop 上设置。
 
-流量源， [!DNL Campaign]和营销渠道报表都类似于Google产品中的客户获取报表。 流量源侧重于实际反向链接， [!DNL Campaign]s重点关注您的 [!DNL Campaign] 代码和营销渠道还侧重于 [!DNL Campaign] 代码，但也会应用您确定的如何处理信息的额外逻辑。 [!DNL Adobe] 在如何设置规则方面提供了更多自主权。 相比之下，Google 为您设置很多规则，这是思维的转变。 默认情况下，Google的归因 [!DNL Campaign] 密码是六个月。 [!DNL Adobe]默认情况下，的归因设置为一周。 此项可以在您的管理设置中更改，但在工作区中，您实际上可在任意维度上应用自定义的归因，这为您提供了更大的“实时”灵活性。
+流量源， [!DNL Campaign]和营销渠道报表都类似于Google产品中的客户获取报表。 流量源侧重于实际反向链接， [!DNL Campaign]s重点关注您的 [!DNL Campaign] 代码和营销渠道还侧重于 [!DNL Campaign] 代码，但也会应用您确定的如何处理信息的额外逻辑。 [!DNL Adobe] 在如何设置规则方面提供了更多自由。 相比之下，Google 为您设置很多规则，这是思维的转变。 默认情况下，Google的归因 [!DNL Campaign] 密码是六个月。 [!DNL Adobe]默认情况下，的归因设置为一周。 此项可以在您的管理设置中更改，但在工作区中，您实际上可在任意维度上应用自定义的归因，这为您提供了更大的“实时”灵活性。
 
 “访客维系”和“访客资料”报表类似于Google中的“受众”报表 [!DNL Analytics]. 维系更多地侧重于回访频率，而访客个人资料更多地侧重于用户的地理位置和技术。
 
@@ -268,10 +267,10 @@ Report Builder是Microsoft® Excel的一个插件，允许您创建与 [!DNL Ado
 
 在本指南之外，还有许多资源可帮助您改进策略：
 
-* [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/#home) – 包含教程、视频、文档和社区论坛
-* [[!DNL Adobe]  用户组](https://analytics-augs.adobe.com/) – 一个社区活动中心，帮助用户相互联系并改进其实施。
+* [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/#home)  — 包含教程、视频、文档和社区论坛
+* [[!DNL Adobe] 用户组](https://analytics-augs.adobe.com/)  — 社区开展活动的中心，帮助用户相互联系并改进其实施。
 * [[!DNL Adobe Analytics] 用户组YouTube渠道](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA)  — 无法生成 [!DNL Adobe Analytics] 用户组会话？ 重新观看以前在全球范围内的用户组会议，以了解更多关于您的同行如何使用该工具的信息。
-* [Measure Chat Slack 频道](https://www.measure.chat/)[!DNL Adobe Analytics] – 与世界各地的 用户联系，分享行业知识，向同行提问，并加入以量度为重点的兴趣小组。
+* [Measure ChatSlack频道](https://www.measure.chat/)  — 连接到 [!DNL Adobe Analytics] ，分享行业知识，向同行提问，并加入以量度为重点的兴趣小组。
 * 等等！
 
 ## 作者
