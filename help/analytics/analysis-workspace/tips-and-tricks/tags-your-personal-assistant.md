@@ -9,7 +9,7 @@ duration: 36000
 last-substantial-update: 2024-02-22T00:00:00Z
 jira: KT-14963
 thumbnail: KT-14963.jpeg
-source-git-commit: e63d6cf68e70622ddcdbe92064d84ad72ca483c3
+source-git-commit: 9be76d73344188d93b826d9195c10e4ee8cc3957
 workflow-type: tm+mt
 source-wordcount: '1427'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 ---
 
 
-# #Tags — 您的个人助理
+# 标记 — 您的个人助理
 
 _了解#TAGS如何简化您的数字分析，作为个人助理高效地找到您需要的内容。 Adobe Analytics Champion的Jeff Bloomer分享了关于最大程度地发挥该工具的潜力以造福您的专家见解。_
 
