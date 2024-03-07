@@ -10,7 +10,7 @@ doc-type: Article
 last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
-source-git-commit: a27a5538a7009d00d01227865ced4c5039147496
+source-git-commit: 0fc67f48deb78d5a66d485093d1837cbeee7c4d4
 workflow-type: tm+mt
 source-wordcount: '711'
 ht-degree: 2%
@@ -22,7 +22,6 @@ ht-degree: 2%
 通过： [苏拉杰·帕特拉](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}，高级顾问， Meijer
 
 作为高级工程师和客户专家，负责 [!DNL Adobe] Experience Cloud过去五年的产品，我使企业用户能够 [迈耶](https://www.meijer.com/){target="_blank"}成立于1934年的美国超级中心连锁企业，与ACS一起开展复杂的营销和交易活动。 我参与的一些项目包括自定义营销活动，用于存储与集成的个性化选件和订单详细信息 [!DNL Adobe] 针对区段提取的Audience Manager和客户洞察。
-
 
 在使用ACS期间，我遇到一些错误，解决这些错误会非常耗时且令人沮丧。 了解最常见的错误有助于更快地解决问题，并提高工作效率。 下面是我的疑难解答提示，可帮助您在出现类似错误时有效地解决它们。
 
