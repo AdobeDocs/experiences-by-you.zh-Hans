@@ -2,10 +2,10 @@
 user-guide-title: 您的体验
 user-guide-description: Adobe 客户生成内容
 breadcrumb-title: 您的体验
-source-git-commit: ba46ad10c20184083076950883f169df09ca7778
+source-git-commit: 1b241ca79816dde59641bbdfc05b35041862d145
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 59%
+source-wordcount: '323'
+ht-degree: 58%
 
 ---
 
@@ -31,6 +31,7 @@ ht-degree: 59%
          + [构建客户历程区段 — 第2部分](/help/analytics/analysis-workspace/segmentation/building-customer-journey-segments-part-two.md)
          + [区段生成器与快速区段的区别](/help/analytics/analysis-workspace/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
          + [现在只需等待一个区段...使用分段来发现新的见解](/help/analytics/analysis-workspace/segmentation/segmentation-to-discover-new-insights.md)
+         + [幕后的魔法 — 复杂区段](/help/analytics/analysis-workspace/segmentation/the-magic-behind-the-curtain-complex-segments.md)
       + 量度 {#metrics}
          + [从 Excel 转为使用计算指标](/help/analytics/analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
          + [使用计算量度将您的数据分析提升到新的水平](../analytics/analysis-workspace/metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
