@@ -10,7 +10,7 @@ last-substantial-update: 2024-03-25T00:00:00Z
 jira: KT-15200
 thumbnail: KT-15200.jpeg
 exl-id: 1da85e88-64b3-49e5-9bf6-76126ac9f6ad
-source-git-commit: 59dbe503fb179ed24ec8380f0d3e853deec82a7b
+source-git-commit: 1e9e57c00adb37a01e42cbbb82e62918e7543b19
 workflow-type: tm+mt
 source-wordcount: '4102'
 ht-degree: 2%
@@ -202,7 +202,7 @@ _揭示复杂数据分段的复杂性，探索排除项、容器和归因模型�
 
 首先，我显示的不是每日的细分，而是页面细分，因为我认为这将有助于更好地说明这两个区段。
 
-<table border="0">
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">前三列（页面查看次数、访问次数和独特访客）未分段，因此会显示网站内的所有页面。 请注意，我此处不包括订单，因为订单是根据操作进行跟踪的，因此不属于页面维度范围。</td>
         <td style="border: 0;">&lt;img src="assets/segment-example-3/segment3c-comparison-table-detail1.png" width="352"
@@ -210,7 +210,7 @@ _揭示复杂数据分段的复杂性，探索排除项、容器和归因模型�
     </tr>
 </table>
 
-<table border="0">
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">接下来，我将展示简单区段的结果，仅查看 <strong>点击量</strong> 指定页面上的任何其他页面。 您会注意到，划分中的其他页面都会按预期生成0。</td>
         <td style="border: 0;">&lt;img src="assets/segment-example-3/segment3c-comparison-table-detail2.png" width="352"
@@ -218,7 +218,7 @@ _揭示复杂数据分段的复杂性，探索排除项、容器和归因模型�
     </tr>
 </table>
 
-<table border="0">
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">现在，我再来看看一些额外提示，在显示高级区段的结果之前，我使用了另一个简单的“订单存在”区段（在“点击”级别范围内），并将其与独特访客配对。 这将返回在报表时段中生成订单的UV总数，以及点击每个页面的UV...这将有助于更好地说明下一组列。</td>
         <td style="border: 0;">&lt;img src="assets/segment-example-3/segment3c-comparison-table-detail3.png" width="352"
@@ -226,7 +226,7 @@ _揭示复杂数据分段的复杂性，探索排除项、容器和归因模型�
     </tr>
 </table>
 
-<table>
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">最后一组列与我的复杂区段一起栈叠。 包含订单的总体UV与每个页面上的简单“存在订单”区段相匹配，但您会注意到总计存在显着差异；由于此数据集明确将数据集限制为仅允许发出订单并点击页面的访客，因此我明确感兴趣。</td> <td style="border: 0;"><img src="assets/segment-example-3/segment3c-comparison-table-detail4.png" width="352">
         </td>
@@ -333,14 +333,14 @@ _揭示复杂数据分段的复杂性，探索排除项、容器和归因模型�
 
 ![Segment5A-TableComparison](assets/segment-example-5/segment5a-table-comparison.png)
 
-<table>
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">前4列未分段，应易于理解。 请注意，*“登入次数”*基本上是根据访客开始会话的位置计算出的值。 我在此处添加该链接是为了表明它不会返回我们查找的信息，因为用户可以通过多个营销渠道（通过查看社交媒体、进行搜索、单击营销电子邮件等）进入网站。 （全部在同一访问/会话中）。</td> <td style="border: 0;"><img src="assets/segment-example-5/segment5a-table-comparison-detail1.png" width="352">
         </td>
     </tr>
 </table>
 
-<table>
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">下一组列使用“标准点击区段”，基本上查看营销渠道为“付费搜索”的点击。 但是，这将根据营销渠道归因返回所有点击，但不会隔离实际的“付费搜索”点进次数。 因此，这不会返回我们所需的数据。</td> <td style="border: 0;"><img src="assets/segment-example-5/segment5a-table-comparison-detail2.png" width="352">
         </td>
@@ -350,7 +350,7 @@ _揭示复杂数据分段的复杂性，探索排除项、容器和归因模型�
 
 ![Segment5A-PaidSearchHit](assets/segment-example-5/segment5a-paid-search-hit.png)
 
-<table>
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">现在，下面两组数据看起来相同，实际上，它们将以两种不同的方式返回相同的数据。 但现在，我特别关注的是 <i>实例</i> 营销渠道的位置 <strong>设置</strong> 到“付费搜索”。</td> <td style="border: 0;"><img src="assets/segment-example-5/segment5a-table-comparison-detail3.png" width="352">
         </td>
