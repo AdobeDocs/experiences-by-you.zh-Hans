@@ -2,10 +2,10 @@
 user-guide-title: 您的体验
 user-guide-description: Adobe 客户生成内容
 breadcrumb-title: 您的体验
-source-git-commit: 56f6d47f6176aaa01343e4f807afbd54b2d49e08
+source-git-commit: 75b14fc5c051bffd8110a1e31f72bfdc965f9cff
 workflow-type: tm+mt
-source-wordcount: '333'
-ht-degree: 56%
+source-wordcount: '341'
+ht-degree: 55%
 
 ---
 
@@ -37,6 +37,7 @@ ht-degree: 56%
          + [使用计算量度将您的数据分析提升到新的水平](../analytics/analysis-workspace/metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
       + 策划和共享项目 {#curate-and-share-projects}
          + [释放仅供查看共享的力量](/help/analytics/analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
+         + [释放分析洞察力；利用注释的力量](../analytics/analysis-workspace/curate-and-share-projects/harnessing-the-power-of-annotations.md)
       + 提示和技巧 {#tips-and-tricks}
          + [右键单击“提示和技巧”获得更高效的工作流](/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
          + [#Tags — 您的个人助理](/help/analytics/analysis-workspace/tips-and-tricks/tags-your-personal-assistant.md)
