@@ -10,7 +10,7 @@ duration: 72000
 last-substantial-update: 2024-04-25T00:00:00Z
 jira: KT-15338
 thumbnail: KT-15338.jpeg
-source-git-commit: 35d2ea7d88d2c43b79730c700e73e539c5f0d8ac
+source-git-commit: 07b28edade263aa3c85348716bd45df4a053e239
 workflow-type: tm+mt
 source-wordcount: '1640'
 ht-degree: 0%
@@ -112,5 +112,4 @@ ht-degree: 0%
 Gitai Ben-Ammi，Accenture业务架构副经理
 
 Adobe Analytics 负责人
-
 
