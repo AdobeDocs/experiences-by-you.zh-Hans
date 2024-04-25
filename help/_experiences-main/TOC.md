@@ -2,10 +2,10 @@
 user-guide-title: 您的体验
 user-guide-description: Adobe 客户生成内容
 breadcrumb-title: 您的体验
-source-git-commit: 41ca454dc8526d42848033ef30036e200b8adc99
+source-git-commit: d3772a4fd4e5e2d26bc637370c7ba7d29336ccb4
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 55%
+source-wordcount: '350'
+ht-degree: 53%
 
 ---
 
@@ -18,47 +18,48 @@ ht-degree: 55%
    + [概述](/help/analytics/overview.md)
    + 简介 [!DNL Analytics] {#intro-to-analytics}
       + 从第三方平台转换 {#transitioning-from-other-platforms}
-         + [转换自 [!DNL Google Analytics]](/help/analytics/intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
+         + [转换自 [!DNL Google Analytics]](../analytics/intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Analysis Workspace {#analysis-workspace}
       + 使用面板 {#using-panels}
-         + [了解归因面板和回顾时间范围](/help/analytics/analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
+         + [了解归因面板和回顾时间范围](../analytics/analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
       + 可视化 {#visualizations}
-         + [通过直方图解锁洞察](/help/analytics/analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
-         + [不仅仅是文字 – 使用文本可视化和描述](/help/analytics/analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.md)
-         + [使用同类群组分析来理解客户行为](/help/analytics/analysis-workspace/visualizations/use-cohort-analysis-to-understand-customer-behavior.md)
+         + [通过直方图解锁洞察](../analytics/analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
+         + [不仅仅是文字 – 使用文本可视化和描述](../analytics/analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.md)
+         + [使用同类群组分析来理解客户行为](../analytics/analysis-workspace/visualizations/use-cohort-analysis-to-understand-customer-behavior.md)
       + 分段{#segmentation}
-         + [构建客户历程区段](/help/analytics/analysis-workspace/segmentation/building-customer-journey-segments.md)
-         + [构建客户历程区段 — 第2部分](/help/analytics/analysis-workspace/segmentation/building-customer-journey-segments-part-two.md)
-         + [区段生成器与快速区段的区别](/help/analytics/analysis-workspace/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
-         + [现在只需等待一个区段...使用分段来发现新的见解](/help/analytics/analysis-workspace/segmentation/segmentation-to-discover-new-insights.md)
-         + [幕后的魔法 — 复杂区段](/help/analytics/analysis-workspace/segmentation/the-magic-behind-the-curtain-complex-segments.md)
+         + [构建客户历程区段](../analytics/analysis-workspace/segmentation/building-customer-journey-segments.md)
+         + [构建客户历程区段 — 第2部分](../analytics/analysis-workspace/segmentation/building-customer-journey-segments-part-two.md)
+         + [区段生成器与快速区段的区别](../analytics/analysis-workspace/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
+         + [现在只需等待一个区段...使用分段来发现新的见解](../analytics/analysis-workspace/segmentation/segmentation-to-discover-new-insights.md)
+         + [幕后的魔法 — 复杂区段](../analytics/analysis-workspace/segmentation/the-magic-behind-the-curtain-complex-segments.md)
       + 量度 {#metrics}
-         + [从 Excel 转为使用计算指标](/help/analytics/analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
+         + [从 Excel 转为使用计算指标](../analytics/analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
          + [使用计算量度将您的数据分析提升到新的水平](../analytics/analysis-workspace/metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
       + 策划和共享项目 {#curate-and-share-projects}
-         + [释放仅供查看共享的力量](/help/analytics/analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
+         + [释放仅供查看共享的力量](../analytics/analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
          + [释放分析洞察力；利用注释的力量](../analytics/analysis-workspace/curate-and-share-projects/harnessing-the-power-of-annotations.md)
       + 提示和技巧 {#tips-and-tricks}
-         + [右键单击“提示和技巧”获得更高效的工作流](/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
-         + [#Tags — 您的个人助理](/help/analytics/analysis-workspace/tips-and-tricks/tags-your-personal-assistant.md)
+         + [右键单击“提示和技巧”获得更高效的工作流](../analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
+         + [#Tags — 您的个人助理](../analytics/analysis-workspace/tips-and-tricks/tags-your-personal-assistant.md)
    + 管理 {#administration}
       + 关键管理技巧 {#key-admin-skills}
-         + [创建赋权社区](/help/analytics/administration/key-admin-skills/empowered-community.md)
-         + [简化培训环节并缩短用户的培训时间](/help/analytics/administration/key-admin-skills/simplify-training-users.md)
-         + [获得话语权](/help/analytics/administration/key-admin-skills/gaining-a-seat-at-the-table.md)
-         + [用数据讲述有影响力的故事](/help/analytics/administration/key-admin-skills/telling-impactful-stories-with-data.md)
-         + [正在转换 [!DNL Adobe Analytics] 以非技术方式使用的技术语言](/help/analytics/administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
-         + [跨职能工作](/help/analytics/administration/key-admin-skills/working-cross-functionally.md)
+         + [创建赋权社区](../analytics/administration/key-admin-skills/empowered-community.md)
+         + [简化培训环节并缩短用户的培训时间](../analytics/administration/key-admin-skills/simplify-training-users.md)
+         + [获得话语权](../analytics/administration/key-admin-skills/gaining-a-seat-at-the-table.md)
+         + [用数据讲述有影响力的故事](../analytics/administration/key-admin-skills/telling-impactful-stories-with-data.md)
+         + [正在转换 [!DNL Adobe Analytics] 以非技术方式使用的技术语言](../analytics/administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
+         + [跨职能工作](../analytics/administration/key-admin-skills/working-cross-functionally.md)
       + 管理员提示和最佳实践{#admin-tips}
-         + [下载实施剧本](/help/analytics/administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
-         + [创建标准的命名惯例](/help/analytics/administration/admin-tips/create-standardized-naming-conventions.md)
-         + [创建标准化代码模板](/help/analytics/administration/admin-tips/create-standardized-code-templates.md)
-         + [创建基本视频和培训](/help/analytics/administration/admin-tips/create-basic-videos-and-training.md)
-         + [创建内部 [!DNL Adobe Analytics] 站点](/help/analytics/administration/admin-tips/create-an-internal-adobe-analytics-site.md)
-         + [使用全局报告包](/help/analytics/administration/admin-tips/use-a-global-report-suite.md)
-         + [创建新闻和公告项目](/help/analytics/administration/admin-tips/create-a-news-and-announcements-project.md)
-         + [用高管摘要仪表板促进取得成功](/help/analytics/administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
-         + [创建操作仪表板](/help/analytics/administration/admin-tips/create-operational-dashboards.md)
+         + [下载实施剧本](../analytics/administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
+         + [创建标准的命名惯例](../analytics/administration/admin-tips/create-standardized-naming-conventions.md)
+         + [创建标准化代码模板](../analytics/administration/admin-tips/create-standardized-code-templates.md)
+         + [创建基本视频和培训](../analytics/administration/admin-tips/create-basic-videos-and-training.md)
+         + [创建内部 [!DNL Adobe Analytics] 站点](../analytics/administration/admin-tips/create-an-internal-adobe-analytics-site.md)
+         + [使用全局报告包](../analytics/administration/admin-tips/use-a-global-report-suite.md)
+         + [创建新闻和公告项目](../analytics/administration/admin-tips/create-a-news-and-announcements-project.md)
+         + [用高管摘要仪表板促进取得成功](../analytics/administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
+         + [创建操作仪表板](../analytics/administration/admin-tips/create-operational-dashboards.md)
+         + [构建数据文化和更好的解决方案设计参考](../analytics/administration/admin-tips/better-sdr.md)
 + [!DNL Campaign] 由您提供 {#campaign}
    + [概述](/help/campaign/overview.md)
    + [!DNL Campaign Classic v7] {#campaign-classic-v7}
