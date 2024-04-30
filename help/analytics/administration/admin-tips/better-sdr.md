@@ -10,13 +10,13 @@ duration: 72000
 last-substantial-update: 2024-04-25T00:00:00Z
 jira: KT-15338
 thumbnail: KT-15338.jpeg
-source-git-commit: 07b28edade263aa3c85348716bd45df4a053e239
+exl-id: 99fcf68f-5698-4270-9055-ab224e6323a1
+source-git-commit: b3b98aee5ee23e323a9bc762c673700b02366f4c
 workflow-type: tm+mt
 source-wordcount: '1640'
 ht-degree: 0%
 
 ---
-
 
 # 构建数据文化和更好的解决方案设计参考
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 ***预览仪表板***
 
 1. 以“漏斗图”为指南，创建模拟仪表板。
-1. 每个漏斗应有一个总体视图，如执行摘要功能板和功能板。
+1. 应有一个总体视图，例如 [执行摘要仪表板](driving-success-with-executive-summary-dashboards.md)、和功能板进行标识。
 1. 还有一些更加特定于您的网站或应用程序，例如产品性能或内容性能。
 1. 分发给相关利益相关者并获得设计的反馈。
 1. 进行所请求的任何更新，如果需要新量度或维度，请将其添加到您的SDR中。
@@ -112,4 +112,3 @@ ht-degree: 0%
 Gitai Ben-Ammi，Accenture业务架构副经理
 
 Adobe Analytics 负责人
-
