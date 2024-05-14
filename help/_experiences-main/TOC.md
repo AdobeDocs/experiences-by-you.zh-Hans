@@ -2,10 +2,10 @@
 user-guide-title: 您的体验
 user-guide-description: Adobe 客户生成内容
 breadcrumb-title: 您的体验
-source-git-commit: 07b28edade263aa3c85348716bd45df4a053e239
+source-git-commit: 3e7b293813327b3aad362b0e05220a32aa65ea78
 workflow-type: tm+mt
-source-wordcount: '350'
-ht-degree: 53%
+source-wordcount: '358'
+ht-degree: 52%
 
 ---
 
@@ -60,6 +60,8 @@ ht-degree: 53%
          + [用高管摘要仪表板促进取得成功](../analytics/administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
          + [创建操作仪表板](../analytics/administration/admin-tips/create-operational-dashboards.md)
          + [构建数据文化和更好的解决方案设计参考](../analytics/administration/admin-tips/better-sdr.md)
+   + 实施 {#implementation}
+      + [实施Web SDK的战略指南](../analytics/implementation/strategic-guide-to-implementing-web-sdk.md)
 + [!DNL Campaign] 由您提供 {#campaign}
    + [概述](/help/campaign/overview.md)
    + [!DNL Campaign Classic v7] {#campaign-classic-v7}
