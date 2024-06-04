@@ -4,11 +4,12 @@ description: 了解关于成功实施新Marketo Engage实例的基本规划和�
 role: Admin
 level: Beginner
 doc-type: Article
+solution: Marketo Engage
 duration: 0
 last: substantial-update- 2024-05-01
 jira: KT-14808
 thumbnail: KT-14808.jpeg
-source-git-commit: a2b8fac3a88c60246ea6213ca202386c0b604f9d
+source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
 workflow-type: tm+mt
 source-wordcount: '1098'
 ht-degree: 5%

@@ -4,11 +4,12 @@ description: 了解如何通过战略性选择供Marketo Engage使用的基本CR
 role: Admin
 level: Beginner
 doc-type: Article
+solution: Marketo Engage
 duration: 0
 last-substantial-update: 2024-05-04T00:00:00Z
 jira: KT-14811
 thumbnail: KT-14811.jpeg
-source-git-commit: 039b5a6bcc135011132e06c4ee830407389722ba
+source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
 workflow-type: tm+mt
 source-wordcount: '1569'
 ht-degree: 0%

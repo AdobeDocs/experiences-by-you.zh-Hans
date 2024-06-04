@@ -4,11 +4,12 @@ description: 了解如何建立强大的过程来创建和维护您的文档和�
 role: Admin
 level: Beginner
 doc-type: Article
+solution: Marketo Engage
 duration: 0
 last-substantial-update: 2024-03-01T00:00:00Z
 jira: KT-14809
 thumbnail: KT-14809.jpeg
-source-git-commit: f587cf8a54c18017e4c39cffb7496c9c375cf3f7
+source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
 workflow-type: tm+mt
 source-wordcount: '816'
 ht-degree: 0%

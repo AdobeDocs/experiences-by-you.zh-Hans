@@ -4,10 +4,11 @@ description: 快速开始使用Adobe Marketo Engage中的本机对话参与渠�
 role: Admin
 level: Beginner
 doc-type: Article
+solution: Marketo Engage
 duration: 0
 last-substantial-update: 2024-05-23T00:00:00Z
 jira: KT-14814
-source-git-commit: 4ac24e1297287adbd6832030fda5590b696e45ed
+source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
 workflow-type: tm+mt
 source-wordcount: '1409'
 ht-degree: 0%

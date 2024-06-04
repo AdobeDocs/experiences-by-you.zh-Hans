@@ -4,11 +4,12 @@ description: 了解在实施Marketo Engage实例期间有效管理利益相关�
 role: Admin
 level: Beginner
 doc-type: Article
+solution: Marketo Engage
 duration: 0
 last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-13284
 thumbnail: KT-13284.jpeg
-source-git-commit: c09e44da040cfe21a31e39a8968fef5cb80e71ac
+source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
 workflow-type: tm+mt
 source-wordcount: '1712'
 ht-degree: 0%

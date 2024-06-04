@@ -4,11 +4,12 @@ description: Adobe Marketo Engage允许您从头开始构建评分模型。 在�
 role: Admin
 level: Beginner
 doc-type: Article
+solution: Marketo Engage
 duration: 0
 last-substantial-update: 2024-05-04T00:00:00Z
 jira: KT-14810
 thumbnail: KT-14810.jpeg
-source-git-commit: 04c605acb5850abd1f3145ebda75b35c1aaee84e
+source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
 workflow-type: tm+mt
 source-wordcount: '2111'
 ht-degree: 2%
