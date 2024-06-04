@@ -1,16 +1,16 @@
 ---
 cloud: Experience Cloud
-solution: Experience Cloud, Experience Manager, Experience Manager Cloud Manager, Marketo Engage
+solution: Experience Cloud, Experience Manager, Experience Manager Cloud Manager, Marketo Engage, Campaign
 product: experience cloud
 type: Documentation
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/experiences-by-you.zh-Hans
 index: true
 feature-set: Advertising, Analytics, Audience Manager, Campaign, Commerce, Customer Journey Analytics, Experience Cloud Services, Experience Manager, Experience Manager Assets, Experience Manager Cloud Manager, Experience Manager Forms, Experience Manager Guides, Experience Manager Screens, Experience Manager Sites, Experience Platform, Journey Optimizer, Journey Orchestration, Marketo Engage, Workfront
-source-git-commit: 6bdef04562d645bdd6b2c2fb1056355d789aaa1f
+source-git-commit: 6abe2944be03fdb65a1ae26ab216bb1feda28348
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 93%
+source-wordcount: '53'
+ht-degree: 98%
 
 ---
 
