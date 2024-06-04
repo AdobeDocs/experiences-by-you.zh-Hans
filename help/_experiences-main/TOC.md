@@ -2,9 +2,9 @@
 user-guide-title: 您的体验
 user-guide-description: Adobe客户生成的内容
 breadcrumb-title: 您的体验
-source-git-commit: bf02792a81f0b3a4e6580cd4156b9dbb92bda79a
+source-git-commit: fdff1bbb525abf98e8923d6bff327470e09b32a0
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '367'
 ht-degree: 5%
 
 ---
@@ -91,6 +91,7 @@ ht-degree: 5%
    + [概述](/help/marketo/overview.md)
    + 基础知识 {#fundamentals}
       + [在UI中导航](/help/marketo/fundamentals/ui-navigation.md)
+      + [实施新实例的提示和技巧](https://experienceleague.adobe.com/docs/experiences-by-you/implenting-new-instance/overview.html)
       + [审核继承的实例 — 教程](https://experienceleague.adobe.com/docs/experiences-by-you/auditing-an-inherited-instance/overview.html)
    + 项目和活动 {#programs-and-campaigns}
       + [电子邮件程序](/help/marketo/programs/email-programs.md)
