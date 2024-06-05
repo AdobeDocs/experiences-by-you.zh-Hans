@@ -6,10 +6,10 @@ level: Beginner
 doc-type: overview
 solution: Experience Cloud
 exl-id: a3e976a1-8bf1-4c18-b5b5-831367a7e8a0
-source-git-commit: 10bf432c85cabe2f131aad05da42b5b1c0af467f
+source-git-commit: 24c2ee272ab1dcda53e5dfe918125e8542ecfe15
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 13%
+source-wordcount: '173'
+ht-degree: 9%
 
 ---
 
@@ -45,7 +45,7 @@ ht-degree: 13%
   </td>
   <td>
     <a href="/help/marketo/programs/email-programs.md">
-      <img alt="[!DNL Marketo Engage] 电子邮件计划" src="https://video.tv.adobe.com/v/3419440?format=jpeg" />
+      <img alt="[!DNL Marketo Engage] 电子邮件程序" src="https://video.tv.adobe.com/v/3419440?format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/programs/email-programs.md">
@@ -77,5 +77,6 @@ ht-degree: 13%
 
 * [Experience League社区](https://experienceleaguecommunities.adobe.com/)
 * [Experience Cloud 文档](https://experienceleague.adobe.com/docs/)
-* [Experience Cloud 教程](https://experienceleague.adobe.com/docs/home-tutorials.html)
+* [Experience Cloud 教程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hans)
 * [business.adobe.com](https://business.adobe.com)
+
