@@ -8,13 +8,13 @@ solution: Marketo Engage
 duration: 0
 last-substantial-update: 2024-05-23T00:00:00Z
 jira: KT-14814
-source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
+exl-id: 160dfb25-9f54-4dce-a08a-4a8d3c4c5368
+source-git-commit: 80553c5127afda315e97183e0d3b160871352183
 workflow-type: tm+mt
 source-wordcount: '1409'
 ht-degree: 0%
 
 ---
-
 
 # 利用Dynamic Chat设计全渠道对话式营销
 
@@ -119,7 +119,7 @@ ht-degree: 0%
 
 #### 阶段1
 
-构建用于“事件注册”对话框的模板，以供持续营销活动使用。
+1. 构建用于“事件注册”对话框的模板，以供持续营销活动使用。
 
 #### 阶段2
 
