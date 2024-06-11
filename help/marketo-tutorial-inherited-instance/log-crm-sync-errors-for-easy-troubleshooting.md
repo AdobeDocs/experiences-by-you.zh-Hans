@@ -11,16 +11,16 @@ jira: KT-13875
 thumbnail: KT-13875.jpeg
 hide: false
 exl-id: 6a38f5dd-5d25-43d8-a1d3-e75ab396e555
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+source-git-commit: b2e05ff39e065691dda530ed17762a55cf2e6778
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '408'
 ht-degree: 0%
 
 ---
 
 # 记录CRM同步错误以便轻松进行故障排除
 
-作为 [!DNL Marketo Engage] 管理员，检查您的实例是否与CRM保持同步应该是您的关键部分 [每日例程](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}. While the [Notifications section](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"} (在页面的右上角找到 [!DNL Marketo Engage] 界面)，您将在此处开始查找和调查频繁出现的同步问题，这里有一个专业提示，可帮助您以有条理的方式管理实例运行状况。 [!DNL Adobe] Marketo Champion (2019-2022)，Amy Goldfine建议管理员用户保留CRM同步错误的日志，以便更轻松地执行故障排除。
+作为 [!DNL Marketo Engage] 管理员，检查您的实例是否与CRM保持同步应该是您的关键部分 [每日例程](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}. 而 [“通知”部分](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"} (在页面的右上角找到 [!DNL Marketo Engage] 界面)，您将在此处开始查找和调查频繁出现的同步问题，这里有一个专业提示，可帮助您以有条理的方式管理实例运行状况。 [!DNL Adobe] Marketo Champion (2019-2022)，Amy Goldfine建议管理员用户保留CRM同步错误的日志，以便更轻松地执行故障排除。
 
 ![Sync Errors选项卡屏幕截图](/help/marketo-tutorial-inherited-instance/_assets/Marketo_Engage_Admin_Salesforce_Sync_Errors_Tab.png)
 
@@ -42,11 +42,11 @@ ht-degree: 0%
 
 **步骤5：** 记下受错误影响的一个人的电子邮件地址。 这样，您就可以轻松地与CRM管理员引用和讨论错误。
 
-**步骤6：** 在[！DNL]中粘贴指向人员记录的链接 [!DNL Marketo Engage]]和 [!UICONTROL CRM潜在客户/联系人] 该人员的记录。
+**步骤6：** 将链接粘贴到中的人员记录 [!DNL Marketo Engage] 和 [!UICONTROL CRM潜在客户/联系人] 该人员的记录。
 
 **步骤7：** 在最后一列，粘贴错误的实际文本。
 
-## 展望未来
+## 接下来呢？
 
 **识别错误代码：** 要了解错误代码，请查看开发人员文档中的描述 [响应级错误代码表](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes){target="_blank"} 并查找解决错误的典型后续步骤。
 
