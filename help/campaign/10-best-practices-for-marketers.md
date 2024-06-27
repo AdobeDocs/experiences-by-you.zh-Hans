@@ -1,19 +1,19 @@
 ---
-title: 营销人员借助  [!DNL Adobe] [!DNL Campaign] 取得成功的十大最佳实践
+title: 的十个最佳实践 [!DNL Adobe] [!DNL Campaign] 营销人员的成功
 description: 了解十个最佳实践以帮助您 [!DNL Adobe] [!DNL Campaign] 从业者可解锁并加速数字消费者的转型，并为他们的客户带来更好的体验。
 doc-type: article
 solution: Campaign
 feature-set: Campaign
-feature: Personalization, [!DNL Campaign]s, Subscriptions, Deliverability
+feature: Personalization, Campaigns, Subscriptions, Deliverability
 role: User
 level: Beginner
 jira: KT-11772
 last-substantial-update: 2023-01-31T00:00:00Z
 exl-id: add6ed84-892d-4901-9dd2-b0cba0c57290
-source-git-commit: 7bbe86435c683f41509a8cbe6b117b354309644a
+source-git-commit: ec621f6e118292a3f8448c0e21abe8a1284cb10e
 workflow-type: tm+mt
-source-wordcount: '1276'
-ht-degree: 81%
+source-wordcount: '1262'
+ht-degree: 77%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 81%
 
 确保成功使用[！DNL]的第一步 [!DNL Adobe] [!DNL Campaign]]是了解您的工具和客户期望 — 在任何类型的营销中都是如此。 明确阐述并清楚了解用于联系消费者的渠道，知道该何时使用这些渠道以及原因。
 
-[!DNL Adobe][!DNL Campaign] 是一款灵活的工具，允许您以多种方式执行和编排通信。[在每个购买历程中，有半数客户会接触三到五个渠道](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters)。因此，提前了解并规划对使用这些渠道的使用方式对于释放平台的全部潜能并与客户产生共鸣至关重要。
+[!DNL Adobe] [!DNL Campaign] 是一个灵活的工具，允许您以多种方式执行和编排通信。 [在每个购买历程中，有半数客户会接触三到五个渠道](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters)。因此，提前了解并规划对使用这些渠道的使用方式对于释放平台的全部潜能并与客户产生共鸣至关重要。
 
 ## 2. 记录并了解客户数据
 
@@ -50,7 +50,7 @@ I added that second paragraph about 760% revenue and broke up the rest of the se
 
 您和客户一样，每天都会按部就班地工作和生活。发送和编排营销活动时要对应这种节奏。否则，您可能无法联系到客户，因为[发送的邮件中有 85% 不会被打开，98% 不会被点进](https://www.validity.com/resource-center/state-of-email-2021/)。
 
-例如，如果客户习惯在早上通过手机查看是否有合适的商品，那么可以考虑向他们发送促销短信。如果客户习惯在晚上浏览下一个热门趋势，可以考虑发送一封包含促销代码（用于免除运费）的后续电子邮件。在[！DNL中使用热图工具也很重要 [!DNL Campaign]]以跟踪您的工作流和发送何时执行。 协调和推进跨多个品牌的通信可能非常具有挑战性。[重视并了解进行电子邮件营销的节奏、节律和时机](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554)[!DNL Campaign]，这对消息和 实例的整体稳定性和强度来说非常重要。
+例如，如果客户习惯在早上通过手机查看是否有合适的商品，那么可以考虑向他们发送促销短信。如果客户习惯在晚上浏览下一个热门趋势，可以考虑发送一封包含促销代码（用于免除运费）的后续电子邮件。在[！DNL中使用热图工具也很重要 [!DNL Campaign]]以跟踪您的工作流和发送何时执行。 协调和推进跨多个品牌的通信可能非常具有挑战性。[密切关注并了解电子邮件的节奏、节奏和时间](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554) 对报文的整体稳定性和强度不可估量，并且 [!DNL Campaign] 实例。
 
 ## 4.在需要个性化时，使用个性化
 
