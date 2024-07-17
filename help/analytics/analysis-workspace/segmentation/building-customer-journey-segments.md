@@ -1,6 +1,6 @@
 ---
 title: 构建客户历程区段
-description: 了解如何在中创建基于行为的客户历程区段 [!DNL Adobe Analytics] 并通过以下方式改善客户体验 [!DNL Adobe] 请按照此分步指南进行Experience Cloud。
+description: 了解如何在 [!DNL Adobe Analytics] 中创建基于行为的客户历程区段，并通过遵循此分步指南改善客户在 [!DNL Adobe] Experience Cloud中的体验。
 feature-set: Analytics
 feature: Segmentation
 role: User
@@ -12,20 +12,20 @@ thumbnail: KT-13180.jpeg
 exl-id: 34f42d7e-e849-420e-9b3d-f3dcc1882b23
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '1217'
-ht-degree: 1%
+source-wordcount: '1224'
+ht-degree: 0%
 
 ---
 
 # 构建客户历程区段
 
-了解如何在中创建基于行为的客户历程区段 [!DNL Adobe Analytics] 并通过以下方式改善客户体验 [!DNL Adobe] 请按照此分步指南进行Experience Cloud。
+了解如何在[!DNL Adobe Analytics]中创建基于行为的客户历程区段，并通过遵循此分步指南改善客户在[!DNL Adobe]Experience Cloud中的体验。
 
-让我们创建更好的客户历程区段！ 在本系列中，我们将使用 [!DNL Adobe Analytics] 定义基于行为的区段，估计受众规模并跟踪用户移动。 最终，您将能够个性化媒体并改善客户在以下方面的体验： [!DNL Adobe] Experience Cloud。 请记住，这些区段是活动的，应随着您进一步了解客户而更新。 尽管报告可能会带来一些挑战，但请不要担心，我将引导您完成报告！ 我们先创建第一组客户历程区段，从“单次点击奇迹”区段开始。
+让我们创建更好的客户历程区段！ 在此系列中，我们将使用[!DNL Adobe Analytics]来定义基于行为的区段、估计受众规模并跟踪用户移动。 到最后，您将能够个性化媒体并改善客户对[!DNL Adobe]Experience Cloud的体验。 请记住，这些区段是活动的，应随着您进一步了解客户而更新。 尽管报告可能会带来一些挑战，但请不要担心，我将引导您完成报告！ 我们先创建第一组客户历程区段，从“单次点击奇迹”区段开始。
 
-今天，我们将为第一组客户历程区段创建占位符，构建 [!DNL Adobe Analytics] 工作区帮助我们定义区段，并定义我们的第一个区段“单次点击奇迹”。
+今天，我们将为第一组客户历程区段创建占位符，构建一个[!DNL Adobe Analytics]Workspace以帮助我们定义区段，并定义我们的第一个区段“一击奇迹”。
 
-在本系列结束时，您将能够在中创建客户历程区段 [!DNL Adobe Analytics] 基于行为信号。 您将能够估计历程中每个阶段每个受众的大小，并了解用户在这些阶段之间的移动速率。 并且您可以将这些客户历程受众导出到 [!DNL Adobe] Experience Cloud以启用个性化和媒体定位。
+在此系列结束时，您将能够根据行为信号在[!DNL Adobe Analytics]中创建客户历程区段。 您将能够估计历程中每个阶段每个受众的大小，并了解用户在这些阶段之间的移动速率。 并且您可以将这些客户历程受众导出到[!DNL Adobe]Experience Cloud以启用个性化和媒体定位。
 
 每个业务都不一样，这意味着您的客户历程区段看起来将与我的不同。 因此，不要为您的区段规定特定的公式，而是建议一些要查看的内容以及构建这些区段的整体过程。
 
@@ -41,7 +41,7 @@ ht-degree: 1%
 
 * 一次点击奇迹
 * 意识
-* 注意事项
+* 考虑
 * 预订（购买）
 * 保留（管理预订/购买）
 
@@ -49,11 +49,11 @@ ht-degree: 1%
 
 ![意图区段](assets/intent-segments.png)
 
-**接下来，使用访问容器创建访问意图区段，其中占位符定义为“页面查看次数”>= 1。**
+**使用带有页面查看次数>= 1占位符定义的访问容器创建访问意图区段。**
 
 如我们所见，构建这些区段是一个反复的、相互关联的过程。 我将在以后的帖子中描述构建这些区段的过程。
 
-## 访问意图区段数据质量工作区
+## 访问意图区段数据质量Workspace
 
 ![访问意图工作区](assets/visit-intent-workspace.png)
 
@@ -93,18 +93,18 @@ ht-degree: 1%
 
 ![区段定义](assets/segment-def.png)
 
-定义此区段后，您将开始看到您的访问意图工作区成形。
+定义此区段后，您将开始看到您的访问意图Workspace成形。
 
 ![更多区段定义](assets/more-segment-defs.png)
 
-使用构建客户历程区段 [!DNL Adobe Analytics] 是一个富有挑战性但回报丰厚的过程。 通过创建基于行为的区段、估计受众规模并跟踪用户移动，企业可以个性化媒体并改善客户体验。 每个业务都是独一无二的，没有用于创建区段的特定公式，但需要遵循指南和流程。 随着企业进一步了解其客户，应更新区段，这将带来报告挑战。 通过遵循构建访问意图区段的过程，企业可以改善整体客户体验。
+使用[!DNL Adobe Analytics]构建客户历程区段是一个具有挑战性但很有价值的过程。 通过创建基于行为的区段、估计受众规模并跟踪用户移动，企业可以个性化媒体并改善客户体验。 每个业务都是独一无二的，没有用于创建区段的特定公式，但需要遵循指南和流程。 随着企业进一步了解其客户，应更新区段，这将带来报告挑战。 通过遵循构建访问意图区段的过程，企业可以改善整体客户体验。
 
 ## 作者
 
 本文作者：
 
-![艾伦·福森](assets/aaron-headshot.png)
+![Aaron Fossum](assets/aaron-headshot.png)
 
-**艾伦·福森**、 Director、数字 [!DNL Analytics]
+**Aaron Fossum**，Director，数字[!DNL Analytics]
 
-[!DNL Adobe Analytics] 冠军
+[!DNL Adobe Analytics]冠军

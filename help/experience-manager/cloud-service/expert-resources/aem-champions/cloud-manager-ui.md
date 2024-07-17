@@ -1,6 +1,6 @@
 ---
-title: AEM Champion提示和技巧 —  [!DNL Cloud Manager] UI
-description: 查看这些有关如何使用的提示 [!DNL Cloud Manager]AEM冠军兼专家拉凯什·帕苏普莱蒂提供的UI。
+title: AEM冠军提示和技巧 —  [!DNL Cloud Manager] UI
+description: 查看这些来自AEM冠军和专家Rakesh Pasupuleti的有关如何使用 [!DNL Cloud Manager]的UI的提示。
 version: Cloud Service
 solution: Experience Manager Cloud Manager, Marketo Engage, Experience Manager
 feature-set: Marketo Engage, Experience Manager
@@ -14,17 +14,17 @@ jira: KT-13230
 exl-id: c977d316-5e5d-43b9-ba10-a11433d33ca5
 source-git-commit: 7bbe86435c683f41509a8cbe6b117b354309644a
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '69'
 ht-degree: 2%
 
 ---
 
-# AEM Champion提示和技巧 —  [!DNL Cloud Manager] UI
+# AEM冠军提示和技巧 — [!DNL Cloud Manager] UI
 
-查看技术主管同事Rakesh Pasupuleti给出的这些提示。 拉凯什是个 [!DNL Adobe] Experience Manager冠军，他介绍如何导航和理解 [!DNL Cloud Manager]的UI。
+查看技术主管同事Rakesh Pasupuleti给出的这些提示。 Rakesh是[!DNL Adobe]Experience Manager冠军，他介绍如何导航和了解[!DNL Cloud Manager]的UI。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419298?quality=12&learn=on)
 
 ## 其他资源 {#additional-resources}
 
-* [简介 [!DNL Cloud Manager]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/onboarding/concepts/cloud-manager-introduction.html)  — 有关使用的文档 [!DNL Cloud Manager] 在AEMas a Cloud Service中
+* [ [!DNL Cloud Manager]简介](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/onboarding/concepts/cloud-manager-introduction.html) — 有关在AEM as a Cloud Service中使用[!DNL Cloud Manager]的文档

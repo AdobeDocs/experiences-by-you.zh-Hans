@@ -26,7 +26,7 @@ ht-degree: 0%
 
 访客浏览您的网站是有原因的。 他们可能正在查找有关您的产品或服务的内容，或者寻找联系信息以便与您的销售代表交谈。 他们也可以是您的客户，正在寻找其他产品信息。 如果网站访客准备好与您的销售团队交谈，则通过聊天进行自助服务和自我认证。
 
-当Sara Barriuso实施Dynamic Chat时，她被其与Marketo Engage和 [预建活动触发器](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities){target="_blank"} 激活Marketo Engage程序，反之亦然。 她针对三个受众群体制定了对话式参与策略：
+当Sara Barriuso实现Dynamic Chat时，她被它与Marketo Engage和[预建活动触发器](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities){target="_blank"}的无缝集成所吸引，后者激活Marketo Engage程序，反之亦然。 她针对三个受众群体制定了对话式参与策略：
 
 1. 未知的潜在客户：主动提供演示调用以生成新潜在客户。
 2. 已知商机/客户：延长访客浏览内容所花费的时间，并提供演示调用以创造追加销售和交叉销售机会。
@@ -65,7 +65,7 @@ ht-degree: 0%
 
 1. 在“受众”中，在“Target”中添加网页URL以指示将在何处显示对话框。
 2. 在“设置”中，添加营销活动名称、描述、优先级和语言。
-3. 单击“发布”
+3. 单击“Publish”
 
 >[!TAB Marketo Engage]
 
@@ -93,12 +93,12 @@ ht-degree: 0%
 >[!TAB Dynamic Chat]
 
 1. 克隆“默认对话框”并重命名。
-2. 在“流设计器”中，将Dialog消息调整为目标行业（只有一个流+初始问题）。
+2. 在“流Designer”中，将Dialogue消息调整为目标行业（只有一个流+初始问题）。
 3. 让2至3个人测试对话框并收集反馈。
 4. 创建测试链接并共享它。
 5. 在“受众”中，添加一个显示对话框的网页URL，并将目标更新到您想要的行业。
 6. 在“设置”中，添加营销活动名称、描述优先级和语言。
-7. 单击“发布”。
+7. 单击“Publish”。
 
 >[!TAB Marketo Engage]
 
@@ -126,7 +126,7 @@ ht-degree: 0%
 1. 克隆模板。
 2. 将文本复制并粘贴到新事件的对话框消息中
 3. 更新事件链接中使用的UTM参数（例如utm_medium=website&amp;utm_source=adobe）。
-4. 创建一个测试链接，单击“发布”，然后与请求者共享。
+4. 创建一个测试链接，单击“Publish”，然后与请求者共享。
 5. 同行审查并应用反馈。
 
 
@@ -157,11 +157,11 @@ ht-degree: 0%
 >[!TAB Dynamic Chat]
 
 1. 克隆活动/网络研讨会提升对话框。
-2. 在Stream Designer中，用户回答“是”后，添加一个问题卡“您之前与我们共享了您的电子邮件地址。 您想保留此项以详细了解活动吗？”
+2. 在Designer流中，用户回答“是”后，添加一个问题卡“您之前与我们共享了您的电子邮件地址。 您想保留此项以详细了解活动吗？”
 3. 如果他们回答“是”，请添加一张信息卡“您将在电子邮件中收到一封包含活动/网络研讨会详细信息的确认电子邮件”。
 4. 如果他们回答“否” — 添加信息卡“请填写注册页面上的表格”。
-5. 创建一个测试链接，单击“发布”，然后与请求者共享。
-6. 在“受众”选项卡中，添加 [电子邮件不为空].
+5. 创建一个测试链接，单击“Publish”，然后与请求者共享。
+6. 在“受众”选项卡中，添加[电子邮件不为空]。
 
 >[!TAB Marketo Engage]
 
@@ -193,7 +193,7 @@ ht-degree: 0%
 
 ## 接下来呢？
 
-* 在中绘制您的对话流程 [流设计器](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer){target="_blank"} 或脱机流程图。
+* 在[流Designer](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer){target="_blank"}或流程图中离线绘制对话流。
 * 在Dynamic Chat中创建默认的捕获所有对话框。
 * 在Marketo Engage中使用自动触发器激活营销活动后参与对话。
 

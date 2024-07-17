@@ -1,5 +1,5 @@
 ---
-title: 电子邮件计划
+title: 电子邮件程序
 description: 了解如何使用A/B测试创建电子邮件程序。
 role: User
 level: Beginner
@@ -13,12 +13,12 @@ feature: Programs
 exl-id: 27c41bdf-b808-4268-9299-9c9944c2ea8d
 source-git-commit: 7bbe86435c683f41509a8cbe6b117b354309644a
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 21%
+source-wordcount: '86'
+ht-degree: 24%
 
 ---
 
-# 电子邮件计划
+# 电子邮件程序
 
 观看此分步教程，了解如何使用 A/B 测试创建电子邮件计划。
 
@@ -31,8 +31,8 @@ ht-degree: 21%
 * [了解电子邮件程序文档](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)
 
 观看其他视频以了解有关此功能的更多帮助：
-* [计划的电子邮件演练](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/scheduled-email-watch.html?lang=en)
-* [AB测试步骤](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=en)
+* [计划的电子邮件浏览](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/scheduled-email-watch.html?lang=en)
+* [AB测试演练](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=en)
 
 向同行学习如何使用电子邮件程序：
 * [专家客户博客帖子：电子邮件程序](https://nation.marketo.com/t5/product-blogs/marketo-success-series-email-programs/ba-p/304968)

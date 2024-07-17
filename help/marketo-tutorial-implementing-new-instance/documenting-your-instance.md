@@ -9,13 +9,13 @@ duration: 0
 last-substantial-update: 2024-05-08T00:00:00Z
 jira: KT-14815
 thumbnail: KT-14815.jpeg
-source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
+exl-id: b3dd05e1-c522-4631-a6b4-c0c6309f25d3
+source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%
 
 ---
-
 
 # 实例治理快速入门和文档
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 但事情并不仅限于此。 您的团队可能需要补充支持文件或培训材料，以提高他们的Marketo Engage能力。 这些资源可以包括交互式练习、访问测验或有关Marketo Engage内允许操作的准则，这会使贵公司内的所有Marketo Engage用户受益。 无论是创建全面的治理指南，还是最初记录关键的设置方面，记录新用户引导期间所做的决策都是确保成功Marketo Engage您当前团队和未来几代新员工的关键。
 
-通过了解文档和治理的重要性，本教程将深入探讨从专家同行那里获得的最佳实践 [Marketo Engage治理和培训文档快速入门](https://nation.marketo.com/t5/product-blogs/getting-started-on-your-marketo-governance-and-training/ba-p/242421){target="_blank} 和 [如何记录实例？](https://nation.marketo.com/t5/product-discussions/how-do-you-document-your-instance/td-p/72877){target="_blank} 以帮助您制定流程并保持文档与内部用户相关。
+通过了解文档和培训管理的重要性，本教程将深入探讨来自于同行专家的最佳实践[Marketo Engage管理和培训文档快速入门](https://nation.marketo.com/t5/product-blogs/getting-started-on-your-marketo-governance-and-training/ba-p/242421){target="_blank}和[如何记录您的实例？](https://nation.marketo.com/t5/product-discussions/how-do-you-document-your-instance/td-p/72877){target="_blank}帮助您建立流程，并保持文档与内部用户相关。
 
 ## 为什么在实例实施期间记录更改和决策至关重要
 
@@ -73,7 +73,7 @@ ht-degree: 0%
    * 命名约定
    * 项目群组织
    * 计划模板*
-   * Design Studio Assets（电子邮件模板、登陆页面模板、代码片段、表单）
+   * Design Studio Assets（电子邮件模板、登陆页模板、代码片段、表单）
    * 标准化流程
    * 核对清单
    * 分段
@@ -103,7 +103,7 @@ ht-degree: 0%
 
 ## 接下来呢？
 
-* 下载 [示例文档和更改日志](/help/marketo-tutorial-implementing-new-instance/assets/template-adobe-marketo-engage-instance-documentation.xlsx) 并根据您组织的需求对其进行调整。
+* 下载[示例文档和Changelog](/help/marketo-tutorial-implementing-new-instance/assets/template-adobe-marketo-engage-instance-documentation.xlsx)，并根据您组织的需求对其进行调整。
 * 将文档存储在一个无障碍的平台中，贵组织希望在该平台中定期引用和更新。 例如，一些Marketo Engage冠军使用Confluence（由Atlassian提供）或Excel电子表格。
 * 确保您为治理制定的每个规则都有一个所有者来强制实施这些规则并调整文档，以使其随时间推移保持最新。
 

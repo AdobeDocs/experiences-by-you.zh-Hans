@@ -1,6 +1,6 @@
 ---
-title: AEM Champion — 计划迁移到AEMas a Cloud Service
-description: 从AEM champion的Wilson Faure获得关于准备和计划迁移到AEMas a Cloud Service的专家建议。
+title: AEM Champion — 计划迁移到AEM as a Cloud Service
+description: 在准备和计划从AEM Champion迁移到AEM as a Cloud Service方面获得专家建议，Wilson Faure。
 version: Cloud Service
 topic: Migration
 role: Admin, Developer
@@ -18,8 +18,8 @@ ht-degree: 12%
 
 ---
 
-# AEM Champion最佳实践和提示 — 规划和准备迁移到AEMas a Cloud Service
+# AEM Champion最佳实践和提示 — 规划和准备迁移到AEM as a Cloud Service
 
-探索 AEM 专业人士 Wilson Faure 的专家推荐和最佳实践。在本视频中，他浏览迁移到AEMas a Cloud Service的错综复杂的规划和准备工作。 发现无价之宝的最佳实践，以实现迁移历程中的关键里程碑，包括建立性能基准和克服障碍，例如客户代码兼容性和管理外部/内部API。
+探索 AEM 专业人士 Wilson Faure 的专家推荐和最佳实践。在本视频中，他导航了迁移到AEM as a Cloud Service的复杂规划和准备工作。 发现无价之宝的最佳实践，以实现迁移历程中的关键里程碑，包括建立性能基准和克服障碍，例如客户代码兼容性和管理外部/内部API。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427587/?learn=on)

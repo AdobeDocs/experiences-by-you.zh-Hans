@@ -1,6 +1,6 @@
 ---
 title: 开发内部入职和培训路演
-description: 了解如何建立强大的过程来创建和维护您的文档和更改日志 [!DNL Marketo Engage] 实例。 这样不仅可以为团队的知识共享节省时间，还可以提高实例的健康和效率。
+description: 了解如何建立强大的过程来创建和维护 [!DNL Marketo Engage] 实例的文档和更改日志。 这样不仅可以为团队的知识共享节省时间，还可以提高实例的健康和效率。
 role: Admin
 level: Beginner
 doc-type: Article
@@ -9,46 +9,46 @@ duration: 0
 last-substantial-update: 2024-03-01T00:00:00Z
 jira: KT-14809
 thumbnail: KT-14809.jpeg
-source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
+exl-id: bd5d102b-0810-43e1-baac-fbef43817d50
+source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
 workflow-type: tm+mt
 source-wordcount: '816'
 ht-degree: 0%
 
 ---
 
-
 # 开发内部入职和培训路演
 
-当您带来新的 [!DNL Marketo Engage] 实例已上线，是时候让相关团队加速利用了 [!DNL Marketo Engage] 为了他们的工作。
+在您启用新的[!DNL Marketo Engage]实例时，是时候让相关团队快速将[!DNL Marketo Engage]用于其作业了。
 
-Adobe Marketo Engage客户Naomi Liu分享了这些内部入门和培训最佳实践 [内部载入](https://nation.marketo.com/t5/employee-blogs/peer-perspective-orchestrating-onboarding-across-global-teams/ba-p/244931){target="_blank} 和 [培训最佳实践](https://nation.marketo.com/t5/employee-blogs/peer-perspective-how-to-train-internal-users-on-marketo-engage/ba-p/245237){target="_blank} 根据她为影像公司的全球团队实施电子新实例的经验推断。 根据她的见解为内部团队制定有效的培训计划。
+这些内部入职和培训最佳实践由Adobe Marketo Engage客户Naomi Liu提供，她分享了[内部入职培训](https://nation.marketo.com/t5/employee-blogs/peer-perspective-orchestrating-onboarding-across-global-teams/ba-p/244931){target="_blank}和[培训最佳实践](https://nation.marketo.com/t5/employee-blogs/peer-perspective-how-to-train-internal-users-on-marketo-engage/ba-p/245237){target="_blank}，这些最佳实践源自她为图像处理全球团队实施电子新实例的经验。 根据她的见解为内部团队制定有效的培训计划。
 
 ## 在实施新实例时，为什么要制定内部入门培训计划？
 
-作为Marketo Engage的管理员，您不仅需要为自己配备新的技术栈栈功能，还要推动新技术的采用和教育发展。 增强内部团队的能力，使其能够在更大范围内工作，这取决于教育。 为此，您需要学习如何提供以下方面的培训 [!DNL Marketo Engage] 与团队成员最相关的功能。
+作为Marketo Engage的管理员，您不仅需要为自己配备新的技术栈栈功能，还要推动新技术的采用和教育发展。 增强内部团队的能力，使其能够在更大范围内工作，这取决于教育。 为此，您需要了解如何提供对团队成员最相关的[!DNL Marketo Engage]功能的培训。
 
 ## 如何制定内部入门培训计划
 
-### 第1步：成为 [!DNL Marketo Engage] 自己成为专家
+### 步骤1：自己成为[!DNL Marketo Engage]专家
 
-作为管理员，您首先应该沉浸其中 [!DNL Marketo Engage] 资源，例如营销国家社区和文档。 在评估和实施阶段，请定期阅读并探索这些材料，以建立您的专业知识。
+作为管理员，您首先应该沉浸在[!DNL Marketo Engage]资源中，例如营销国家社区和文档。 在评估和实施阶段，请定期阅读并探索这些材料，以建立您的专业知识。
 
 ### 第2步：制定团队培训战略
 
 * 在培训营销运营团队时，请考虑错开核心概念1和2课程的出席情况。 确保团队成员参加不同的课程，配备不同的讲师，以获得不同的观点和见解并与本集团分享。
-* 利用Adobe Experience League的教程，这些教程为您的团队提供简短、易于理解的课程，让您开始使用 [!DNL Marketo Engage] 按照自己的节奏进行教育。
+* 利用Adobe Experience League的教程（这些教程为您的团队提供简短、易学课程），按照自己的进度开始进行[!DNL Marketo Engage]教育。
 * 鼓励团队成员在每周团队调用期间分享新获得的知识。 这确保在有效管理实例的团队中传播有价值的见解。
 
 ### 第3步：制定内部培训路演
 
-* *开发培训模块：* 熟练掌握相关知识后，请专注于为营销业务合作伙伴创建定制的培训模块。 利用下面的示例开始安排您的Marketo Engage课程，针对培训的各个方面精心设计特定的单元。
-* *内部培训路演：* 考虑组织路演风格的导览，直接向营销业务合作伙伴提供培训。
+* *开发培训模块：*&#x200B;一旦您掌握了相关知识，请专注于为营销业务合作伙伴创建自定义的培训模块。 利用下面的示例开始安排您的Marketo Engage课程，针对培训的各个方面精心设计特定的单元。
+* *内部培训路演：*&#x200B;考虑组织路演式的导览，以直接向营销业务合作伙伴提供培训。
 * 首先，列出您的所有营销业务合作伙伴及其职责，并将团队安排在下方的“内部培训路演”表格中，了解其各自的学习模块。
 * Naomi与全球团队合作，选择举行面对面培训课程，根据不同业务部门的需求量身定制模块，并为每个模块准备讲台，以便利所有学习课程。
 
 ## 示例课程：内部培训路演
 
-以下是Naomi Liu建议的培训课程示例，可供您根据营销业务合作伙伴进行自定义。 下载 [训练课程示例](assets/adobe-marketo-engage-internal-training-roadshows.xlsx){_target=&quot;blank&quot;}用于离线自定义。
+以下是Naomi Liu建议的培训课程示例，可供您根据营销业务合作伙伴进行自定义。 下载[示例培训课程](assets/adobe-marketo-engage-internal-training-roadshows.xlsx){_target=&quot;blank&quot;}以进行离线自定义。
 
 | 会话标题 | 目标 | 训练方法 | 时间分配 |
 |--- |--- |--- |--- |
@@ -64,7 +64,7 @@ Adobe Marketo Engage客户Naomi Liu分享了这些内部入门和培训最佳实
 
 ## 接下来呢？
 
-* 下载 [训练课程示例](assets/adobe-marketo-engage-internal-training-roadshows.xlsx){_target=&quot;blank&quot;}电子表格来开发您的内部培训模块。
+* 下载[示例培训课程](assets/adobe-marketo-engage-internal-training-roadshows.xlsx){_target=&quot;blank&quot;}电子表格以开发您的内部培训模块。
 * 填写适合会话主题的团队。
 * 选择要用于创建培训材料的方法。
 

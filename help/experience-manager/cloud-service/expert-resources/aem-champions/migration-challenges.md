@@ -1,6 +1,6 @@
 ---
-title: AEM Champion — 解决迁移到AEMas a Cloud Service时面临的挑战
-description: 从AEM Champion Wilson Faure获得有关在迁移到AEMas a Cloud Service时解决常见挑战的专家建议。
+title: AEM Champion — 解决迁移到AEM as a Cloud Service时的挑战
+description: 从AEM Champion Wilson Faure迁移到AEM as a Cloud Service时，获得解决常见难题的专家建议。
 version: Cloud Service
 topic: Migration
 role: Admin, Developer
@@ -10,16 +10,16 @@ duration: 312
 last-substantial-update: 2024-03-04T00:00:00Z
 jira: KT-15082
 thumbnail: 3427673.jpeg
-source-git-commit: ba46ad10c20184083076950883f169df09ca7778
+exl-id: 7aacef40-9f89-4a55-a840-8542cbf9b110
+source-git-commit: 02e3a6dfa59df45113242bd8e874e18e9e1efd58
 workflow-type: tm+mt
 source-wordcount: '93'
-ht-degree: 0%
+ht-degree: 47%
 
 ---
 
+# AEM Champion最佳实践和提示 — 解决迁移到AEM as a Cloud Service时的常见挑战
 
-# AEM Champion最佳实践和提示 — 解决迁移到AEMas a Cloud Service时的常见挑战
-
-探索由AEM专家同事Wilson Faure分享的宝贵见解和最佳实践。 在本视频中，他深入探讨了迁移到AEMas a Cloud Service期间遇到的常见挑战，提供了相关建议和专家提示以促进顺利和成功过渡。
+了解您的 AEM 专家 Wilson Faure 分享的宝贵见解和最佳实践。在本视频中，他深入探讨了迁移到 AEM as a Cloud Service 期间遇到的常见挑战，并提供了建议和专家提示，以促进顺利、成功的过渡。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427673/?learn=on)

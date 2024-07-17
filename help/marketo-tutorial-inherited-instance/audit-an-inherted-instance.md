@@ -1,6 +1,6 @@
 ---
 title: 如何审核继承的 [!DNL Marketo Engage] 实例
-description: 继承 [!DNL Marketo Engage] 实例，我们建议您花时间了解实例中的内容，并创建行动计划以更新配置。 本教程涵盖 [!DNL Marketo Engage]包括管理员、营销活动、设计工作室和数据库，并为您提供审核和优化提示。
+description: 继承 [!DNL Marketo Engage] 实例建议您花时间了解实例中的内容，并创建行动计划以更新配置。 本教程涵盖 [!DNL Marketo Engage]中最重要的部分，包括“管理员”、“营销活动”、“设计工作室”和“数据库”，并在此过程中为您提供有关审核和优化的提示。
 feature-set: Marketo Engage
 feature: Audit Trail, Administration, Design Studio, Marketing, Database
 role: Admin
@@ -18,10 +18,10 @@ ht-degree: 0%
 
 ---
 
-# 如何审核继承的 [!DNL Marketo Engage] 实例
+# 如何审核继承的[!DNL Marketo Engage]实例
 
-继承 [!DNL Marketo Engage] 无论您是经验丰富的管理员还是新晋管理员，都很难知道从哪里开始清理，因此可能会出现令人紧张的情况。 首先，我们建议您花时间了解您当前继承的实例内容，并创建行动计划以更新配置。
+不论您是经验丰富的管理员还是新晋管理员，继承[!DNL Marketo Engage]实例都可能非常困难，可能很难知道从哪里开始清理。 首先，我们建议您花时间了解您当前继承的实例内容，并创建行动计划以更新配置。
 
-在本教程中，我们将向您介绍的最重要的部分 [!DNL Marketo Engage]包括管理员、营销活动、设计工作室和数据库，并为您提供审核和优化提示。
+在本教程中，我们将向您介绍[!DNL Marketo Engage]中最重要的部分，包括“管理员”、“营销活动”、“设计工作室”和“数据库”，并在此过程中向您提供有关审核和优化的提示。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422473/?learn=on)

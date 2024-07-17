@@ -9,7 +9,8 @@ duration: 0
 last-substantial-update: 2024-05-04T00:00:00Z
 jira: KT-14810
 thumbnail: KT-14810.jpeg
-source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
+exl-id: 73976144-f02b-4423-9b4b-410330117ba9
+source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
 workflow-type: tm+mt
 source-wordcount: '2111'
 ht-degree: 2%
@@ -32,16 +33,16 @@ ht-degree: 2%
 
 行为得分为潜在客户采取的表示对您的产品和服务感兴趣以及购买意向的可跟踪操作提供数值。 例如，访问网站表示有兴趣，访问定价页面可能表示有意。 相比之下，浏览职业介绍页可能会表明此人不会购买。
 
-**步骤1**  — 列出对您的销售过程重要或对您的组织有价值的目标客户活动。 与您的销售团队合作，确定哪些活动表明潜在客户有购买意图，这很有帮助，可以帮助您使标准与销售保持一致，并根据他们对已完成交易的观察确定优先级。 以下是您可以向销售团队提出的一些建议问题：
+**步骤1** — 列出对您的销售流程重要或对您的组织有价值的目标客户活动。 与您的销售团队合作，确定哪些活动表明潜在客户有购买意图，这很有帮助，可以帮助您使标准与销售保持一致，并根据他们对已完成交易的观察确定优先级。 以下是您可以向销售团队提出的一些建议问题：
 
 * 哪些活动指示对您有利或不利？
 * 潜在客户购买哪种类型的内容具有更强的购买意图？
 
-**步骤2**  — 列出表明潜在客户对您的产品不感兴趣的操作。 请务必列出可通过Marketo Engage跟踪的活动。
+**步骤2** — 列出表明潜在客户对您的产品不感兴趣的操作。 请务必列出可通过Marketo Engage跟踪的活动。
 
 **示例1a — 指示购买意图的活动**
 
-| **表示购买意向的活动** | **表示无意购买的活动** |
+| **表示购买意图的活动** | **表示无意购买的活动** |
 | --- | --- |
 | 访问定价页面 | 过去90天内无交互 |
 | 出席年度客户活动 | 访问职业页面 |
@@ -49,7 +50,7 @@ ht-degree: 2%
 | 下载白皮书 |     |
 | 填写请求演示表单 |     |
 
-**步骤3**  — 分析和选择销售移交阈值分数。
+**步骤3** — 分析并选择销售移交阈值分数。
 
 * 一旦某个潜在客户通过执行您在步骤1中定义的某些活动而表现出足够的兴趣，并且总分超过此阈值，您就会将它们转给销售人员。 此阈值只是一个数字，可帮助为分配给个人行为的得分设置基准。
 * 您的阈值数应足够大，以便人员需要与您的品牌完成多次交互才能达到该要求。 例如，打开一封电子邮件可能不足以作为限定词。 如果你刚开始的话，试着用100这个阈值来训练，从那开始让你的得分提高。
@@ -61,12 +62,12 @@ ht-degree: 2%
 | --- | --- |
 | 销售移交阈值 | 50 |
 
-**步骤4**  — 为“示例1a — 指示购买意图的活动”中列出的每个活动分配一个分数。
+**步骤4** — 为“示例1a — 指示购买意图的活动”中列出的每个活动分配一个分数。
 
 * 对表示感兴趣的活动使用正行为分数，以提升潜在客户的整体商机分数，对表示不感兴趣的活动使用负分数。
 * 使用“示例1b — 销售移交的阈值”中的阈值作为基准，确定相对于其操作重要性的行为得分。 例如，请求演示的潜在客户应直接进行销售。 最好为该操作分配一个等于潜在客户移交阈值的点值。 与此同时，下载白皮书并不那么能表明购买兴趣，因此应该更少一点。
 
-**示例1c — 指示购买意图的评分活动：**
+**示例1c — 表示购买意图的评分活动：**
 
 | 销售移交阈值= 50点 |     |
 | --- | --- |
@@ -76,13 +77,13 @@ ht-degree: 2%
 | 下载白皮书 | +5 |
 | 在贸易展上拜访我们 | +15 |
 
-**步骤5**  — 请记住，得分是一个迭代过程！ 收集更多数据进行分析，不断审核并调整得分和阈值。
+**步骤5** — 请记住，评分是一个迭代过程！ 收集更多数据进行分析，不断审核并调整得分和阈值。
 
 ## 练习2 — 确定与人口统计得分相符的权利
 
 现在，您已定义指示购买意图的活动，您应该使用理想潜在客户配置文件完成评分模型。 要确定潜在客户是否适合进行进一步的销售对话，除了行为得分之外，还必须分配人口统计分数，以便该模型有助于从适合度和意图方面确定最佳销售机会。
 
-**步骤1**  — 为您的理想潜在客户列出一系列特征。
+**步骤1** — 为您的理想潜在客户列出一系列特性。
 
 * 考虑上市属性，例如其行业、公司、部门和角色。 确保这些特征与Marketo Engage实例中可用的人口统计字段相对应。
 * 与您的销售团队合作，确定哪些销售线索对销售查询的回应最多，并且在销售机会期间是主要联系人。
@@ -93,20 +94,20 @@ ht-degree: 2%
       * 他们通常与哪个部门合作？
       * 参与产品演示的人员有哪些职称？哪些人员需要签署购买协议？
 
-**示例2a — 理想的潜在客户特征**
+**示例2a — 理想潜在客户特征**
 
-| **类别** | **理想的前景特征** |
+| **类别** | **理想潜在客户特征** |
 | --- | --- |
 | 行业 | 航空、制造业 |
 | 公司规模 | 100 - 999， 1,000 - 9,999 |
 | 职务名称 | Director，副总裁，C级 |
 | 部门 | 小时 |
 
-**步骤2**  — 根据每个特征在您理想的目标客户配置文件中的相关性，为其分配一个分数。 对所需特征使用正分数，对特征使用负分数，这会使潜在客户不太适合您的产品。
+**步骤2** — 根据每个特征在理想潜在客户配置文件中的相关性为其分配一个分数。 对所需特征使用正分数，对特征使用负分数，这会使潜在客户不太适合您的产品。
 
 **示例2b — 为理想和不受欢迎的潜在客户特性分配得分**
 
-| **特征** | **分数** |
+| **特性** | **得分** |
 | --- | --- |
 | 工业 — 航空 | +10 |
 | 工业 — 制造业 | +5 |
@@ -122,7 +123,7 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426914/?learn=on)
 
-**步骤1**  — 采用练习1和练习2中的活动和特征，并确定每个项目的具体情况是否因地点或产品线而异。
+**步骤1** — 获取练习1和练习2中的活动和特征，并确定每个项目的活动或特征是否因地点或产品线而异。
 
 **示例3a — 全球和本地市场中的信号：**
 
@@ -131,7 +132,7 @@ ht-degree: 2%
 | 活动 | <ul><li>已填写“请求演示”表单</li><li>最近90天（约3个月）内无交互</li></ul> | <ul><li>在贸易展上拜访我们</li><li>下载白皮书</li></ul> |
 | 特征 | <ul><li>部门</li><li>职务名称</li></ul> | <ul><li>行业</li><li>公司规模</li></ul> |
 
-**步骤2**  — 为本地市场定义评分矩阵：
+**第2步** — 为本地市场定义评分矩阵：
 
 * 为人口统计和行为元素设置不同的矩阵。
 * 确定需要您向本地团队提供意见的优先级主题。
@@ -145,10 +146,10 @@ ht-degree: 2%
 | **人口统计矩阵** | **优先级1** | **优先级2** | **优先级3** |
 | --- | --- | --- | --- |
 | 高值 | 20分 | 10分 | 7分 |
-| 中值 | 10分 | 7分 | 3分 |
+| Medium值 | 10分 | 7分 | 3分 |
 | 低值 | 5分 | 3分 | 1分 |
 
-**步骤3**  — 收集您当地或地区销售团队的意见以形成整体视图。 您会注意到，示例3c中未包含任何个人得分。 这使销售团队能够在审核过程中重点关注不同主题的相对价值。 但是，您应该将完整模型作为其他Marketo Engage管理员的背景资料进行记录。
+**步骤3** — 收集本地或地区销售团队的输入以开发整体视图。 您会注意到，示例3c中未包含任何个人得分。 这使销售团队能够在审核过程中重点关注不同主题的相对价值。 但是，您应该将完整模型作为其他Marketo Engage管理员的背景资料进行记录。
 
 * 锁定无法为全局一致性调整的项（此处位于“实施主题”列）。
 * 标记（此处为“优先级”和“得分”列）可以根据本地影响进行调整的内容。
@@ -232,8 +233,8 @@ ht-degree: 2%
 
 ## 接下来呢？
 
-* 下载 [人员评分练习表](./assets/build-person-scoring-model-and-local-flexibility-in-adobe-marketo-engage.docx){target="_blank} 离线开发评分模型。
-* 在Marketo Engage中构建您的人员得分。 选中此 [教程](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/lead-scoring-watch){target="_blank} 和 [演示](https://experienceleague.adobe.com/en/docs/events/marketo-and-mochas-recordings/2023/lead-scoring){target="_blank} 以开始使用。 您可以导入潜在客户/人员评分项目 [模板](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program){target="_blank} 从Marketo Engage参考库中，加速程序构建。
+* 下载[人员评分练习表](./assets/build-person-scoring-model-and-local-flexibility-in-adobe-marketo-engage.docx){target="_blank}以离线开发您的评分模型。
+* 在Marketo Engage中构建您的人员得分。 查看此[教程](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/lead-scoring-watch){target="_blank}和[演示](https://experienceleague.adobe.com/en/docs/events/marketo-and-mochas-recordings/2023/lead-scoring){target="_blank}以开始。 您可以从Marketo Engage参考库导入潜在客户/人员评分项目[模板](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program){target="_blank}，以加速项目构建。
 * 创建两个版本的评分计划：
    * 运行所有无法本地更新的评分的中央程序。
    * 具有可配置的评分元素的本地副本。
@@ -243,8 +244,8 @@ ht-degree: 2%
    * 确定哪些人口统计和行为活动应仅获得一次评分（即行业），以及每当潜在客户符合条件时（即参加网络研讨会）应获得哪些评分。 这可确保数据值更改触发的潜在联系人与销售相关。
    * 确保您的选择相互排斥。
    * 在两个流程步骤中进行更新，以便以与人口统计得分相同的方式更新人员得分。 这样，人员得分将与行为得分和人口统计得分的组合保持一致。
-* 完成项目构建后测试Smart Campaign。 例如，转到您的演示表单，使用测试电子邮件填写它，然后检查您的测试人员的分数 [Marketo Engage数据库](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started-with-marketo/quick-wins/simple-scoring#step-view-the-person-info){target="_blank}.
-* 在构建模型后，请考虑设置一个警报，当人员分数达到您的销售移交阈值时，向销售人员发出提醒。 了解有关使用此项设置警报的更多信息 [教程](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert){target="_blank}.
+* 完成项目构建后测试Smart Campaign。 例如，转到演示表单，用测试电子邮件填写，然后在[Marketo Engage数据库](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started-with-marketo/quick-wins/simple-scoring#step-view-the-person-info){target="_blank}中检查测试人员的分数。
+* 在构建模型后，请考虑设置一个警报，当人员分数达到您的销售移交阈值时，向销售人员发出提醒。 了解有关使用此[教程](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert){target="_blank}设置警报的更多信息。
 
 ### 作者
 

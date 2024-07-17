@@ -9,7 +9,8 @@ duration: 0
 last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-14813
 thumbnail: KT-14813.jpeg
-source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
+exl-id: 19b3de9e-53f3-4308-b46e-7b8f756c30a0
+source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
 workflow-type: tm+mt
 source-wordcount: '1166'
 ht-degree: 2%
@@ -18,11 +19,11 @@ ht-degree: 2%
 
 # 组织新实例和建立命名约定
 
-作为实施新Marketo Engage实例的管理员，您将为将来允许组织内的营销人员轻松导航该实例奠定基础。 熟悉树文件夹结构和命名惯例可以使您的实例保持整洁并为长期成功做好准备。 本教程包含由Adobe和Marketo Engage冠军(2019-2020) Natalie Kremer推荐的示例，可帮助您 [统一组织文件夹并命名资源](https://nation.marketo.com/t5/champion-program-blogs/keep-marketo-engage-organized-with-folders-and-naming/ba-p/245630){target="_blank"}.
+作为实施新Marketo Engage实例的管理员，您将为将来允许组织内的营销人员轻松导航该实例奠定基础。 熟悉树文件夹结构和命名惯例可以使您的实例保持整洁并为长期成功做好准备。 本教程包含Adobe和Marketo Engage冠军(2019-2020) Natalie Kremer推荐的示例，可帮助您[统一组织文件夹并命名资源](https://nation.marketo.com/t5/champion-program-blogs/keep-marketo-engage-organized-with-folders-and-naming/ba-p/245630){target="_blank"}。
 
 ## 为何需要构造文件夹并应用命名约定？
 
-通过在实例中保持井然有序，您和您的同事可以轻松跟踪活动、项目和资产并报告项目效果。 要在实例中组织导航树并大规模构建，建议使用 [文件夹](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"}， [标准命名约定](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"}和功能，例如 [克隆](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"}.
+通过在实例中保持井然有序，您和您的同事可以轻松跟踪活动、项目和资产并报告项目效果。 若要在实例中组织导航树并大规模生成，建议使用[文件夹](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"}、[标准命名约定](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"}以及[克隆](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"}等功能。
 
 ## 如何组织Marketo Engage实例
 
@@ -30,7 +31,7 @@ ht-degree: 2%
 
 ### 步骤1 — 设置文件夹结构以按顺序排列程序
 
-组织实例的第一步是 [设置文件夹结构](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html) 以易于查找和有序的方式存放您的项目和资产。
+组织实例的第一步是[设置文件夹结构](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html)以易于查找和有序的方式存放程序和资产。
 
 在树中构造文件夹时，下面是一些快速提示：
 
@@ -41,7 +42,7 @@ ht-degree: 2%
 
 以下是将这些提示付诸实践的文件夹示例。
 
-**树中的文件夹名称**
+树状结构中的&#x200B;**文件夹名称**
 
 >[!BEGINTABS]
 
@@ -49,7 +50,7 @@ ht-degree: 2%
 
 ![文件夹营销活动](/help/marketo-tutorial-implementing-new-instance/assets/folders-marketing-activities.png)
 
->[!TAB Design Studio]
+>[!TAB 设计工作室]
 
 ![文件夹设计工作室](/help/marketo-tutorial-implementing-new-instance/assets/folders-design-studio.png)
 
@@ -63,15 +64,15 @@ ht-degree: 2%
 
 现在，让我们在项目级别应用文件夹结构。 作为最佳实践，将本地资产放在子文件夹中将有助于保持程序整洁并允许内部用户高效地修改或报告程序。 常见子文件夹包括电子邮件、登陆页、智能营销活动、列表、报告等。
 
-**程序中的文件夹名称**
-* 营销活动 —  *用于管理交互和状态跟踪的所有营销活动的文件夹。*
-* 本地资产 —  *此项目群特定的所有资源的文件夹。*
+**项目群中的文件夹名称**
+* 营销活动 — *用于管理交互和状态跟踪的所有营销活动的文件夹。*
+* 本地Assets - *此项目特定的所有资源的文件夹。*
    * 电子邮件
    * 登陆页面
    * 智能营销活动
-   * 列表 —  *仅当存在特定于程序的列表时才需要。*
-   * FORMS - *只有在具有特定于项目的Forms时才需要；大多数Forms都是全局资源。*
-   * 报表 —  *仅当存在特定于项目的报告时才需要。*
+   * 列表 — *仅当存在特定于程序的列表时才需要。*
+   * Forms - *仅当存在特定于项目的Forms时才需要；大多数Forms都是全局Assets。*
+   * 报告 — *仅当存在特定于项目的报告时才需要。*
 
 ### 步骤3 — 为项目和资产创建命名约定
 
@@ -86,7 +87,7 @@ ht-degree: 2%
 
 #### 程序命名公式
 
-| **程序类型的缩写** | **YYYY** | **\-** | **毫米** | **\-** | **DD（可选）** | **类别** | **\-** | **项目简介** |
+| **程序类型的缩写** | **YYYY** | **\-** | **毫米** | **\-** | **DD（可选）** | **类别** | **\-** | **计划的简要说明** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | EM — 电子邮件发送（电子邮件计划） | YYYY | \- | 毫米 | \- | DD（可选） | 类别 | \- | 项目简介 |
 | NL — 新闻稿 | YYYY | \- | 毫米 | \- | DD（可选） | 类别 | \- | 项目简介 |
@@ -99,7 +100,7 @@ ht-degree: 2%
 | WC — 网站内容 | YYYY | \- | 毫米 | \- | DD（可选） | 类别 | \- | 项目简介 |
 | CS — 内容联合 | YYYY | \- | 毫米 | \- | DD（可选） | 类别 | \- | 项目简介 |
 | LI — 列表导入 | YYYY | \- | 毫米 | \- | DD（可选） | 类别 | \- | 项目简介 |
-| OA — 在线广告 | YYYY | \- | 毫米 | \- | DD（可选） | 类别 | \- | 项目简介 |
+| OA — 在线Advertising | YYYY | \- | 毫米 | \- | DD（可选） | 类别 | \- | 项目简介 |
 | PPC — 每次点击付费 | YYYY | \- | 毫米 | \- | DD（可选） | 类别 | \- | 项目简介 |
 
 | **示例** |
@@ -120,7 +121,7 @@ ht-degree: 2%
 
 ##### 根据项目流程中的顺序命名资产
 
-| **程序流程中的顺序** | **\-** | **描述** |
+| **程序进程中的序列** | **\-** | **描述** |
 | --- | --- | --- |
 | 01 | \- | 描述 |
 | 02 | \- | 描述 |
@@ -137,7 +138,7 @@ ht-degree: 2%
 
 ##### 使用资源类型的缩写命名资源
 
-| **资源类型的缩写** | **资源类型** | **\-** | **目标描述** |
+| **资源类型**&#x200B;的缩写 | **资源类型** | **\-** | **目标**&#x200B;的说明 |
 | --- | --- | --- | --- |
 | LP — 登陆页面 | LP | \- | 目标描述 |
 | 电子邮件 — 电子邮件（出站） | EMAIL | \- | 目标描述 |
@@ -159,7 +160,7 @@ ht-degree: 2%
 
 ##### 使用资源类型的缩写命名可下载的文件(.pdf)
 
-| **资源类型** | **内容描述** | **\-** | **资源类型的缩写** | **.** | **PDF** |
+| **资源类型** | **内容描述** | **\-** | **资源类型**&#x200B;的缩写 | **.** | **PDF** |
 | --- | --- | --- | --- | --- | --- |
 | WP — 白皮书 | 内容描述 | \- | WP | 。 | pdf |
 | CS — 案例研究 | 内容描述 | \- | CS | 。 | pdf |
@@ -177,9 +178,9 @@ ht-degree: 2%
 
 ## 接下来呢？
 
-* 下载工作表： [Marketo Engage组织和命名惯例](./assets/adobe-marketo-engage-organization-and-naming-conventions.xlsx){target="_blank"} 支持创建文件夹结构和命名约定。
+* 下载工作表：[Marketo Engage组织和命名约定](./assets/adobe-marketo-engage-organization-and-naming-conventions.xlsx){target="_blank"}以支持创建文件夹结构和命名约定。
 * 在标准命名惯例中确定必要的组件后，请考虑将公式构建到Google工作表或Microsoft Excel中。 在以后使用时，只需在电子表格中输入您的值即可生成程序名。
-* 在调整整个文件夹结构后，现在就可以根据最常见的用例和团队收到的最常见的请求来考虑您所需的模板。 然后，开始构建您的第一个项目模板。 阅读以开始使用 [Adobe Marketo Engage项目模板](https://business.adobe.com/blog/how-to/get-started-with-marketo-engage-program-templates){target="_blank"}.
+* 在调整整个文件夹结构后，现在就可以根据最常见的用例和团队收到的最常见的请求来考虑您所需的模板。 然后，开始构建您的第一个项目模板。 阅读以开始使用[Adobe Marketo Engage计划模板](https://business.adobe.com/blog/how-to/get-started-with-marketo-engage-program-templates){target="_blank"}。
 
 ### 作者
 

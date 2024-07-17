@@ -1,7 +1,7 @@
 ---
-user-guide-title: 教程 — 实施新教程的提示和技巧 [!DNL Marketo Engage] 实例
-user-guide-description: 教程 — 实施新教程的提示和技巧 [!DNL Marketo Engage] 实例
-breadcrumb-title: 实施新项目的提示和技巧 [!DNL Marketo Engage] 实例
+user-guide-title: 教程 — 实施新 [!DNL Marketo Engage] 实例的提示和技巧
+user-guide-description: 教程 — 实施新 [!DNL Marketo Engage] 实例的提示和技巧
+breadcrumb-title: 实施新 [!DNL Marketo Engage] 实例的提示和技巧
 breadcrumb-url: /docs/experiences-by-you/experiences-by-you/implementing-new-instance/overview
 index: true
 role: Admin
@@ -16,7 +16,7 @@ ht-degree: 2%
 ---
 
 
-# 实施新项目的提示和技巧 [!DNL Marketo Engage] 实例 {#implementing-new-instance}
+# 实施新[!DNL Marketo Engage]实例的提示和技巧 {#implementing-new-instance}
 
 + [教程 — 概述](./overview.md)
 + [管理利益相关者以实施Marketo Engage](./managing-stakeholder-communications.md)
@@ -28,4 +28,4 @@ ht-degree: 2%
 + [利用Dynamic Chat设计全渠道对话式营销](./designing-omnichannel-conversational-marketing.md)
 + [实例治理快速入门和文档](./documenting-your-instance.md)
 + [[!DNL Marketo Engage] 教程](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=zh-Hans)
-+ [[!DNL Marketo Engage] 由您提供](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/marketo-engage/overview)
++ [[!DNL Marketo Engage] 由您](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/marketo-engage/overview)

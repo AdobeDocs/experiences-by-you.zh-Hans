@@ -9,13 +9,13 @@ exl-id: f6aa9dbd-fb4f-40fa-b607-174755a1ca9f
 source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
 source-wordcount: '188'
-ht-degree: 23%
+ht-degree: 20%
 
 ---
 
 # 按您Experience Manager：按用户的资源，适用于用户。
 
-最强大的东西 [!DNL Adobe] Experience Cloud解决方案？ 你。 那些用户将产品拿出来深入挖掘并以令人惊叹的创新方式应用它们来创造有意义的体验和成果。 “按您列出的体验”包含由日常用户创建的内容，这些用户通过其体验已获得一定程度的专业知识和影响力。 [!DNL Adobe] Experience Cloud解决方案。 此对等知识鼓励协作和发现，使您和任何其他用户都能找到提升您的产品专业知识所需的灵感。
+[!DNL Adobe]Experience Cloud解决方案最强大的功能是什么？ 你。 那些用户将产品拿出来深入挖掘并以令人惊叹的创新方式应用它们来创造有意义的体验和成果。 “按您列出的体验”包含由通过其[!DNL Adobe]Experience Cloud解决方案获得一定专业知识和影响力的日常用户创建的内容。 此对等知识鼓励协作和发现，使您和任何其他用户都能找到提升您的产品专业知识所需的灵感。
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -40,7 +40,7 @@ ht-degree: 23%
     </a>
     </div>
     <p>
-    <em>可编辑模板</em>
+    <em>可编辑的模板</em>
     <p>
   </td>
   <td>
@@ -53,7 +53,7 @@ ht-degree: 23%
     </a>
     </div>
     <p>
-    <em>该入门行动手册将帮助您作为新的管理员和开发人员掌握AEMas a Cloud Service。</em>
+    <em>入门行动手册将帮助您充当AEM as a Cloud Service的新管理员和开发人员。</em>
     <p>
   </td>
   <td>
@@ -79,4 +79,4 @@ ht-degree: 23%
 * [Experience Manager社区](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)
 * [Experience Manager文档](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
 * [Experience ManagerTutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-tutorials/overview.html)
-* [Experience Manager产品信息](https://business.adobe.com/products/experience-manager/adobe-experience-manager.html)
+* [产品信息Experience Manager](https://business.adobe.com/products/experience-manager/adobe-experience-manager.html)

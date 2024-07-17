@@ -9,13 +9,13 @@ duration: 0
 last: substantial-update- 2024-05-01
 jira: KT-14808
 thumbnail: KT-14808.jpeg
-source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
+exl-id: 65119abd-6f13-4acc-9e99-09843369ad28
+source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
 workflow-type: tm+mt
 source-wordcount: '1098'
 ht-degree: 5%
 
 ---
-
 
 # 规划新的Marketo Engage实施
 
@@ -38,8 +38,8 @@ ht-degree: 5%
 
 ### 第3阶段 — 项目库创建和活动设置
 
-- 开发电子邮件模板和登陆页面。 开始使用 [导入启动程序](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) 从 [项目导入库](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview).
-- 设置分段和个性化规则
+- 开发电子邮件模板和登陆页面。 从[从[程序导入库](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)导入入门程序](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program)开始。
+- 设置分段和Personalization规则
 - 创建用于潜在客户生成和培养的初始营销活动
 
 ### 第4阶段 — 培训和用户采用
@@ -134,7 +134,7 @@ ht-degree: 5%
 
 创建新的实施项目计划和时间表。 下面是一个示例项目时间线，包括示例里程碑、任务、负责的团队、截止日期和依赖项部分。 使用它可简化您的Marketo Engage实施历程，并确保在整个组织中成功推出。
 
-您还可以下载用于编辑和跟踪特定里程碑任务的示例 [此处](/help/marketo-tutorial-implementing-new-instance/assets/adobe-marketo-engage-implementation-milestones-project-management-template.xlsx).
+您还可以在[此处](/help/marketo-tutorial-implementing-new-instance/assets/adobe-marketo-engage-implementation-milestones-project-management-template.xlsx)下载用于编辑和跟踪特定里程碑任务的示例。
 
 <table>
  <thead>
@@ -158,14 +158,14 @@ ht-degree: 5%
     </tr>
     <tr>
         <td rowspan="2">技术设置</td>
-        <td><em>示例 — </em> 在公司网站上安装MunchkinID</td>
+        <td><em>示例 — </em>在公司网站上安装MunchkinID</td>
         <td bgcolor="c6f0cf">完成</td>
         <td>9/5/24</td>
         <td>9/12/24</td>
         <td>Web开发团队</td>
     </tr>
     <tr>
-        <td><em>示例 — </em> 为可投放性和电子邮件跟踪链接设置域名识别邮件(DKIM)和2个单独的CNAME。</td>
+        <td><em>示例 — </em>为可投放性和电子邮件跟踪链接设置域名识别邮件(DKIM)和2个单独的CNAME。</td>
         <td bgcolor="c6f0cf">完成</td>
         <td>9/15/24</td>
         <td>9/18/24</td>
@@ -173,28 +173,28 @@ ht-degree: 5%
     </tr>
     <tr>
         <td rowspan="4">Adobe Admin Console和管理设置</td>
-        <td><em>示例 — </em> 创建Marketo Engage用户和角色</td>
+        <td><em>示例 — </em>创建Marketo Engage用户和角色</td>
         <td bgcolor="c6f0cf">完成</td>
         <td>8/27/24</td>
         <td>9/15/24</td>
         <td>营销团队提供的有关谁需要访问Marketo Engage的信息。</td>
     </tr>
     <tr>
-        <td><em>示例 — </em> 在Adobe Admin Console中创建其他Marketo Engage产品管理员</td>
+        <td><em>示例 — </em>在Adobe Admin Console中创建其他Marketo Engage产品管理员</td>
         <td bgcolor="c6f0cf">完成</td>
         <td>8/27/24</td>
         <td>9/15/24</td>
         <td>营销运营团队提供的有关哪些人需要管理员访问权限才能进行Marketo Engage的信息。</td>
     </tr>
     <tr>
-        <td><em>示例 — </em> 设置支持管理员</td>
+        <td><em>示例 — </em>设置支持管理员</td>
         <td bgcolor="c6f0cf">完成</td>
         <td>8/27/24</td>
         <td>9/15/24</td>
         <td>营销运营团队提供的信息，用于确认要支持的主要联系人。 系统管理员支持分配支持管理员用户。</td>
     </tr>
     <tr>
-        <td><em>示例 — </em> 定义文件夹结构和命名约定</td>
+        <td><em>示例 — </em>定义文件夹结构和命名约定</td>
         <td bgcolor="c6f0cf">完成</td>
         <td>9/7/24</td>
         <td>9/12/24</td>
@@ -202,14 +202,14 @@ ht-degree: 5%
     </tr>
     <tr>
         <td rowspan="2">CRM集成（如果适用）</td>
-        <td><em>示例 — </em> 在同步之前确定字段映射</td>
+        <td><em>示例 — </em>在同步之前确定字段映射</td>
         <td bgcolor="ffeb9c">进行中</td>
         <td>10/22/24</td>
         <td>不适用</td>
         <td>CRM管理员提供的了解可用字段的支持。</td>
     </tr>
     <tr>
-        <td><em>示例 — </em> 执行数据审核</td>
+        <td><em>示例 — </em>执行数据审核</td>
         <td bgcolor="ffeb9c">进行中</td>
         <td>10/26/24</td>
         <td>不适用</td>
@@ -217,28 +217,28 @@ ht-degree: 5%
     </tr>
     <tr>
         <td rowspan="2">运行计划构建</td>
-        <td><em>示例 — </em> 创建程序以标准化传入数据</td>
+        <td><em>示例 — </em>创建程序以标准化传入数据</td>
         <td bgcolor="ffc7cf">未启动</td>
         <td>11/9/24</td>
         <td>不适用</td>
         <td>销售运营和CRM团队提供支持，以确定数据管理策略。</td>
     </tr>
     <tr>
-        <td><em>示例 — </em> 创建电子邮件订阅中心</td>
+        <td><em>示例 — </em>创建电子邮件订阅中心</td>
         <td bgcolor="ffc7cf">未启动</td>
         <td>11/19/24</td>
         <td>不适用</td>
         <td>营销团队输入有关邮寄列表内容类型和分段的信息。</td>
     <tr>
         <td rowspan="2">首次营销计划构建</td>
-        <td><em>示例 — </em> 设置基本电子邮件程序</td>
+        <td><em>示例 — </em>设置基本电子邮件程序</td>
         <td bgcolor="ffeb9c">进行中</td>
         <td>11/12/24</td>
         <td>不适用</td>
         <td>数字团队为电子邮件和登陆页面提供的创意资产。</td>
     </tr>
     <tr>    
-        <td><em>示例 — </em> 为季度新闻稿创建计划</td>
+        <td><em>示例 — </em>为季度新闻稿创建计划</td>
         <td bgcolor="ffc7cf">未启动</td>
         <td>11/30/24</td>
         <td>不适用</td>
@@ -246,14 +246,14 @@ ht-degree: 5%
     </tr>
     <tr>
         <td rowspan="2">LaunchPoint集成设置</td>
-        <td><em>示例 — </em> 创建仅API用户和角色</td>
+        <td><em>示例 — </em>仅创建API用户和角色</td>
         <td bgcolor="ffc7cf">未启动</td>
         <td>11/23/24</td>
         <td>   </td>
         <td>与营销团队一起确定新实例所需的服务范围。</td>
     </tr>
     <tr>
-        <td><em>示例 — </em> 为Google Ads创建自定义服务</td>
+        <td><em>示例 — </em>为Google广告创建自定义服务</td>
         <td bgcolor="ffc7cf">未启动</td>
         <td>12/7/24</td>
         <td>   </td>
@@ -262,27 +262,27 @@ ht-degree: 5%
     </tr>
     <tr>
         <td rowspan="2">用户培训和文档</td>
-        <td><em>示例 — </em> 为内部用户创建治理指南</td>
+        <td><em>示例 — </em>为内部用户创建治理指南</td>
         <td bgcolor="ffc7cf">未启动</td>
         <td>12/2/24</td>
         <td>不适用</td>
         <td>创建一个Marketo Engage治理团队，以构建支持治理文档或预算以将治理项目外包出去。</td>
     <tr>
-        <td><em>示例 — </em> 培训4个用户，并为他们提供标准的Marketo用户访问权限</td>
+        <td><em>示例 — </em>培训4用户，并为他们提供标准Marketo用户访问权限</td>
         <td bgcolor="ffc7cf">未启动</td>
         <td>12/13/24</td>
         <td>不适用</td>
         <td>营销部副总裁提供支持，强制要求必须参加培训才能访问Marketo Engage。</td>
     <tr>
         <td rowspan="2">上线</td>
-        <td><em>示例 — </em> 发送第一份新闻稿</td>
+        <td><em>示例 — </em>发送第一份新闻稿</td>
         <td bgcolor="ffc7cf">未启动</td>
         <td>12/9/24</td>
         <td>不适用</td>
         <td>营销运营团队负责QA、计划和发送。</td>
     </tr>
     <tr>
-        <td><em>示例 — </em> 提取第一个电子邮件性能报表。</td>
+        <td><em>示例 — </em>提取第一个电子邮件性能报告。</td>
         <td bgcolor="ffc7cf">未启动</td>
         <td>12/16/24</td>
         <td>不适用</td>
@@ -294,7 +294,7 @@ ht-degree: 5%
 >[!NOTE]
 >提供的示例并非基于实际的实施时间表。 请勿依赖这些标准时间表作为Marketo Engage入门的标准时间表，因为每个实施都是独一无二的，可根据贵组织的需求具有不同的里程碑和要求。
 
-要在实施和自定义您实例的Marketo Engage方面的亲力帮助，请联系Adobe客户团队或联系 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+要在实施和自定义您实例的Marketo Engage时获得手动帮助，请联系Adobe客户团队或联系[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}。
 
 ### 作者
 

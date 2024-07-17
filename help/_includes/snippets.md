@@ -14,46 +14,50 @@ ht-degree: 1%
 
 ![赵蔼明](/help/marketo-tutorial-implementing-new-instance/assets/amy-chiu.png){width="150"}
 
-**赵蔼明**，采用和维系市场经理，Adobe
+**Amy Chiu**，采用和维系市场经理，Adobe
 
 ## 刘直美 {#naomi-liu}
 
-![刘直美](/help/marketo-tutorial-implementing-new-instance/assets/naomi-liu.png){width="150"}
+![刘乃美](/help/marketo-tutorial-implementing-new-instance/assets/naomi-liu.png){width="150"}
 
-**刘直美**、Director、全球营销运营、电子成像(EFI)
+**Naomi Liu**，Director，Global Marketing Operations，Electronics for Imaging (EFI)
 
 ## 娜塔莉·克雷默 {#natalie-kremer}
 
-![娜塔莉·克雷默](/help/marketo-tutorial-implementing-new-instance/assets/natalie-kremer.png){width="150"}
+![Natalie Kremer](/help/marketo-tutorial-implementing-new-instance/assets/natalie-kremer.png){width="150"}
 
-**娜塔莉·克雷默**，Etumos Adobe Marketo Engage Champion咨询服务部高级经理(2019-2020)
+**Natalie Kremer**，Etumos咨询服务部高级经理
+Adobe Marketo Engage冠军(2019-2020)
 
 ## 克里斯蒂娜·苏尼加 {#christina-zuniga}
 
-![克里斯蒂娜·苏尼加](/help/marketo-tutorial-implementing-new-instance/assets/christina-zuniga.png){width="150"}
+![克里斯蒂娜·祖尼加](/help/marketo-tutorial-implementing-new-instance/assets/christina-zuniga.png){width="150"}
 
-**克里斯蒂娜·苏尼加**、营销运营经理、雇用Adobe Marketo Engage Champion(2017、2018、2020、2021)
+**Christina Zuniga**，营销运营经理，雇佣
+Adobe Marketo Engage冠军(2017， 2018， 2020， 2021)
 
 ## Katja Keesom {#katja-keesom}
 
 ![Katja Keesom](/help/marketo-tutorial-implementing-new-instance/assets/katja-keesom.png){width="150"}
 
-**Katja Keesom**，首席营销自动化顾问Chapman Bright Adobe Marketo Engage Champion (2023)
+**Katja Keesom**，负责人B2B营销自动化顾问，Chapman Bright
+Adobe Marketo Engage冠军（2023年）
 
 ## Julz James {#julz-james}
 
 ![Julz James](/help/marketo-tutorial-implementing-new-instance/assets/julz-james.png){width="150"}
 
-**Julz James**，高级营销运营经理， 6Sense Adobe Marketo Engage Champion (2015)
+**Julz James**，高级营销运营经理，6sense
+Adobe Marketo Engage冠军（2015年）
 
 ## 彼得·利瓦达斯 {#peter-livadas}
 
 ![彼得·利瓦达斯](/help/marketo-tutorial-implementing-new-instance/assets/peter_livadas.png){width="150"}
 
-**彼得·利瓦达斯**，Adobe的Marketo Engage高级技术顾问
+**Peter Livadas**，AdobeMarketo Engage高级技术顾问
 
 ## 莎拉·巴留索 {#sara-barriuso}
 
-![莎拉·巴留索](/help/marketo-tutorial-implementing-new-instance/assets/sara_barriuso.png){width="150"}
+![Sara Barriuso](/help/marketo-tutorial-implementing-new-instance/assets/sara_barriuso.png){width="150"}
 
-**莎拉·巴留索**，Cornerstone OnDemand的营销运营经理
+**Sara Barriuso**，Cornerstone OnDemand营销运营经理

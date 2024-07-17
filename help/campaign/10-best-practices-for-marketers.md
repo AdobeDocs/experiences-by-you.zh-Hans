@@ -1,6 +1,6 @@
 ---
-title: 的十个最佳实践 [!DNL Adobe] [!DNL Campaign] 营销人员的成功
-description: 了解十个最佳实践以帮助您 [!DNL Adobe] [!DNL Campaign] 从业者可解锁并加速数字消费者的转型，并为他们的客户带来更好的体验。
+title: 为营销人员带来 [!DNL Adobe] [!DNL Campaign]成功的十大最佳实践
+description: 了解十个最佳实践，以帮助 [!DNL Adobe] [!DNL Campaign]从业人员解锁并加速数字消费者的转型，并为他们的客户带来更好的体验。
 doc-type: article
 solution: Campaign
 feature-set: Campaign
@@ -17,18 +17,18 @@ ht-degree: 77%
 
 ---
 
-# [！DNL]的十大最佳实践 [!DNL Adobe] [!DNL Campaign]]营销人员获得成功
+# 营销人员的[！DNL [!DNL Adobe] [!DNL Campaign]]成功的十大最佳实践
 
-克里斯蒂安·克利姆奇克是个自封的人。”[!DNL Adobe] 书呆子”，有七年的[！DNL [!DNL Adobe] Experience Cloud]专业知识，主要针对[！DNL [!DNL Adobe] [!DNL Campaign]]。 作为 [!DNL Adobe] 一家大型CPG公司的平台所有者Christian及其团队使用[！DNL [!DNL Campaign]]适用于所有消费者通讯和交互。 他们借助直邮、电子邮件和 SMS/MMS 等多种方式进行无缝协作，应对高标准的监管要求并开展多渠道消费者营销活动。
+Christian Klimczyk是一个自称“[!DNL Adobe]书呆子”的人，拥有七年的[！DNL [!DNL Adobe]Experience Cloud]专业知识，主要专注于[！DNL [!DNL Adobe] [!DNL Campaign]]。 作为一家大型CPG公司的[!DNL Adobe]平台所有者，Christian及其团队使用[！DNL [!DNL Campaign]]进行所有消费者通信和交互。 他们借助直邮、电子邮件和 SMS/MMS 等多种方式进行无缝协作，应对高标准的监管要求并开展多渠道消费者营销活动。
 
-在本文中，Christian分享了他的最佳实践以帮助您 [!DNL Adobe] [!DNL Campaign] 从业者可解锁并加速数字消费者的转型，并为他们的客户带来更好的体验。
+在本文中，Christian分享了他的最佳实践，以帮助[!DNL Adobe] [!DNL Campaign]从业人员解锁并加速数字消费者转型，并为他们的客户带来更好的体验。
 
 
 ## 1. 形成整体统一的首要营销和投放计划
 
-确保成功使用[！DNL]的第一步 [!DNL Adobe] [!DNL Campaign]]是了解您的工具和客户期望 — 在任何类型的营销中都是如此。 明确阐述并清楚了解用于联系消费者的渠道，知道该何时使用这些渠道以及原因。
+确保您成功使用[！DNL [!DNL Adobe] [!DNL Campaign]]的第一步是了解您的工具和客户期望 — 这在任何类型的营销中都适用。 明确阐述并清楚了解用于联系消费者的渠道，知道该何时使用这些渠道以及原因。
 
-[!DNL Adobe] [!DNL Campaign] 是一个灵活的工具，允许您以多种方式执行和编排通信。 [在每个购买历程中，有半数客户会接触三到五个渠道](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters)。因此，提前了解并规划对使用这些渠道的使用方式对于释放平台的全部潜能并与客户产生共鸣至关重要。
+[!DNL Adobe] [!DNL Campaign]是一个灵活的工具，允许您以多种方式执行和编排通信。 [在每个购买历程中，有半数客户会接触三到五个渠道](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters)。因此，提前了解并规划对使用这些渠道的使用方式对于释放平台的全部潜能并与客户产生共鸣至关重要。
 
 ## 2. 记录并了解客户数据
 
@@ -42,7 +42,7 @@ I added that second paragraph about 760% revenue and broke up the rest of the se
 
 [Hubspot 开展的一项研究](https://www.linkedin.com/pulse/customer-segmentation-effective-b2b-business-industry-sabreen)表明，和未进行细分的活动相比，进行了细分的活动的打开率高 14.31%，点击率高 101%。在开展活动之前细分受众的电子邮件营销人员表示，收入增长达 760%。
 
-在 [!DNL Adobe] [!DNL Campaign]，您可以快速轻松地编排分段。 但是，为了简化和加快此过程，在设计、请求活动的构建和执行时，活动运作者和营销从业人员必须详细了解其基础数据。在与支持您的[！DNL的管理员和开发人员合作时，了解当前数据以及如何预测可能需要的数据至关重要 [!DNL Campaign]]实例。
+在[!DNL Adobe] [!DNL Campaign]中，您可以快速轻松地编排分段。 但是，为了简化和加快此过程，在设计、请求活动的构建和执行时，活动运作者和营销从业人员必须详细了解其基础数据。了解当前数据以及如何预测在与支持您的[！DNL [!DNL Campaign]]实例的管理员和开发人员合作时可能需要的数据至关重要。
 
 活动的基础数据结构决定了活动的成功度。如果在集成平台或跳转到消费者数据平台时出现问题，了解并记录此数据结构也会有所帮助
 
@@ -50,7 +50,7 @@ I added that second paragraph about 760% revenue and broke up the rest of the se
 
 您和客户一样，每天都会按部就班地工作和生活。发送和编排营销活动时要对应这种节奏。否则，您可能无法联系到客户，因为[发送的邮件中有 85% 不会被打开，98% 不会被点进](https://www.validity.com/resource-center/state-of-email-2021/)。
 
-例如，如果客户习惯在早上通过手机查看是否有合适的商品，那么可以考虑向他们发送促销短信。如果客户习惯在晚上浏览下一个热门趋势，可以考虑发送一封包含促销代码（用于免除运费）的后续电子邮件。在[！DNL中使用热图工具也很重要 [!DNL Campaign]]以跟踪您的工作流和发送何时执行。 协调和推进跨多个品牌的通信可能非常具有挑战性。[密切关注并了解电子邮件的节奏、节奏和时间](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554) 对报文的整体稳定性和强度不可估量，并且 [!DNL Campaign] 实例。
+例如，如果客户习惯在早上通过手机查看是否有合适的商品，那么可以考虑向他们发送促销短信。如果客户习惯在晚上浏览下一个热门趋势，可以考虑发送一封包含促销代码（用于免除运费）的后续电子邮件。此外，使用[！DNL [!DNL Campaign]]中的热图工具来跟踪工作流和发送的执行时间也很重要。 协调和推进跨多个品牌的通信可能非常具有挑战性。[关注并了解电子邮件的节奏、节奏和时间](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554)对于消息和[!DNL Campaign]实例的整体稳定性和强度非常有用。
 
 ## 4.在需要个性化时，使用个性化
 
@@ -60,13 +60,13 @@ I added that second paragraph about 760% revenue and broke up the rest of the se
 
 创意资产就是动力源泉，可帮助您高效开展效果不俗的活动投放。在与消费者建立联系方面取得的成功越多，营销流程规模越大、越成熟，您就越需要更具创意的内容。消费者也期望收到这样的内容。
 
-您推进的速度取决于团队配置下一个投放的速度。通常，这需要有新颖且精彩的内容。[！DNL [!DNL Adobe] [!DNL Campaign]]可以轻松配置模板以及接收和准备这些投放。 然而，拥有健康的创意渠道至关重要。因为 [Litmus 报告](https://www.litmus.com/resources/state-of-email/)显示，58% 的营销人员表示，创建单个电子邮件营销活动需要两周或更长时间。
+您推进的速度取决于团队配置下一个投放的速度。通常，这需要有新颖且精彩的内容。[！DNL [!DNL Adobe] [!DNL Campaign]]可轻松配置模板以及接收和准备这些投放。 然而，拥有健康的创意渠道至关重要。因为 [Litmus 报告](https://www.litmus.com/resources/state-of-email/)显示，58% 的营销人员表示，创建单个电子邮件营销活动需要两周或更长时间。
 
 ## 6. 了解和管理订阅及首选项
 
 管理和维护订阅首选项可能会在短时间内造成困扰，从而引发各种等级的风险。就像通过客户不会回应的渠道向他们发送错误消息一样，十个消费者中有九个表示，负面体验会降低他们未来购买该品牌产品的可能性。进一步来说，您可能会让自己面临违反法规和遭受罚款的风险。
 
-预先制定策略，以通过使用[！DNL]的专家服务来管理选择加入并培育这个不断变化的生态系统 [!DNL Adobe] [!DNL Campaign]]和其他营销技术工具。 这通常是衡量活动成功度的最大因素之一，因此，随着活动策略的发展和成熟，认真规划会带来可观的回报。
+预先制定策略，以便通过专家使用[！DNL [!DNL Adobe] [!DNL Campaign]]和其他营销技术工具来管理选择加入并培育这个不断变化的生态系统。 这通常是衡量活动成功度的最大因素之一，因此，随着活动策略的发展和成熟，认真规划会带来可观的回报。
 
 ## 7. 了解可投放性并相应地进行规划
 
@@ -88,4 +88,4 @@ I added that second paragraph about 760% revenue and broke up the rest of the se
 
 市场并不是一成不变的，而是在不断加速前进。鼓励您的营销活动团队尽可能保持灵活敏捷，这对增强竞争力和持续满足不断增长的客户期望来说至关重要。
 
-[35% 的数字营销领导者认为，最大的挑战来自其组织内部](https://www.gartner.com/en/newsroom/press-releases/gartner-says-35--of-digital-marketing-leaders-believe-the-bigges)。要完成此操作，请在几个平台上交叉培训，提高您对数据流、结构或其他方面的了解 [!DNL Adobe] 解决方案，并为活动创建应急计划。 这种理念可以通过多种方式实现，但在敏捷性和规划方面的总体投入对于实现短期和长期成功至关重要。
+[35% 的数字营销领导者认为，最大的挑战来自其组织内部](https://www.gartner.com/en/newsroom/press-releases/gartner-says-35--of-digital-marketing-leaders-believe-the-bigges)。为此，请在几个平台上交叉培训，加深您对数据流和结构或其他[!DNL Adobe]解决方案的了解，并为营销活动创建应急计划。 这种理念可以通过多种方式实现，但在敏捷性和规划方面的总体投入对于实现短期和长期成功至关重要。

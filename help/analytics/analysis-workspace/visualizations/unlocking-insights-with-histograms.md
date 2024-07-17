@@ -1,6 +1,6 @@
 ---
-title: 使用直方图释放洞察；超过平均值 [!DNL Analytics]
-description: 了解直方图在分析中的影响，以获得超出平均水平的见解。
+title: 使用直方图解锁洞察；超出 [!DNL Analytics]中的平均值
+description: 探索直方图在Analytics中的影响，以获得超出平均值的见解。
 feature-set: Analytics
 feature: Visualizations
 role: User
@@ -12,16 +12,16 @@ thumbnail: KT-13833.jpeg
 exl-id: 46a9dab2-17f8-435e-949c-45d4a60343f0
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '1082'
-ht-degree: 4%
+source-wordcount: '1091'
+ht-degree: 0%
 
 ---
 
-# 使用直方图解锁见解：超越 中的平均水平[!DNL Analytics]
+# 使用直方图解锁洞察：超出[!DNL Analytics]中的平均值
 
-_了解直方图在分析中的影响，以获得超出平均水平的见解。直方图可揭示客户行为、访客参与度、技术绩效和表单错误中的数据模式，从而在中实现更深入的洞察和有根据的决策。 [!DNL Adobe] 工作区。_
+_发现Analytics中的直方图对平均值以外的分析的影响。 直方图可揭示客户行为、访客参与度、技术绩效和表单错误中的数据模式，从而在[!DNL Adobe] Workspace中实现更深入的洞察和明智的决策。_
 
-我们直接跳进去吧。 您应使用 [直方图](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html). 我要解释为什么，但是我想回答你的第一个问题：什么是直方图？ 我明白。 大多数时候，当你看到一栈的条柱上升时，你可能会认为这是一个条状图。 是的，直方图看起来很相似，但我向你保证，它们是不一样的。 条形图可比较各种情况，而直方图则显示变量发生的频率。 看看吧。 下面是一个条形图：
+我们直接跳进去吧。 您应该使用[直方图](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html)。 我要解释为什么，但是我想回答你的第一个问题：什么是直方图？ 我明白。 大多数时候，当你看到一栈的条柱上升时，你可能会认为这是一个条状图。 是的，直方图看起来很相似，但我向你保证，它们是不一样的。 条形图可比较各种情况，而直方图则显示变量发生的频率。 看看吧。 下面是一个条形图：
 
 ![条形图1](assets/bar-chart-1.png)
 
@@ -69,7 +69,7 @@ _了解直方图在分析中的影响，以获得超出平均水平的见解。�
 
   ![直方图4](assets/histogram-4.png)
 
-如您所见，直方图不仅有自己的用途，而且还会深化您从平均值获得的洞察力。 这是一个开箱即用的可视化图表 [!DNL Adobe Analytics] 并且易于创建。 希望这些用例对您有所帮助或激发灵感。 视觉化快乐！
+如您所见，直方图不仅有自己的用途，而且还会深化您从平均值获得的洞察力。 它们是[!DNL Adobe Analytics]中现成的可视化图表且易于创建。 希望这些用例对您有所帮助或激发灵感。 视觉化快乐！
 
 ## 作者
 
@@ -77,6 +77,6 @@ _了解直方图在分析中的影响，以获得超出平均水平的见解。�
 
 ![Gitai Ben-Ammi](assets/gitai-headshot.png)
 
-**Gitai Ben-Ammi**，Concentrix Catalyst 首席顾问
+**Gitai Ben-Ammi**，Concentrix Catalyst首席顾问
 
-[!DNL Adobe Analytics] 冠军
+[!DNL Adobe Analytics]冠军
