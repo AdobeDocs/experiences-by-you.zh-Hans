@@ -10,7 +10,7 @@ last-substantial-update: 2024-05-04T00:00:00Z
 jira: KT-14811
 thumbnail: KT-14811.jpeg
 exl-id: 42b7ca3d-e445-4c11-ad3d-d4e70c101c8e
-source-git-commit: bed599454a75159492f13aab1f802c09d92bf7ed
+source-git-commit: 4ea2f60e2bfa658add920c947f5455fe0572ce04
 workflow-type: tm+mt
 source-wordcount: '1569'
 ht-degree: 0%
@@ -36,7 +36,7 @@ ht-degree: 0%
 通常，最佳实践是仅同步营销所需的CRM字段。 从本练习开始，整理CRM中需要映射到Marketo Engage的字段，并在第一次正确运行初始CRM同步。
 
 >[!NOTE]
->如果您的CRM中存在自定义字段，则在开始初始Marketo Engage之前该字段中已具有相同的自定义字段，则会为CRM字段的Marketo Engage创建一个新的“重复”字段。 您可以将CRM字段重新映射到原始Marketo Engage字段，并在初始同步完成后隐藏重复字段，但您需要联系[Adobe客户支持](https://experienceleague.adobe.com/en/docs/customer-one/using/home#create-a-support-ticket-with-admin-console){target="_blank"}才能执行此操作。 有关更多详细信息，请参阅步骤7。
+>如果您的CRM中存在自定义字段，则在开始初始Marketo Engage之前该字段中已具有相同的自定义字段，则会在Marketo Engage中为CRM字段创建一个新的“重复”字段。 您可以将CRM字段重新映射到原始Marketo Engage字段，并在初始同步完成后隐藏重复字段，但您需要联系[Adobe客户支持](https://experienceleague.adobe.com/en/docs/customer-one/using/home#create-a-support-ticket-with-admin-console){target="_blank"}以执行此操作。 有关更多详细信息，请参阅步骤7。
 
 **步骤1：**&#x200B;构建CRM中当前可用字段的粗略列表，并标记是否要在Marketo Engage中显示这些字段。
 
@@ -83,7 +83,7 @@ ht-degree: 0%
 * 如果两个系统中都存在等效字段，请将它们包含在同一行中，并指明需要在“数据字典”工作表最右侧的“注释”部分重新映射它们。
 
 >[!NOTE]
->如果您计划创建同步筛选器字段([Salesforce](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"}) | [Microsoft Dynamics](https://community.dynamics.com/blogs/post/?postid=8a91d93e-2181-45dd-a8fb-1092010bc8f1){target="_blank"})，请确保将其包含在此步骤中，但将API名称保留为空，直到在CRM中创建该字段为止。
+>如果您计划创建同步筛选器字段([Salesforce](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"}) | [Microsoft Dynamics](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/custom-dynamics-sync-filter-details/create-a-custom-dynamics-sync-filter){target="_blank"})，请确保将其包含在此步骤中，但将API名称保留为空，直到在CRM中创建该字段为止。
 
 **步骤5：**&#x200B;与您的CRM管理员一起查看数据字典
 
@@ -97,7 +97,7 @@ ht-degree: 0%
 **步骤6：**&#x200B;执行初始同步
 
 * 确保您要与Marketo Engage同步的所有字段在CRM中具有数据字典定义的相应权限。
-* 确保在Marketo同步配置文件](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync){target="_blank"}中将[隐藏您希望&#x200B;***不***&#x200B;与Marketo Engage同步的所有字段。 在以后向同步中添加新字段比删除意外同步的字段要容易得多。
+* 确保在Marketo同步配置文件](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync){target="_blank"}中将[隐藏您希望&#x200B;**不**&#x200B;与Marketo Engage同步的所有字段。 在以后向同步中添加新字段比删除意外同步的字段要容易得多。
 * 您是否正在将您的CRM与同步筛选器字段连接？ 如果同步到Salesforce，请联系Adobe客户支持，以确保在开始初始同步之前已启用筛选功能。
 
 
@@ -133,21 +133,21 @@ ht-degree: 0%
 
 +++视频中使用的&#x200B;**链接：**
 
-* [了解Salesforce同步](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html){target="_blank"}
+* [了解Salesforce同步](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync){target="_blank"}
 
-* [将Marketo字段添加到Salesforce (Enterprise/Unlimited)](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.html){target="_blank"}
+* [将Marketo字段添加到Salesforce (Enterprise/Unlimited)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited){target="_blank"}
 
-* [在Salesforce (Enterprise/Unlimited)中创建Marketo用户](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.html){target="_blank"}
+* [在Salesforce (Enterprise/Unlimited)中创建Marketo用户](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited){target="_blank"}
 
-* [连接Marketo和Salesforce(Enterprise/Unlimited)](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.html){target="_blank"}
+* [连接Marketo和Salesforce(Enterprise/Unlimited)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited){target="_blank"}
 
-* [用户需要先在Salesforce端设置连接的应用程序，然后才能转到Marketo和Salesforce Sync。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.html){target="_blank"}
+* [用户需要先在Salesforce端设置连接的应用程序，然后才能转到Marketo和Salesforce Sync。](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0){target="_blank"}
 
-* [Salesforce同步状态](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-status.html){target="_blank"}
+* [Salesforce同步状态](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-status){target="_blank"}
 
-* [隐藏和取消隐藏字段](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/hide-and-unhide-a-field.html){target="_blank"}
+* [隐藏和取消隐藏字段](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/hide-and-unhide-a-field){target="_blank"}
 
-* [教程：了解如何将Marketo同步到CRM](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/crm-sync-learn.html){target="_blank"}
+* [教程：了解如何将Marketo同步到CRM](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/crm-sync-learn){target="_blank"}
 
 +++
 
@@ -159,27 +159,27 @@ ht-degree: 0%
 
 +++视频中使用的&#x200B;**链接：**
 
-* [了解Microsoft Dynamics同步](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/understanding-the-microsoft-dynamics-sync.html){target="_blank"}
+* [了解Microsoft Dynamics同步](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/understanding-the-microsoft-dynamics-sync){target="_blank"}
 
-* [下载Marketo潜在客户管理解决方案](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/download-the-marketo-lead-management-solution.html){target="_blank"}
+* [下载Marketo潜在客户管理解决方案](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/download-the-marketo-lead-management-solution){target="_blank"}
 
-* [更新Microsoft Dynamics的Marketo解决方案](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.html){target="_blank"}
+* [更新Microsoft Dynamics的Marketo解决方案](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/update-the-marketo-solution-for-microsoft-dynamics){target="_blank"}
 
-* [同意客户端ID和应用程序注册](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/grant-consent-for-client-id-and-app-registration.html)
+* [同意客户端ID和应用程序注册](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/grant-consent-for-client-id-and-app-registration)
 
-* [验证Microsoft Dynamics同步](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/validate-microsoft-dynamics-sync.html){target="_blank"}
+* [验证Microsoft Dynamics同步](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/validate-microsoft-dynamics-sync){target="_blank"}
 
-* [同步状态](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/sync-status.html){target="_blank"}
+* [同步状态](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/sync-status){target="_blank"}
 
-* [修复Dynamics验证同步问题](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/fix-dynamics-validation-sync-issues.html){target="_blank"}
+* [修复Dynamics验证同步问题](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/fix-dynamics-validation-sync-issues){target="_blank"}
 
-* [创建自定义Dynamics同步筛选器](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/custom-dynmaics-sync-filter-details/create-a-custom-dynamics-sync-filter.html){target="_blank"}
+* [创建自定义Dynamics同步筛选器](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/custom-dynamics-sync-filter-details/create-a-custom-dynamics-sync-filter.html){target="_blank"}
 
-* [查看组织服务URL](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/view-the-organization-service-url.html){target="_blank"}
+* [查看组织服务URL](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/view-the-organization-service-url){target="_blank"}
 
-* 在Dynamics中删除字段之前[正在编辑要同步的字段](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/editing-fields-to-sync-before-deleting-them-in-dynamics.html){target="_blank"}
+* 在Dynamics中删除字段之前[正在编辑要同步的字段](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/editing-fields-to-sync-before-deleting-them-in-dynamics){target="_blank"}
 
-* [教程：了解如何将Marketo同步到CRM](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/crm-sync-learn.html){target="_blank"}
+* [教程：了解如何将Marketo同步到CRM](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/crm-sync-learn){target="_blank"}
 
 +++
 
@@ -190,4 +190,3 @@ ht-degree: 0%
 {{peter-livadas}}
 
 {{amy-chiu}}
-
