@@ -8,9 +8,9 @@ role: Admin
 level: Beginner
 solution: Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 0314d625e37f3d98b61b64b148509e650c2b1be9
+source-git-commit: 401c9b711e5bd8f5d6e1f9ea96e444a2dc7bd869
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '97'
 ht-degree: 2%
 
 ---
@@ -28,4 +28,4 @@ ht-degree: 2%
 + [利用Dynamic Chat设计全渠道对话式营销](./designing-omnichannel-conversational-marketing.md)
 + [实例治理快速入门和文档](./documenting-your-instance.md)
 + [[!DNL Marketo Engage] 教程](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=zh-Hans)
-+ [[!DNL Marketo Engage] 由您](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/marketo-engage/overview)
++ [返回透视](https://experienceleague.adobe.com/en/perspectives?lang=en#f-el_product=Marketo%20Engage&amp;aq=((%40el_contenttype%20NOT%20%22Community%7CUser%22)%20AND%20(%40el_contenttype%3D%22perspective%22)))
