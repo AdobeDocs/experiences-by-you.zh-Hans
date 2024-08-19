@@ -1,6 +1,6 @@
 ---
-title: 实施新 [!DNL Marketo Engage] 实例的提示和技巧 — 教程概述
-description: 了解如何实施新的 [!DNL Marketo Engage] 实例以充分利用其功能。 此“实施新Marketo Engage”提示和技巧系列提供了由Adobe [!DNL Marketo Engage] 拥护者证实的最佳实践。 涵盖的主题包括利益相关者管理、实施项目管理、内部培训、构建领导/人员评分模型、设置初始CRM同步等。
+title: 实施新实例的提示和技巧
+description: 了解如何实施新的 [!DNL Marketo Engage] 实例以充分利用其功能。
 solution: Marketo Engage
 role: Admin
 level: Beginner
@@ -10,20 +10,20 @@ last-substantial-update: 2024-03-01T00:00:00Z
 jira: KT-13204
 thumbnail: KT-13204.jpeg
 exl-id: 58816df0-03d2-4d2f-a11b-8809c51d6e4f
-source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '567'
+source-wordcount: '523'
 ht-degree: 0%
 
 ---
 
-# 实施新[!DNL Marketo Engage]实例的提示和技巧 — 教程概述
+# 实施新[!DNL Marketo Engage]实例的提示和技巧
 
 欢迎使用Adobe[!DNL Marketo Engage]！ 设置新实例是借助营销自动化提升您的数字营销策略的第一步。 成功实施[!DNL Marketo Engage]的关键是文档。
 
-此“实施新实例提示和技巧”系列来源于以前征服过实施的Adobe[!DNL Marketo Engage]支持者。 本教程为新管理员提供了分步指南，指导他们跨职能管理实施项目并独立配置技术设置。 选择性主题还随附可下载的清单和模板，可供您根据自己的需求进行自定义，而无需从头开始。 让我们深入了解一下你们同行的智慧！
+此&#x200B;_实施新实例提示和技巧_&#x200B;系列来源于以前征服过实施的Adobe[!DNL Marketo Engage]支持者。 本教程为新管理员提供了分步指南，指导他们跨职能管理实施项目并独立配置技术设置。 选择性主题还随附可下载的清单和模板，可供您根据自己的需求进行自定义，而无需从头开始。 让我们深入了解一下你们同行的智慧！
 
-## 主题和您将学习的内容
+## 主题和您学到的内容
 
 * [管理利益相关者以实施Marketo Engage](/help/marketo-tutorial-implementing-new-instance/managing-stakeholder-communications.md)
   *学习在执行Marketo Engage实例期间有效管理利益相关者的策略。 本教程提供了可操作的提示，用于发现您的利益相关者需求、获得领导力支持，以及进行跨职能沟通以寻求实施支持。*

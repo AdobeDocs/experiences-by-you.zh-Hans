@@ -1,5 +1,5 @@
 ---
-title: 创建可视化数据流图以了解您的营销技术栈栈
+title: 创建数据流图以了解您的营销技术栈栈
 description: 了解如何创建“潜在客户和数据源”图表以了解数据世界，以及高效地审核和整理实例。
 feature-set: Marketo Engage
 feature: Administration
@@ -11,14 +11,14 @@ jira: KT-13877
 thumbnail: KT-13877.jpeg
 hide: false
 exl-id: 088bdcf1-4e49-44a7-ac78-a03742ff680b
-source-git-commit: b2e05ff39e065691dda530ed17762a55cf2e6778
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '571'
+source-wordcount: '569'
 ht-degree: 2%
 
 ---
 
-# 创建可视化数据流图以了解您的营销技术栈栈
+# 创建数据流图以了解您的营销技术栈栈
 
 作为接管已运行多年的[!DNL Marketo Engage]实例的管理员，审核和整理实例几乎是一项不可能完成的任务。 当[!DNL Adobe] [!DNL Marketo Champion]（2019年），Kelly Jo Horton进入长期建立的实例时，她通过[创建“潜在客户和数据源”的图表](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"}来应对此挑战，以熟悉数据世界。 在本教程中，您将了解如何通过构建Kelly Jo Horton分享的示例来创建自己的数据流图。 让我们了解一下您的MarTech生态系统！
 

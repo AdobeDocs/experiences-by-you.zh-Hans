@@ -10,9 +10,9 @@ last-substantial-update: 2024-05-04T00:00:00Z
 jira: KT-14811
 thumbnail: KT-14811.jpeg
 exl-id: 42b7ca3d-e445-4c11-ad3d-d4e70c101c8e
-source-git-commit: 195a1211b8b191032f4d37662b5beee9a0a54de4
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '1569'
+source-wordcount: '1567'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 在执行初始同步之前，确定并组织要从CRM同步的字段，是本机连接器设置过程中的关键步骤。 我们称之为数据字典练习，可帮助您最大限度地减少创建的重复字段数，并使任何后续的重新映射步骤尽可能顺畅地进行。 本练习通常涉及营销和销售团队以及您的CRM管理员的输入，以确保只有相关字段会同步到您的Marketo Engage实例。
 
-## 如何构建数据字典
+## 构建数据字典
 
 通常，最佳实践是仅同步营销所需的CRM字段。 从本练习开始，整理CRM中需要映射到Marketo Engage的字段，并在第一次正确运行初始CRM同步。
 

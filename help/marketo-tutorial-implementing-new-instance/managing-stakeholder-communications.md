@@ -10,7 +10,7 @@ last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-13284
 thumbnail: KT-13284.jpeg
 exl-id: b5b8a5b6-83d4-48ae-ae83-32c9fbf64df8
-source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
 source-wordcount: '1712'
 ht-degree: 0%
@@ -69,7 +69,7 @@ ht-degree: 0%
 </table>
 
 
-### 操作3 — 演示早期入选
+### 操作3 — 演示早期成功
 
 展示快速入选或试点项目以展示Marketo Engage的影响。 这可以是促进显着参与的有针对性的电子邮件促销活动，也可以是简化潜在客户培养的自动化工作流。 与利益相关者分享这些成功事例，以强化他们的支持和热情。
 

@@ -11,10 +11,10 @@ thumbnail: 3419131.jpeg
 feature-set: Marketo Engage
 feature: Modern UX
 exl-id: b1bb3d32-bbf3-48e5-999b-102ddd501124
-source-git-commit: 7bbe86435c683f41509a8cbe6b117b354309644a
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 29%
+source-wordcount: '66'
+ht-degree: 27%
 
 ---
 

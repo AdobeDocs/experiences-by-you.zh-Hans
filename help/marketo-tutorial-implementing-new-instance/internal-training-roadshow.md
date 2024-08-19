@@ -1,5 +1,5 @@
 ---
-title: 开发内部入职和培训路演
+title: 制定内部入职和培训路演
 description: 了解如何建立强大的过程来创建和维护 [!DNL Marketo Engage] 实例的文档和更改日志。 这样不仅可以为团队的知识共享节省时间，还可以提高实例的健康和效率。
 role: Admin
 level: Beginner
@@ -10,7 +10,7 @@ last-substantial-update: 2024-03-01T00:00:00Z
 jira: KT-14809
 thumbnail: KT-14809.jpeg
 exl-id: bd5d102b-0810-43e1-baac-fbef43817d50
-source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
 source-wordcount: '816'
 ht-degree: 0%

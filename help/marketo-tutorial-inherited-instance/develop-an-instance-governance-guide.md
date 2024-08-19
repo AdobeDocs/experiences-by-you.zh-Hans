@@ -1,6 +1,6 @@
 ---
 title: 使用文档开发实例治理指南
-description: 了解如何建立强大的过程来创建和维护 [!DNL Marketo Engage] 实例的文档和更改日志。 这样不仅可以为团队的知识共享节省时间，还可以提高实例的健康和效率。
+description: 了解如何建立强大的过程来创建和维护 [!DNL Marketo Engage] 实例的文档和更改日志。
 feature-set: Marketo Engage
 feature: Administration
 role: Admin
@@ -11,9 +11,9 @@ jira: KT-14103
 thumbnail: KT-14103.jpeg
 hide: false
 exl-id: e127b84d-ef92-4527-a0e6-a36af35b7ee0
-source-git-commit: b2e05ff39e065691dda530ed17762a55cf2e6778
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '895'
+source-wordcount: '874'
 ht-degree: 0%
 
 ---
@@ -24,9 +24,9 @@ ht-degree: 0%
 
 此分步教程源自[！DNL [!DNL Adobe] Marketo Champion] (2018)，Nick Hajdin将指导您完成此过程，以概述实例设置、记录主要操作程序并维护[!DNL changelog]以实施严格的治理策略。
 
-## 为何要为继承的实例开发实例治理指南和文档？
+## 为您的继承实例开发实例治理指南
 
-详细文档和[!DNL changelog]对于[!DNL Marketo Engage]实例中的高效管理和知识传授至关重要。 跟踪您在实例设置期间所做的更改和决策可以帮助您：
+详细文档和[!UICONTROL Changelog]对于[!DNL Marketo Engage]实例中的高效管理和知识传授至关重要。 跟踪您在实例设置期间所做的更改和决策可以帮助您：
 
 1. 以可扩展方式更轻松地培训内部用户。
 2. 在[!DNL Marketo Engage]中长期更有效地构建。
@@ -78,17 +78,17 @@ ht-degree: 0%
 
 对于每个已确定的运行方案，记录其当前状态。 其中包括有关项目目的、设置、关联的智能营销活动以及与其他工具（如果适用）集成的详细信息。
 
-### 步骤4：强制[!DNL Changelog]维护
+### 步骤4：强制[!UICONTROL Changelog]维护
 
-下一步是为您的[!DNL Marketo Engage]实例建立严格的治理策略，要求“[!DNL Changelog]维护”。 此策略可确保完整记录整个实例中对运行程序所做的任何更新。
+下一步是为您的[!DNL Marketo Engage]实例建立严格的治理策略，该策略要求“[!UICONTROL Changelog]维护”。 此策略可确保完整记录整个实例中对运行程序所做的任何更新。
 
-向您的团队宣传这些文档的重要性，以及如何正确访问和更新它们。 分配维护更改日志的责任可能会有所帮助，因此，一些指定的营销运营团队成员或管理员会一致地记录更改并提供签名。
+向您的团队宣传这些文档的重要性，以及如何正确访问和更新它们。 分配维护更改日志的责任可能会有所帮助，因此，一些指定的营销运营团队成员或管理员会一致地记录更改并提供注销。
 
 ### 步骤5：集中文档
 
 建立一个中心位置或存储库，用于存储与[!DNL Marketo Engage]实例相关的所有文档。 这可以是共享驱动器、专用文件夹或基于云的系统。
 
-### 步骤6：定期审查和更新
+### 步骤6：查看和更新
 
 安排定期审查文档，以确保文档保持准确和最新。 在繁忙的时刻很容易被忽视。 主动在日历上设置提醒，以确保您的团队定期进行更新，以反映操作程序中的任何更改或优化。
 

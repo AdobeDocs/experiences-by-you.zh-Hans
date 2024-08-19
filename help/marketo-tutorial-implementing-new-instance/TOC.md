@@ -8,24 +8,24 @@ role: Admin
 level: Beginner
 solution: Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 401c9b711e5bd8f5d6e1f9ea96e444a2dc7bd869
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
 
 # 实施新[!DNL Marketo Engage]实例的提示和技巧 {#implementing-new-instance}
 
-+ [教程 — 概述](./overview.md)
++ [教程概述](./overview.md)
 + [管理利益相关者以实施Marketo Engage](./managing-stakeholder-communications.md)
-+ [规划Marketo Engage实施](./planning-for-new-implementation.md)
++ [规划您的Marketo Engage实施](./planning-for-new-implementation.md)
 + [开发内部入职和培训路演](./internal-training-roadshow.md)
 + [构建潜在客户/人员评分模型](./building-person-scoring-model.md)
 + [本地CRM连接器的同步字段](./syncing-fields-for-crm-integration.md)
-+ [组织新实例和建立命名约定](./organizing-new-instance.md)
++ [组织新实例并建立命名约定](./organizing-new-instance.md)
 + [利用Dynamic Chat设计全渠道对话式营销](./designing-omnichannel-conversational-marketing.md)
-+ [实例治理快速入门和文档](./documenting-your-instance.md)
++ [实例治理和文档入门](./documenting-your-instance.md)
 + [[!DNL Marketo Engage] 教程](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=zh-Hans)
-+ [返回透视](https://experienceleague.adobe.com/en/perspectives?lang=en#f-el_product=Marketo%20Engage&aq=&#40;&#40;%40el_contenttype%20NOT%20%22Community%7CUser%22&#41;%20AND%20&#40;%40el_contenttype%3D%22perspective%22&#41;&#41;)
++ [返回透视](https://experienceleague.adobe.com/en/perspectives?lang=en#f-el_product=Marketo%20Engage&amp;aq=((%40el_contenttype%20NOT%20%22Community%7CUser%22)%20AND%20(%40el_contenttype%3D%22perspective%22)))

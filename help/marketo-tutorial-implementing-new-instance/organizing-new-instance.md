@@ -1,5 +1,5 @@
 ---
-title: 组织新实例和建立命名约定
+title: 组织新实例并建立命名约定
 description: 了解如何在Marketo Engage实例中设置良好的组织，以便未来组织内的营销人员能够轻松浏览程序、修改资源和提取报表。
 role: Admin
 level: Beginner
@@ -10,14 +10,14 @@ last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-14813
 thumbnail: KT-14813.jpeg
 exl-id: 19b3de9e-53f3-4308-b46e-7b8f756c30a0
-source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
 source-wordcount: '1166'
 ht-degree: 2%
 
 ---
 
-# 组织新实例和建立命名约定
+# 组织新实例并建立命名约定
 
 作为实施新Marketo Engage实例的管理员，您将为将来允许组织内的营销人员轻松导航该实例奠定基础。 熟悉树文件夹结构和命名惯例可以使您的实例保持整洁并为长期成功做好准备。 本教程包含Adobe和Marketo Engage冠军(2019-2020) Natalie Kremer推荐的示例，可帮助您[统一组织文件夹并命名资源](https://nation.marketo.com/t5/champion-program-blogs/keep-marketo-engage-organized-with-folders-and-naming/ba-p/245630){target="_blank"}。
 

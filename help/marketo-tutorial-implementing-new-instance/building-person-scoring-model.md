@@ -1,6 +1,6 @@
 ---
 title: 为Marketo Engage项目构建人员评分模型
-description: Adobe Marketo Engage允许您从头开始构建评分模型。 在直接跳入Marketo Engage以构建评分项目之前，您必须设置基本评分字段，例如人口统计分数、行为分数和人员总分数。 详细了解Marketo Engage冠军用于开发您的业务所需的评分模型的策略。
+description: 了解如何从头开始构建评分模型。
 role: Admin
 level: Beginner
 doc-type: Article
@@ -10,9 +10,9 @@ last-substantial-update: 2024-05-04T00:00:00Z
 jira: KT-14810
 thumbnail: KT-14810.jpeg
 exl-id: 73976144-f02b-4423-9b4b-410330117ba9
-source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '2111'
+source-wordcount: '2055'
 ht-degree: 2%
 
 ---
@@ -79,7 +79,7 @@ ht-degree: 2%
 
 **步骤5** — 请记住，评分是一个迭代过程！ 收集更多数据进行分析，不断审核并调整得分和阈值。
 
-## 练习2 — 确定与人口统计得分相符的权利
+## 练习2 — 确定与人口统计得分相符的适当因素
 
 现在，您已定义指示购买意图的活动，您应该使用理想潜在客户配置文件完成评分模型。 要确定潜在客户是否适合进行进一步的销售对话，除了行为得分之外，还必须分配人口统计分数，以便该模型有助于从适合度和意图方面确定最佳销售机会。
 

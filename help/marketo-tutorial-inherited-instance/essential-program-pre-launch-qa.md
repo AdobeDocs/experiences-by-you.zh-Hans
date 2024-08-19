@@ -11,7 +11,7 @@ jira: KT-13888
 thumbnail: KT-13888.jpeg
 hide: false
 exl-id: c377fe5f-2d77-4fd0-9ac4-5ad65506f582
-source-git-commit: b2e05ff39e065691dda530ed17762a55cf2e6778
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
 source-wordcount: '4903'
 ht-degree: 2%
@@ -201,7 +201,7 @@ ht-degree: 2%
 
 ## 接下来呢？
 
-单击[此处](/help/marketo-tutorial-inherited-instance/_assets/downloads/[!DNL Adobe]_Marketo_Engage_Inherited_Instance_Program_Prelaunch_QA_Checklist.xlsx)下载可编辑的程序启动前核对清单，供您自定义。 请记住，这应该根据您组织的工作流程进行调整。 开发有效的QA流程可使您始终负责并减少客户面临的错误。
+单击[此处](/help/marketo-tutorial-instance/_assets/downloads/[!DNL Adobe]_Marketo_Engage_Inherited_Instance_Program_Prelaunch_QA_Checklist.xlsx)下载可编辑的程序启动前核对清单，供您自定义。 请记住，这应该根据您组织的工作流程进行调整。 开发有效的QA流程可使您始终负责并减少客户面临的错误。
 
 ### 作者
 
