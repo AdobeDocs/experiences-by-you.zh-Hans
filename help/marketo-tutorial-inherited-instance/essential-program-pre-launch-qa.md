@@ -201,7 +201,7 @@ ht-degree: 2%
 
 ## 接下来呢？
 
-单击[此处](/help/marketo-tutorial-instance/_assets/downloads/[!DNL Adobe]_Marketo_Engage_Inherited_Instance_Program_Prelaunch_QA_Checklist.xlsx)下载可编辑的程序启动前核对清单，供您自定义。 请记住，这应该根据您组织的工作流程进行调整。 开发有效的QA流程可使您始终负责并减少客户面临的错误。
+单击[此处](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Program_Prelaunch_QA_Checklist.xlsx)下载可编辑的程序启动前核对清单，供您自定义。 请记住，这应该根据您组织的工作流程进行调整。 开发有效的QA流程可使您始终负责并减少客户面临的错误。
 
 ### 作者
 
