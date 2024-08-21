@@ -11,9 +11,9 @@ jira: KT-13888
 thumbnail: KT-13888.jpeg
 hide: false
 exl-id: c377fe5f-2d77-4fd0-9ac4-5ad65506f582
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+source-git-commit: 286b85beb92a2563d9ec57696834a4ba2a205c73
 workflow-type: tm+mt
-source-wordcount: '4903'
+source-wordcount: '4898'
 ht-degree: 2%
 
 ---
