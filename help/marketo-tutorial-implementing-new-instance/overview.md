@@ -10,18 +10,18 @@ last-substantial-update: 2024-03-01T00:00:00Z
 jira: KT-13204
 thumbnail: KT-13204.jpeg
 exl-id: 58816df0-03d2-4d2f-a11b-8809c51d6e4f
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+source-git-commit: dd6b3d2ea080de27e6955d1538a9b29d4fbb281a
 workflow-type: tm+mt
-source-wordcount: '523'
-ht-degree: 0%
+source-wordcount: '522'
+ht-degree: 1%
 
 ---
 
 # 实施新[!DNL Marketo Engage]实例的提示和技巧
 
-欢迎使用Adobe[!DNL Marketo Engage]！ 设置新实例是借助营销自动化提升您的数字营销策略的第一步。 成功实施[!DNL Marketo Engage]的关键是文档。
+欢迎使用Adobe[!DNL Marketo Engage]！ 设置新实例是通过营销自动化升级数字营销策略的第一步。 成功实施[!DNL Marketo Engage]的关键是文档。
 
-此&#x200B;_实施新实例提示和技巧_&#x200B;系列来源于以前征服过实施的Adobe[!DNL Marketo Engage]支持者。 本教程为新管理员提供了分步指南，指导他们跨职能管理实施项目并独立配置技术设置。 选择性主题还随附可下载的清单和模板，可供您根据自己的需求进行自定义，而无需从头开始。 让我们深入了解一下你们同行的智慧！
+此“实施新实例提示和技巧”系列来源于以前征服过实施的Adobe[!DNL Marketo Engage]支持者。 本教程为新管理员提供了跨职能管理实施项目和独立配置技术设置的分步指南。 选择性主题还随附可下载的清单和模板，可供您根据自己的需求进行自定义，而无需从头开始。 让我们深入了解一下你们同行的智慧！
 
 ## 主题和您学到的内容
 
@@ -50,7 +50,7 @@ ht-degree: 0%
   *了解如何在Marketo Engage实例中设置良好的组织，以便未来组织内的营销人员能够轻松浏览程序、修改资源和提取报表。*
 <br>
 
-* [使用Dynamic Chat设计全渠道对话式营销](/help/marketo-tutorial-implementing-new-instance/designing-omnichannel-conversational-marketing.md)
+* [利用 Dynamic Chat 设计全渠道对话营销](/help/marketo-tutorial-implementing-new-instance/designing-omnichannel-conversational-marketing.md)
   *使用Adobe Marketo Engage中的本机对话参与渠道Adobe Dynamic Chat快速开始设计对话式营销。 本教程提供了实施用例的可操作方法，例如销售会议预订、网站内容参与和活动/网络研讨会促销。*
 <br>
 
