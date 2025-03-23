@@ -1,7 +1,7 @@
 ---
 title: AEM Champion提示和技巧 —  [!DNL Cloud Manager] 入门行动手册
-description: 查看这些有关 [!DNL Cloud Manager] 入门的提示以及AEM冠军和专家Rakesh Pasupuleti的入门剧本。
-version: Cloud Service
+description: 查看AEM冠军和专家Rakesh Pasupuleti的 [!DNL Cloud Manager] 入门技巧和入门剧本。
+version: Experience Manager as a Cloud Service
 solution: Experience Manager Cloud Manager, Marketo Engage, Experience Manager
 feature-set: Marketo Engage, Experience Manager, Experience Manager Cloud Manager
 feature: Cloud Manager
@@ -12,7 +12,7 @@ doc-type: Value Video
 last-substantial-update: 2023-05-11T00:00:00Z
 jira: KT-13228
 exl-id: 3ee98846-35ff-4de1-af4b-b65376572dfe
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+source-git-commit: 2a628f89f602371c02db5204956d9397f306bdb8
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 1%
@@ -27,7 +27,7 @@ ht-degree: 1%
 >
 >在此处下载[入门行动手册。](./assets/Cloud-Manager-for-AEM-as-a-Cloud-Service.xlsx)
 
-查看技术主管同事Rakesh Pasupuleti给出的这些提示。 Rakesh是[!DNL Adobe]Experience Manager冠军，他分享了关于如何使用入门剧本的想法。
+查看技术主管同事Rakesh Pasupuleti给出的这些提示。 Rakesh是[!DNL Adobe] Experience Manager冠军，他分享了关于如何使用入门剧本的想法。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419299?quality=12&learn=on)
 

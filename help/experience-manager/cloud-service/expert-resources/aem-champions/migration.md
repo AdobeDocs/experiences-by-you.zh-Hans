@@ -1,7 +1,7 @@
 ---
 title: AEM Champion — 计划迁移到AEM as a Cloud Service
-description: 在准备和计划从AEM Champion迁移到AEM as a Cloud Service方面获得专家建议，Wilson Faure。
-version: Cloud Service
+description: 在准备和计划迁移到AEM champion的AEM as a Cloud Service方面获得专家建议，Wilson Faure。
+version: Experience Manager as a Cloud Service
 topic: Migration
 role: Admin, Developer
 level: Beginner
@@ -11,7 +11,7 @@ last-substantial-update: 2024-02-28T00:00:00Z
 jira: KT-15036
 thumbnail: 3427587.jpeg
 exl-id: 4731c192-9289-42b8-9be9-8a42dd33763d
-source-git-commit: cdedf565731b423bdac6b48d207fac979d0b7459
+source-git-commit: 2a628f89f602371c02db5204956d9397f306bdb8
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 12%

@@ -1,7 +1,7 @@
 ---
 title: AEM Champion提示和技巧 —  [!DNL Cloud Manager] 环境类型
 description: 查看这些来自AEM冠军和专家Rakesh Pasupuleti的有关 [!DNL Cloud Manager]环境类型的提示。
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature-set: Marketo Engage, Experience Manager, Experience Manager Cloud Manager
 solution: Experience Manager Cloud Manager, Marketo Engage, Experience Manager Cloud Manager
 feature: Cloud Manager
@@ -12,7 +12,7 @@ doc-type: Value Video
 last-substantial-update: 2023-05-11T00:00:00Z
 jira: KT-13229
 exl-id: 682c97c0-d563-4cfa-be6b-0eb22c675d21
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+source-git-commit: 2a628f89f602371c02db5204956d9397f306bdb8
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 3%
@@ -21,7 +21,7 @@ ht-degree: 3%
 
 # AEM Champion提示和技巧 — [!DNL Cloud Manager]环境类型
 
-查看技术主管同事Rakesh Pasupuleti给出的这些提示。 Rakesh是[!DNL Adobe]Experience Manager冠军，他介绍如何了解[!DNL Cloud Manager]的环境类型。
+查看技术主管同事Rakesh Pasupuleti给出的这些提示。 Rakesh是[!DNL Adobe] Experience Manager冠军，他介绍了如何了解[!DNL Cloud Manager]的环境类型。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419297?quality=12&learn=on)
 
