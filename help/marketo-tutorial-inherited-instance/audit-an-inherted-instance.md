@@ -24,4 +24,4 @@ ht-degree: 0%
 
 在本教程中，我们将向您介绍[!DNL Marketo Engage]中最重要的部分，包括“管理员”、“营销活动”、“设计工作室”和“数据库”，并在此过程中向您提供有关审核和优化的提示。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422473/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453032/?learn=on&captions=chi_hans)

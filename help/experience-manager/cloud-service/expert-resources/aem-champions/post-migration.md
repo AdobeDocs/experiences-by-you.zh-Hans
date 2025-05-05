@@ -21,4 +21,4 @@ ht-degree: 54%
 
 了解 AEM 专家 Wilson Faure 的宝贵见解。在本视频中，他深入探讨了迁移后的重要策略和技巧，以优化您的过渡。明确迁移后几天和几周内需要关注的事项。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428309/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446609/?learn=on&captions=chi_hans)

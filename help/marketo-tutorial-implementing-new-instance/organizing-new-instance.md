@@ -27,7 +27,7 @@ ht-degree: 2%
 
 ## 如何组织Marketo Engage实例
 
->[!VIDEO](https://video.tv.adobe.com/v/3421577/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422761/?quality=12&learn=on&captions=chi_hans)
 
 ### 步骤1 — 设置文件夹结构以按顺序排列程序
 

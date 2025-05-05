@@ -33,7 +33,7 @@ ht-degree: 26%
 <tr>
   <td>
     <a href="/help/campaign/ac-v7/workflow-best-practices-for-marketers.md">
-      <img alt="面向营销人员的5大工作流最佳实践" src="https://video.tv.adobe.com/v/3410837?format=jpeg" />
+      <img alt="面向营销人员的5大工作流最佳实践" src="https://video.tv.adobe.com/v/3448155?format=jpeg&captions=chi_hans" />
     </a>
     <div>
       <a href="/help/campaign/ac-v7/workflow-best-practices-for-marketers.md">

@@ -24,4 +24,4 @@ ht-degree: 81%
 
 工作流是一种强大的[!DNL Adobe] [!DNL Campaign]功能，可帮助您更轻松地管理营销活动并吸引客户。 学习并应用 LoyaltyOne 营销副总监 Adam Wilson 为营销人员提供的五大基本工作流最佳实践。
 
->[!VIDEO](https://video.tv.adobe.com/v/3410837?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448155?quality=12&learn=on&captions=chi_hans){transcript=true}

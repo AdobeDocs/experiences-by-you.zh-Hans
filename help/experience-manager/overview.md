@@ -58,7 +58,7 @@ ht-degree: 20%
   </td>
   <td>
     <a href="/help/experience-manager/sites/expert-resources/champion-tips-2.md">
-      <img alt="提示和技巧" src="https://video.tv.adobe.com/v/3409427?format=jpeg" />
+      <img alt="提示和技巧" src="https://video.tv.adobe.com/v/3439847?format=jpeg&captions=chi_hans" />
     </a>
     <div>
       <a href="/help/experience-manager/sites/expert-resources/champion-tips-2.md">

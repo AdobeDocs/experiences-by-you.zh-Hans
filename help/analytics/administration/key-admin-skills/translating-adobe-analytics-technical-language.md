@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # 以非技术方式翻译[!DNL Adobe Analytics]技术语言
 
->[!VIDEO](https://video.tv.adobe.com/v/342066/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345321/?quality=12&learn=on&captions=chi_hans)
 
 ## 说不同的语言
 

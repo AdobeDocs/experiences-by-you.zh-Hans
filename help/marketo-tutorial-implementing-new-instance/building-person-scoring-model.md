@@ -121,7 +121,7 @@ ht-degree: 2%
 
 您更喜欢这个练习的视频演练吗？ 收看Marketo Engage冠军Katja Keesom演示，在评分模型中建立本地灵活性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426914/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457449/?learn=on&captions=chi_hans)
 
 **步骤1** — 获取练习1和练习2中的活动和特征，并确定每个项目的活动或特征是否因地点或产品线而异。
 

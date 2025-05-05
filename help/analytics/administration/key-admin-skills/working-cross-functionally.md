@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # 跨职能工作
 
->[!VIDEO](https://video.tv.adobe.com/v/342071/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345450/?quality=12&learn=on&captions=chi_hans)
 
 [!DNL Adobe Analytics]之旅始于良好的实施。 我们都知道有句谚语“种瓜得瓜，种豆得豆”。 为了消除“产生垃圾”的实施，管理员必须监控输入到系统中的数据的每个细节。 也就是说，数据收集策略受到组织中许多利益相关者的影响，管理员必须日复一日地与这些利益相关者进行合作。
 

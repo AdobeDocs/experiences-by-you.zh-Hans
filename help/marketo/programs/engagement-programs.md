@@ -22,7 +22,7 @@ ht-degree: 22%
 
 按照此分步教程操作，构建您的第一个参与计划。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419374/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452689/?learn=on&captions=chi_hans){transcript=true}
 
 ## 其他资源：
 

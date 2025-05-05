@@ -49,7 +49,7 @@ ht-degree: 0%
 
 此对话框提供五个初始选项供网站访客从中进行选择，从而创建自助式体验，帮助他们根据角色查找所需的信息。 首先，您可能需要浏览“联系我们”电子邮件收件箱，以确定常见主题并将它们归类到适用于网站访客的对话框选项中。 观看演示并按照以下步骤创建默认的“全包式”对话框：
 
->[!VIDEO](https://video.tv.adobe.com/v/3429194/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453740/?learn=on&captions=chi_hans)
 
 >[!BEGINTABS]
 
