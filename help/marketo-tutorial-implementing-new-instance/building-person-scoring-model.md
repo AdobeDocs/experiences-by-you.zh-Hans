@@ -234,7 +234,7 @@ ht-degree: 2%
 ## 接下来呢？
 
 * 下载[人员评分练习表](./assets/build-person-scoring-model-and-local-flexibility-in-adobe-marketo-engage.docx){target="_blank}以离线开发您的评分模型。
-* 在Marketo Engage中构建您的人员得分。 查看此[教程](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/lead-scoring-watch){target="_blank}和[演示](https://experienceleague.adobe.com/en/docs/events/marketo-and-mochas-recordings/2023/lead-scoring){target="_blank}以开始。 您可以从Marketo Engage参考库导入潜在客户/人员评分项目[模板](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program){target="_blank}，以加速项目构建。
+* 在Marketo Engage中构建您的人员得分。 查看此[教程](https://experienceleague.adobe.com/zh-hans/docs/marketo-learn/tutorials/lead-and-data-management/lead-scoring-watch){target="_blank}和[演示](https://experienceleague.adobe.com/zh-hans/docs/events/marketo-and-mochas-recordings/2023/lead-scoring){target="_blank}以开始。 您可以从Marketo Engage参考库导入潜在客户/人员评分项目[模板](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program){target="_blank}，以加速项目构建。
 * 创建两个版本的评分计划：
    * 运行所有无法本地更新的评分的中央程序。
    * 具有可配置的评分元素的本地副本。
@@ -244,8 +244,8 @@ ht-degree: 2%
    * 确定哪些人口统计和行为活动应仅获得一次评分（即行业），以及每当潜在客户符合条件时（即参加网络研讨会）应获得哪些评分。 这可确保数据值更改触发的潜在联系人与销售相关。
    * 确保您的选择相互排斥。
    * 在两个流程步骤中进行更新，以便以与人口统计得分相同的方式更新人员得分。 这样，人员得分将与行为得分和人口统计得分的组合保持一致。
-* 完成项目构建后测试Smart Campaign。 例如，转到演示表单，用测试电子邮件填写，然后在[Marketo Engage数据库](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started-with-marketo/quick-wins/simple-scoring#step-view-the-person-info){target="_blank}中检查测试人员的分数。
-* 在构建模型后，请考虑设置一个警报，当人员分数达到您的销售移交阈值时，向销售人员发出提醒。 了解有关使用此[教程](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert){target="_blank}设置警报的更多信息。
+* 完成项目构建后测试Smart Campaign。 例如，转到演示表单，用测试电子邮件填写，然后在[Marketo Engage数据库](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/getting-started-with-marketo/quick-wins/simple-scoring#step-view-the-person-info){target="_blank}中检查测试人员的分数。
+* 在构建模型后，请考虑设置一个警报，当人员分数达到您的销售移交阈值时，向销售人员发出提醒。 了解有关使用此[教程](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert){target="_blank}设置警报的更多信息。
 
 ### 作者
 

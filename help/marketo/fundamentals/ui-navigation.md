@@ -26,7 +26,7 @@ ht-degree: 27%
 
 ## 其他资源
 
-* [[!DNL Marketo Engage] 术语表](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html?lang=en)
+* [[!DNL Marketo Engage] 术语表](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html?lang=zh-Hans)
 使用Marketo时可能会遇到的许多术语的定义。
-* [图标术语表](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-engage-modern-ux/icon-glossary.html?lang=en)
+* [图标术语表](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-engage-modern-ux/icon-glossary.html?lang=zh-Hans)
 [!DNL Marketo Engage]界面的图标词汇表。

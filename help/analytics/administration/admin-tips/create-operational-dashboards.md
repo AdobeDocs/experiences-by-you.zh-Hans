@@ -49,7 +49,7 @@ _了解[!DNL Adobe Analytics] Workspace中的操作仪表板如何彻底改变�
 
 厌倦了无休止地重复答案？ 停下！ 通过制作常见问题仪表板来节省时间。 用户可以在询问前查阅它，或者您可以在响应中快速链接到它。
 
-只需创建[文本可视化图表](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html)，其中问题格式化为标题，答案/解释为内容，全部折叠以仅显示问题。 按相关性（例如，页面或产品）或使用面板对它们进行分组。 保持简单，在顶部优先处理常见查询。
+只需创建[文本可视化图表](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html?lang=zh-Hans)，其中问题格式化为标题，答案/解释为内容，全部折叠以仅显示问题。 按相关性（例如，页面或产品）或使用面板对它们进行分组。 保持简单，在顶部优先处理常见查询。
 
 请更新您的常见问题仪表板，而不是写长电子邮件或重新发现旧的解释。 立即开始，随时间推移展开。 使用超链接在报表中引用其他功能板或相关常见问题解答。 需要时，通过从其他功能板链接到常见问题解答，提供复杂的上下文。
 

@@ -21,7 +21,7 @@ ht-degree: 0%
 
 _发现Analytics中的直方图对平均值以外的分析的影响。 直方图可揭示客户行为、访客参与度、技术绩效和表单错误中的数据模式，从而在[!DNL Adobe] Workspace中实现更深入的洞察和明智的决策。_
 
-我们直接跳进去吧。 您应该使用[直方图](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html)。 我要解释为什么，但是我想回答你的第一个问题：什么是直方图？ 我明白。 大多数时候，当你看到一栈的条柱上升时，你可能会认为这是一个条状图。 是的，直方图看起来很相似，但我向你保证，它们是不一样的。 条形图可比较各种情况，而直方图则显示变量发生的频率。 看看吧。 下面是一个条形图：
+我们直接跳进去吧。 您应该使用[直方图](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=zh-Hans)。 我要解释为什么，但是我想回答你的第一个问题：什么是直方图？ 我明白。 大多数时候，当你看到一栈的条柱上升时，你可能会认为这是一个条状图。 是的，直方图看起来很相似，但我向你保证，它们是不一样的。 条形图可比较各种情况，而直方图则显示变量发生的频率。 看看吧。 下面是一个条形图：
 
 ![条形图1](assets/bar-chart-1.png)
 

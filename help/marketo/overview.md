@@ -77,6 +77,6 @@ ht-degree: 16%
 ## 其他资源
 
 * [Marketo国家/地区（社区）](https://nation.marketo.com/)
-* [Adobe Marketo Engage文档](https://experienceleague.adobe.com/docs/marketo-engage.html)
-* [Adobe Marketo EngageTutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html)
+* [Adobe Marketo Engage文档](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=zh-Hans)
+* [Adobe Marketo EngageTutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=zh-Hans)
 * [Adobe Marketo Engage产品信息](https://business.adobe.com/products/marketo/adobe-marketo.html)

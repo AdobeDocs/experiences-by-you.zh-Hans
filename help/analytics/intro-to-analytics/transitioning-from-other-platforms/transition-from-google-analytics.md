@@ -268,7 +268,7 @@ Report Builder是Microsoft® Excel的一个插件，允许您创建与[!DNL Adob
 
 除了本指南之外，还有许多资源可帮助您改进策略：
 
-* [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/#home) — 包含教程、视频、文档和社区论坛
+* [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/zh-hans#home) — 包含教程、视频、文档和社区论坛
 * [[!DNL Adobe] 用户组](https://analytics-augs.adobe.com/) — 一个社区活动中心，帮助用户相互联系并改进其实施。
 * [[!DNL Adobe Analytics] 用户组YouTube频道](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) — 无法进行[!DNL Adobe Analytics]用户组会话？ 重新观看以前在全球范围内的用户组会议，以详细了解您的同行如何使用该工具。
 * [Measure ChatSlack频道](https://www.measure.chat/) — 与全球[!DNL Adobe Analytics]用户联系，分享行业知识，向同行提问，并加入以量度为重点的兴趣小组。

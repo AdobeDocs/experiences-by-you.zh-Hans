@@ -27,7 +27,7 @@ ht-degree: 22%
 ## 其他资源：
 
 有关更多信息，请参阅相关的产品指南：
-* [了解参与计划文档](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html?lang=en)
+* [了解参与计划文档](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html?lang=zh-Hans)
 
 向同行学习如何使用参与计划：
 * [专家客户博客文章：参与计划](https://nation.marketo.com/t5/product-blogs/marketo-success-series-engagement-programs/ba-p/301712)

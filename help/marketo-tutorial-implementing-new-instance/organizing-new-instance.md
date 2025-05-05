@@ -23,7 +23,7 @@ ht-degree: 2%
 
 ## 为何需要构造文件夹并应用命名约定？
 
-通过在实例中保持井然有序，您和您的同事可以轻松跟踪活动、项目和资产并报告项目效果。 若要在实例中组织导航树并大规模生成，建议使用[文件夹](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"}、[标准命名约定](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"}以及[克隆](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"}等功能。
+通过在实例中保持井然有序，您和您的同事可以轻松跟踪活动、项目和资产并报告项目效果。 若要在实例中组织导航树并大规模生成，建议使用[文件夹](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"}、[标准命名约定](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"}以及[克隆](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"}等功能。
 
 ## 如何组织Marketo Engage实例
 
@@ -31,7 +31,7 @@ ht-degree: 2%
 
 ### 步骤1 — 设置文件夹结构以按顺序排列程序
 
-组织实例的第一步是[设置文件夹结构](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html)以易于查找和有序的方式存放程序和资产。
+组织实例的第一步是[设置文件夹结构](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html?lang=zh-Hans)以易于查找和有序的方式存放程序和资产。
 
 在树中构造文件夹时，下面是一些快速提示：
 

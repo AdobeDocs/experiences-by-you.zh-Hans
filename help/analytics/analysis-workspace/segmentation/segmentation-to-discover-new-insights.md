@@ -19,19 +19,19 @@ ht-degree: 0%
 
 # 现在只需等待一个区段……使用区段在Analysis Workspace中发掘新见解
 
-无论您是新[!DNL Adobe Analytics]用户还是经验丰富的专业人士，您都将在您的Analysis Workspace项目中充分利用区段。 正如[[!DNL Adobe] Experience League](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=en)描述的那样，“区段允许您根据特性或网站交互来识别访客的子集。” 虽然此功能的基本结果意味着隔离您网站的用户组、访问或点击，但像您自己这样的思维敏锐的分析人员可以使用此工具进行创意，并找到了解您网站活动的新方法。 可能的选项列表非常多，因此，您可以尝试创建自己的选项，并在Experience League上的[[!DNL Adobe Analytics] 社区](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community)或[社区](https://www.measure.chat/)社区等社区中与Slack或上的其他人#Measure行共享。
+无论您是新[!DNL Adobe Analytics]用户还是经验丰富的专业人士，您都将在您的Analysis Workspace项目中充分利用区段。 正如[[!DNL Adobe] Experience League](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=zh-Hans)描述的那样，“区段允许您根据特性或网站交互来识别访客的子集。” 虽然此功能的基本结果意味着隔离您网站的用户组、访问或点击，但像您自己这样的思维敏锐的分析人员可以使用此工具进行创意，并找到了解您网站活动的新方法。 可能的选项列表非常多，因此，您可以尝试创建自己的选项，并在Experience League上的[[!DNL Adobe Analytics] 社区](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community)或[社区](https://www.measure.chat/)社区等社区中与Slack或上的其他人#Measure行共享。
 
-如果您需要有关如何创建区段的快速刷新程序，请查看有关在Analysis Workspace中使用[区段生成器](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=en)的Experience League文档。
+如果您需要有关如何创建区段的快速刷新程序，请查看有关在Analysis Workspace中使用[区段生成器](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=zh-Hans)的Experience League文档。
 
 ## 比较和对比区段
 
-在Analysis Workspace中，您可以使用“[区段比较](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=en)”来比较两个区段。 区段比较可在左侧导航栏的“面板”部分找到：
+在Analysis Workspace中，您可以使用“[区段比较](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=zh-Hans)”来比较两个区段。 区段比较可在左侧导航栏的“面板”部分找到：
 
 ![区段01](assets/seg01.png)
 
 但是，有时您不需要完整的比较面板来为您的最终用户提供主键分析。 值得庆幸的是，某些功能也可以在标准面板中进行比较。
 
-[维恩图可视化](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=en)有助于创建快速比较，允许您悬停并查看重叠会话、订单、用户等。 介于2-3个自定义区段之间。 您还可以通过右键单击任何重叠部分来快速生成区段：
+[维恩图可视化](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=zh-Hans)有助于创建快速比较，允许您悬停并查看重叠会话、订单、用户等。 介于2-3个自定义区段之间。 您还可以通过右键单击任何重叠部分来快速生成区段：
 
 ![区段02](assets/s02.png)
 

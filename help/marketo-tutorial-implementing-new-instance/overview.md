@@ -42,8 +42,8 @@ ht-degree: 1%
 
 * [正在同步本机CRM连接器的字段](/help/marketo-tutorial-implementing-new-instance/syncing-fields-for-crm-integration.md)
   *了解如何通过战略性地选择要Marketo Engage使用的基本CRM字段来简化您的初始CRM集成。 执行数据字典练习，确定您需要用于顺利进行CRM同步的字段，以帮助销售和营销团队保持一致。*
-   * [开始使用Salesforce同步](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/salesforce-sync-setup){target="_blank}
-   * [开始使用Microsoft Dynamics同步](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/microsoft-dynamics-sync-setup){target="_blank}
+   * [开始使用Salesforce同步](https://experienceleague.adobe.com/zh-hans/docs/marketo-learn/tutorials/lead-and-data-management/salesforce-sync-setup){target="_blank}
+   * [开始使用Microsoft Dynamics同步](https://experienceleague.adobe.com/zh-hans/docs/marketo-learn/tutorials/lead-and-data-management/microsoft-dynamics-sync-setup){target="_blank}
 <br>
 
 * [组织新实例并建立命名惯例](/help/marketo-tutorial-implementing-new-instance/organizing-new-instance.md)
@@ -59,6 +59,6 @@ ht-degree: 1%
 
 ## 其他资源
 
-* [使用最佳实践核对清单实施新的Marketo Engage实例](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/implementing-a-new-marketo-engage-instance/where-to-start){target="_blank}
+* [使用最佳实践核对清单实施新的Marketo Engage实例](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/getting-started/implementing-a-new-marketo-engage-instance/where-to-start){target="_blank}
   *每个核对清单都为您提供了宝贵的步骤，以便跟踪您的配置进度。 使用可下载的清单记录您所做的工作，以便将来进行实例审核和用户载入。*
 

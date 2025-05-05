@@ -24,7 +24,7 @@ ht-degree: 0%
 
 如果您继承了一个由多人管理的实时[!DNL Marketo Engage]实例，您可能会发现自己对似乎不合适的所有内容进行心理记录。 对清理和优化工作进行组织非常重要，方法是先对任务进行分类，然后确定那些取得长足进展的任务的优先次序。
 
-此“继承的实例审核提示和技巧”教程源自[!DNL Adobe] Marketo Champions，为新管理员提供了分步指导。 该教程随附可下载的[审核核对清单](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html)和模板，帮助您立即启动继承的实例。 观看教程，从同行学习中获得灵感！
+此“继承的实例审核提示和技巧”教程源自[!DNL Adobe] Marketo Champions，为新管理员提供了分步指导。 该教程随附可下载的[审核核对清单](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html?lang=zh-Hans)和模板，帮助您立即启动继承的实例。 观看教程，从同行学习中获得灵感！
 
 ## 主题和您将学习的内容
 

@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # 了解[!DNL Adobe Analytics]归因面板和回顾时间范围
 
-当我第一次思考[归因面板](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=en)和&#x200B;**回顾窗口**&#x200B;时，会立即想起了“*时间旅行”*&#x200B;的概念；当然，也会想起我们对许多新工具（如这些工具）的典型反应：只是推迟尝试使用，因为它们看起来太复杂了。
+当我第一次思考[归因面板](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=zh-Hans)和&#x200B;**回顾窗口**&#x200B;时，会立即想起了“*时间旅行”*&#x200B;的概念；当然，也会想起我们对许多新工具（如这些工具）的典型反应：只是推迟尝试使用，因为它们看起来太复杂了。
 
 说实话，看看这些选项，开关，面板，读数和旋钮。  说真的，我们来谈谈那些复杂的闪光灯，水管，仪表盘…… 等等!!  现在不是谈论时间机器时分心的时候，我们只是没有时间……还是我们该这样做？
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 在&#x200B;**归因**&#x200B;中，只需考虑一段时间内，事件/操作可能如何由个人、多个个人或任意数量的不同事件之一引起。
 
-根据[[!DNL Adobe]](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=en)，*归因*&#x200B;使分析人员能够自定义&#x200B;*Dimension*&#x200B;项目接收&#x200B;*成功事件*&#x200B;点数的方式。
+根据[[!DNL Adobe]](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=zh-Hans)，*归因*&#x200B;使分析人员能够自定义&#x200B;*Dimension*&#x200B;项目接收&#x200B;*成功事件*&#x200B;点数的方式。
 
 
 >[!WARNING]
@@ -86,7 +86,7 @@ ht-degree: 0%
 
 - **自定义**：你选择获得点数的人。  这是你的竞选活动！
 
-有关这些和其他归因模型的其他信息，请[单击此处](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=en)
+有关这些和其他归因模型的其他信息，请[单击此处](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=zh-Hans)
 
 为了更有趣，让我们来讨论一下倒计时吧！
 

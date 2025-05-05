@@ -26,7 +26,7 @@ ht-degree: 2%
 
 1. **熟悉您从实时实例继承的营销技术栈栈。**&#x200B;鼓励所有营销运营经理/平台运营经理在新公司开始时都进行此练习。 此创建过程使管理员用户能够查看从外部集成发送到[!DNL Marketo Engage]的数据和活动的全貌，并轻松解决API错误。
 2. **熟悉管理外部集成的关键利益相关者。** Kelly Jo Horton用于快速识别利益相关者的提示是引用API用户列表。
-   1. **导航到“管理员”部分的“集成>LaunchPoint”选项卡。**&#x200B;了解有关如何导航到“LaunchPoint”选项卡的更多信息： [创建用于REST API的自定义服务](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html){target="_blank"}。
+   1. **导航到“管理员”部分的“集成>LaunchPoint”选项卡。**&#x200B;了解有关如何导航到“LaunchPoint”选项卡的更多信息： [创建用于REST API的自定义服务](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html?lang=zh-Hans){target="_blank"}。
    2. 在“API调用信息”部分的“集成”>“Web服务”选项卡中，查找按API用户排列的API使用情况统计数据。 通过单击API调用编号，您可以查看每个用户发出的具体单个调用。
 
 ## 如何执行此可视化数据流图练习

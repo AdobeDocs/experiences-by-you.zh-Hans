@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 记录CRM同步错误以进行疑难解答
 
-作为[!DNL Marketo Engage]管理员，检查您的实例是否与CRM保持同步应该是您[每日例程](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}的关键部分。 虽然[通知部分](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"}（在[!DNL Marketo Engage]界面的右上角找到）是您开始查找和调查频繁同步问题的地方，但有一个专业提示可帮助您以有条理的方式管理实例运行状况。 [!DNL Adobe] Marketo Champion (2019-2022)，Amy Goldfine建议管理员用户保留CRM同步错误的日志，以便更轻松地执行故障排除。
+作为[!DNL Marketo Engage]管理员，检查您的实例是否与CRM保持同步应该是您[每日例程](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}的关键部分。 虽然[通知部分](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html?lang=zh-Hans){target="_blank"}（在[!DNL Marketo Engage]界面的右上角找到）是您开始查找和调查频繁同步问题的地方，但有一个专业提示可帮助您以有条理的方式管理实例运行状况。 [!DNL Adobe] Marketo Champion (2019-2022)，Amy Goldfine建议管理员用户保留CRM同步错误的日志，以便更轻松地执行故障排除。
 
 ![同步错误选项卡屏幕截图](/help/marketo-tutorial-inherited-instance/_assets/Marketo_Engage_Admin_Salesforce_Sync_Errors_Tab.png)
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 **步骤1：**&#x200B;转到[!DNL Marketo Engage]中的&#x200B;*[!UICONTROL 管理员]部分*。 在&#x200B;*[!UICONTROL 集成]*&#x200B;下，根据您使用的[!DNL CRM]，单击&#x200B;*[!DNL Salesforce]*、*[!DNL Microsoft Dynamics]*&#x200B;或&#x200B;*[!DNL Veeva]*，然后单击&#x200B;*[!UICONTROL 同步错误]*&#x200B;选项卡。
 
-**步骤2：**&#x200B;您可以选择通过[!UICONTROL 筛选器]面板[&#128279;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.html#filter-sync-errors){target="_blank"}将错误记录导出为 [!DNL CSV] 文件。 如果您只有几个小时，直接从&#x200B;*[!UICONTROL 同步错误]*&#x200B;选项卡复制并粘贴将是最好的方法。
+**步骤2：**&#x200B;您可以选择通过[!UICONTROL 筛选器]面板[&#128279;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.html?lang=zh-Hans#filter-sync-errors){target="_blank"}将错误记录导出为 [!DNL CSV] 文件。 如果您只有几个小时，直接从&#x200B;*[!UICONTROL 同步错误]*&#x200B;选项卡复制并粘贴将是最好的方法。
 
 **步骤3：**&#x200B;记下发生错误的日期。
 

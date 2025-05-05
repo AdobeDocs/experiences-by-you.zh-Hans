@@ -65,7 +65,7 @@ _了解测量会议。 使用漏斗图可视化计划的每个步骤。 创建�
 1. 与设计师和产品经理一起，完成每个步骤，讨论每个人都认为在该漏斗中取得成功的情况。 是转化率吗？ 它是否选择了特定的路径？ 它是否使用某些功能？
 1. 提出有关哪些量度和维度对于了解漏斗每个步骤以及总体上的漏斗性能不可或缺的问题。
 1. 在漏斗的每个步骤上方，添加在该步骤中测量的指标和维度，包括计算量度。
-1. 在每个漏斗的开头，写出进入功能板的报告，产品经理可以使用这些报告跟踪性能。 这些报表包括[流失报表](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow)、[当前月份](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges)、[趋势转化率](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/visualizations/line)以及特定于漏斗的任何内容。
+1. 在每个漏斗的开头，写出进入功能板的报告，产品经理可以使用这些报告跟踪性能。 这些报表包括[流失报表](https://experienceleague.adobe.com/zh-hans/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow)、[当前月份](https://experienceleague.adobe.com/zh-hans/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges)、[趋势转化率](https://experienceleague.adobe.com/zh-hans/docs/analytics/analyze/analysis-workspace/visualizations/line)以及特定于漏斗的任何内容。
 1. 将您发现的新量度和维度添加到SDR并将其发送给利益相关者进行第二次审查。
 
 ### 预览功能板

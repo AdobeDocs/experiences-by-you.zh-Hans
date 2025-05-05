@@ -39,7 +39,7 @@ ht-degree: 0%
 
 * 了解实施：
 
-  作为最佳实践，用户必须基本了解其实施所支持的业务需求，这些需求通常通过[业务需求文档](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=en) (BRD)和[解决方案设计参考文档](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=en) (SDR)来捕获。 这些要求应包括已实施的内容，并按类别定义业务要求、报表、eVar、事件等。
+  作为最佳实践，用户必须基本了解其实施所支持的业务需求，这些需求通常通过[业务需求文档](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=zh-Hans) (BRD)和[解决方案设计参考文档](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=zh-Hans) (SDR)来捕获。 这些要求应包括已实施的内容，并按类别定义业务要求、报表、eVar、事件等。
 
 * 使用报表模板：
 
@@ -107,7 +107,7 @@ ht-degree: 0%
 
 建立和维护赋权社区需要做许多工作。 反思并了解贵组织通过这样做可以获得的好处很重要。 以下是我个人看到的一些好处：
 
-* 制定数据驱动型决策 — 赋权社区可以[改变您的企业](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.html?lang=en)，因为[!DNL Adobe Analytics]能够采用一种可在整个组织中为客户情报和制定数据驱动型决策提供支持的方式，通过数据讲述故事、预测结果和指明结果。
+* 制定数据驱动型决策 — 赋权社区可以[改变您的企业](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.html?lang=zh-Hans)，因为[!DNL Adobe Analytics]能够采用一种可在整个组织中为客户情报和制定数据驱动型决策提供支持的方式，通过数据讲述故事、预测结果和指明结果。
 
 * 增加专业知识和提高效率 — 可以在支持参与和营销投资回报率之间建立直接关联！ 赋权社区可提升每个人的专业知识，便于分享见解、最佳实践、项目和产品更新，并鼓励协作。 它在通过[!DNL Adobe Analytics]实现自给自足和更大优化的同时执行此操作。 这支持营销渠道、页面、地理位置、受众等。 它还支持体验优化，允许团队将重点放在他们可以产生最大影响的那些方面。
 

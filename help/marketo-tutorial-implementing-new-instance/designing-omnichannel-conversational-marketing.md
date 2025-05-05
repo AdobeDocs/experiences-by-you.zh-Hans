@@ -26,7 +26,7 @@ ht-degree: 0%
 
 访客浏览您的网站是有原因的。 他们可能正在查找有关您的产品或服务的内容，或者寻找联系信息以便与您的销售代表交谈。 他们也可以是您的客户，正在寻找其他产品信息。 如果网站访客准备好与您的销售团队交谈，则通过聊天进行自助服务和自我认证。
 
-当Sara Barriuso实现Dynamic Chat时，她被它与Marketo Engage和[预建活动触发器](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities){target="_blank"}的无缝集成所吸引，后者激活Marketo Engage程序，反之亦然。 她针对三个受众群体制定了对话式参与策略：
+当Sara Barriuso实现Dynamic Chat时，她被它与Marketo Engage和[预建活动触发器](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities){target="_blank"}的无缝集成所吸引，后者激活Marketo Engage程序，反之亦然。 她针对三个受众群体制定了对话式参与策略：
 
 1. 未知的潜在客户：主动提供演示调用以生成新潜在客户。
 2. 已知商机/客户：延长访客浏览内容所花费的时间，并提供演示调用以创造追加销售和交叉销售机会。
@@ -193,7 +193,7 @@ ht-degree: 0%
 
 ## 接下来呢？
 
-* 在[流Designer](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer){target="_blank"}或流程图中离线绘制对话流。
+* 在[流Designer](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer){target="_blank"}或流程图中离线绘制对话流。
 * 在Dynamic Chat中创建默认的捕获所有对话框。
 * 在Marketo Engage中使用自动触发器激活营销活动后参与对话。
 

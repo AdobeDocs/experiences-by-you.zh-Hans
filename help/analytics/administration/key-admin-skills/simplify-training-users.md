@@ -53,7 +53,7 @@ ht-degree: 0%
 * 请确保也录制这些课程，并在创建新内容时逐个发布它们。
 * 有时，随着实施的发展和演变，您可能需要更新培训课程，以使内容保持最新。
 * 根据您如何部署实施以及如何架构组织，还可能会需要针对特定部门或群体创建培训课程，例如，向IT部门提供有关浏览器和操作系统使用的培训，演示有关网站可用性的警报，以及向营销部门提供有关反向链接、营销渠道和最多访问内容页面的培训。
-* 您无需自己创建所有内容。 [!DNL Adobe]提供了一些非常棒的免费学习路径和额外的Experience League内容，您可以在[[!DNL Adobe] 培训项目](https://experienceleague.adobe.com/docs/analytics.html?lang=en)内向用户提供。
+* 您无需自己创建所有内容。 [!DNL Adobe]提供了一些非常棒的免费学习路径和额外的Experience League内容，您可以在[[!DNL Adobe] 培训项目](https://experienceleague.adobe.com/docs/analytics.html?lang=zh-Hans)内向用户提供。
 
 
 

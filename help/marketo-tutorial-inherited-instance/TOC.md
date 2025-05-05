@@ -25,4 +25,4 @@ ht-degree: 4%
 + [直观地展示您的营销技术栈栈](/help/marketo-tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)
 + [项目启动前质量保证流程](/help/marketo-tutorial-inherited-instance/essential-program-pre-launch-qa.md)
 + [[!DNL Marketo Engage] 教程](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=zh-Hans)
-+ [返回透视](https://experienceleague.adobe.com/en/perspectives#f-el_product=Marketo%20Engage&amp;aq=((%40el_contenttype%20NOT%20%22Community%7CUser%22)%20AND%20(%40el_contenttype%3D%22perspective%22)))
++ [返回透视](https://experienceleague.adobe.com/zh-hans/perspectives#f-el_product=Marketo%20Engage&amp;aq=((%40el_contenttype%20NOT%20%22Community%7CUser%22)%20AND%20(%40el_contenttype%3D%22perspective%22)))
