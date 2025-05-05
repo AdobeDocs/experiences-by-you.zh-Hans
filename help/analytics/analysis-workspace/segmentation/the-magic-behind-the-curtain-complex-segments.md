@@ -60,7 +60,7 @@ _揭示复杂数据分段、探索排除项、容器和归因模型的复杂性�
 
 ![Figure2-DnceVsExclude-Visit](assets/figure2-dnce-vs-exclude-visit.png)
 
-*如上所述，**访问**内的每次点击都将用相同的true / false进行计算。 但是，返回的数据集是整个访问的数据集。*
+*如上所述，**访问**&#x200B;内的每次点击都将用相同的true / false进行计算。 但是，返回的数据集是整个访问的数据集。*
 
 - 在每次点击时，“Value”不包含“Example”（是），因此返回true；同样，“Example”不包含“Example”（否，它包含它），因此返回false。
    - 如果访问中的&#x200B;**any**&#x200B;点击返回&#x200B;**true**，则返回&#x200B;**整个访问**。*
@@ -76,7 +76,7 @@ _揭示复杂数据分段、探索排除项、容器和归因模型的复杂性�
 
 ![Figure3-DnceVsExclude-Visitor](assets/figure3-dnce-vs-exclude-visitor.png)
 
-*如上所述，**访客**进行的每次点击都将使用相同的true / false逻辑进行计算。 但现在我们查看了此访客在所有访问中所做的所有点击（在选定的日期范围内）。*
+*如上所述，**访客**&#x200B;进行的每次点击都将使用相同的true / false逻辑进行计算。 但现在我们查看了此访客在所有访问中所做的所有点击（在选定的日期范围内）。*
 
 - 在每次点击时，“Value”不包含“Example”（是），因此返回true；同样，“Example”不包含“Example”（否，它包含它），因此返回false。
    - 如果访客进行的&#x200B;**any**&#x200B;点击返回&#x200B;**true**，则返回&#x200B;**整个访问**。

@@ -67,7 +67,7 @@ ht-degree: 2%
 `The document types of inbound events (''and'') are incompatible (step 'Exclusion'). Unable to perform the operation. `
 
 **原因：**
-在ACS工作流中使用**排除活动**&#x200B;时，当主集和排除集的字段名称不同时，根据ID执行排除时，会出现此问题。
+在ACS工作流中使用&#x200B;**排除活动**&#x200B;时，当主集和排除集的字段名称不同时，根据ID执行排除时，会出现此问题。
 
 
 ![公用字段数据集错误](/help/_assets/kt-13256/dataset-error.png)

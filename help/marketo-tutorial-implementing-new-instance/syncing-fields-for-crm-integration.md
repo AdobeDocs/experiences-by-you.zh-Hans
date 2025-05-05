@@ -60,6 +60,7 @@ ht-degree: 0%
    * 第二列：Marketo EngageAPI名称
    * 第三列：[Marketo Engage字段类型](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary){target="_blank"}（即布尔值、货币、日期等）
    * 在后续列中，对CRM对象类型(Lead、Contact、Account、Opportunity)重复显示一个附加列，用于显示您希望Marketo Engage具有的访问权限级别（即，读取、写入、编辑）
+
   <br>
 
   以下是它的外观示例：
@@ -97,7 +98,7 @@ ht-degree: 0%
 **步骤6：**&#x200B;执行初始同步
 
 * 确保您要与Marketo Engage同步的所有字段在CRM中具有数据字典定义的相应权限。
-* 确保在Marketo同步配置文件](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync){target="_blank"}中将[隐藏您希望&#x200B;**不**&#x200B;与Marketo Engage同步的所有字段。 在以后向同步中添加新字段比删除意外同步的字段要容易得多。
+* 确保在Marketo同步配置文件[&#128279;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync){target="_blank"}中将隐藏您希望&#x200B;**不**&#x200B;与Marketo Engage同步的所有字段。 在以后向同步中添加新字段比删除意外同步的字段要容易得多。
 * 您是否正在将您的CRM与同步筛选器字段连接？ 如果同步到Salesforce，请联系Adobe客户支持，以确保在开始初始同步之前已启用筛选功能。
 
 

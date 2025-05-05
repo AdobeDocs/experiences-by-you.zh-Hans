@@ -34,7 +34,7 @@ ht-degree: 0%
 
 **步骤1：**&#x200B;转到[!DNL Marketo Engage]中的&#x200B;*[!UICONTROL 管理员]部分*。 在&#x200B;*[!UICONTROL 集成]*&#x200B;下，根据您使用的[!DNL CRM]，单击&#x200B;*[!DNL Salesforce]*、*[!DNL Microsoft Dynamics]*&#x200B;或&#x200B;*[!DNL Veeva]*，然后单击&#x200B;*[!UICONTROL 同步错误]*&#x200B;选项卡。
 
-**步骤2：**&#x200B;您可以选择通过[!UICONTROL 筛选器]面板](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.html#filter-sync-errors){target="_blank"}将错误记录[导出为 [!DNL CSV] 文件。 如果您只有几个小时，直接从&#x200B;*[!UICONTROL 同步错误]*&#x200B;选项卡复制并粘贴将是最好的方法。
+**步骤2：**&#x200B;您可以选择通过[!UICONTROL 筛选器]面板[&#128279;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.html#filter-sync-errors){target="_blank"}将错误记录导出为 [!DNL CSV] 文件。 如果您只有几个小时，直接从&#x200B;*[!UICONTROL 同步错误]*&#x200B;选项卡复制并粘贴将是最好的方法。
 
 **步骤3：**&#x200B;记下发生错误的日期。
 

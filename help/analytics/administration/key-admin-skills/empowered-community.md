@@ -65,7 +65,7 @@ ht-degree: 0%
 
 ## 3.使用工具开始构建您的社区
 
-* [创建项目章程](assets/[!DNL Adobe]-[!DNL Analytics]-Enverzed-Community-Project-Charter-Template.pptx)（模板下载）：
+* [创建项目章程] (assets/[!DNL Adobe]-[!DNL Analytics]-Enverzed-Community-Project-Charter-Template.pptx)（模板下载）：
 
   项目章程通常是让您的业务围绕着内部赋权社区的机会进行调整的一种好方法。 通过回答以下问题，您可以获得起草章程所需的信息：
 

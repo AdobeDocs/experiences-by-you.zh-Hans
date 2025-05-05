@@ -20,9 +20,9 @@ ht-degree: 0%
 
 # 使用文档开发实例治理指南
 
-当您进入旧版[!DNL Marketo Engage]实例时，经常会遇到缺少最新功能和技术文档的难题。 作为管理员，建立准则以确保正确的实例管理是您不可忽视的核心责任。 在已建立的 [!DNL Marketo Engage] 实例](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582)中工作时，它是[提高效率的关键策略之一。
+当您进入旧版[!DNL Marketo Engage]实例时，经常会遇到缺少最新功能和技术文档的难题。 作为管理员，建立准则以确保正确的实例管理是您不可忽视的核心责任。 在已建立的 [!DNL Marketo Engage] 实例[&#128279;](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582)中工作时，它是提高效率的关键策略之一。
 
-此分步教程源自[！DNL [!DNL Adobe] Marketo Champion] (2018)，Nick Hajdin将指导您完成此过程，以概述实例设置、记录主要操作程序并维护[!DNL changelog]以实施严格的治理策略。
+此分步教程源自[!DNL [!DNL Adobe] Marketo Champion] (2018)，Nick Hajdin将指导您完成此过程，以概述实例设置、记录主要操作程序并维护[!DNL changelog]以实施严格的治理策略。
 
 ## 为您的继承实例开发实例治理指南
 
@@ -111,7 +111,7 @@ ht-degree: 0%
 ### 作者
 
 **尼克·哈伊丁**
-[！DNL [!DNL Adobe] Marketo Champion] (2018)
+[!DNL [!DNL Adobe] Marketo Champion] (2018)
 *[!DNL Digital Technology Senior Manager at Accenture]*
 
 ![尼克·哈伊丁](/help/marketo-tutorial-inherited-instance/_assets/authors/Customer_Author_Nicholas_Hajdin.png){width="30%"}

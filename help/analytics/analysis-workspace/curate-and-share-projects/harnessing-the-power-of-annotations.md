@@ -44,7 +44,7 @@ ht-degree: 3%
 ![2ndimage](assets/2ndimage.png){width="70%"}![3rdimage](assets/3rdimage.png){width="30%"}
 
 
-有关批注工作方式的所有详细信息，请务必查看有关Experience League](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace)的[视频教程。
+有关批注工作方式的所有详细信息，请务必查看有关Experience League[&#128279;](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace)的视频教程。
 
 ## 帮助您入门的提示和技巧
 

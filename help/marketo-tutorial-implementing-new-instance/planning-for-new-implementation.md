@@ -38,7 +38,7 @@ ht-degree: 5%
 
 ### 第3阶段 — 项目库创建和活动设置
 
-- 开发电子邮件模板和登陆页面。 从[从[程序导入库](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)导入入门程序](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program)开始。
+- 开发电子邮件模板和登陆页面。 从[&#128279;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program)从[程序导入库](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)导入入门程序开始。
 - 设置分段和Personalization规则
 - 创建用于潜在客户生成和培养的初始营销活动
 
