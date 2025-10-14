@@ -27,4 +27,4 @@ ht-degree: 2%
 
 ## 其他资源 {#additional-resources}
 
-* [ [!DNL Cloud Manager]简介](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/onboarding/concepts/cloud-manager-introduction.html?lang=zh-Hans) — 有关在AEM as a Cloud Service中使用[!DNL Cloud Manager]的文档
+* [&#x200B; [!DNL Cloud Manager]简介](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/onboarding/concepts/cloud-manager-introduction.html?lang=zh-Hans) — 有关在AEM as a Cloud Service中使用[!DNL Cloud Manager]的文档
