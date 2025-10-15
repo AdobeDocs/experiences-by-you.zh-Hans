@@ -78,5 +78,5 @@ ht-degree: 9%
 * [Experience League社区](https://experienceleaguecommunities.adobe.com/)
 * [Experience Cloud 文档](https://experienceleague.adobe.com/docs/?lang=zh-Hans)
 * [Experience Cloud 教程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hans)
-* [business.adobe.com](https://business.adobe.com)
+* [business.adobe.com](https://business.adobe.com/cn)
 

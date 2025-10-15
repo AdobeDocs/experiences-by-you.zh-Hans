@@ -81,4 +81,4 @@ ht-degree: 26%
 * Adobe Campaign v8 - [文档](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=zh-Hans) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=zh-CN)
 * Adobe Campaign Classic v7 - [文档](https://experienceleague.adobe.com/docs/campaign-classic.html?lang=zh-Hans) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=zh-Hans)
 * Adobe Campaign Standard - [文档](https://experienceleague.adobe.com/docs/campaign-standard.html?lang=zh-Hans) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=zh-Hans)
-* [Adobe Campaign产品信息](https://business.adobe.com/products/campaign/adobe-campaign.html)
+* [Adobe Campaign产品信息](https://business.adobe.com/cn/products/campaign/adobe-campaign.html)

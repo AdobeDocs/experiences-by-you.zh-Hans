@@ -79,4 +79,4 @@ ht-degree: 19%
 * [Experience LeagueAdobe Analytics社区](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community)
 * [Adobe Analytics文档](https://experienceleague.adobe.com/docs/analytics.html?lang=zh-Hans)
 * [Adobe Analytics 教程](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=zh-Hans)
-* [Adobe Analytics产品信息](https://business.adobe.com/products/analytics/adobe-analytics.html)
+* [Adobe Analytics产品信息](https://business.adobe.com/cn/products/analytics/adobe-analytics.html)

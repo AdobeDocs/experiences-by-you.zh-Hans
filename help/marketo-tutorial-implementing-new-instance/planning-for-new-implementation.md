@@ -294,7 +294,7 @@ ht-degree: 5%
 >[!NOTE]
 >提供的示例并非基于实际的实施时间表。 请勿依赖这些标准时间表作为Marketo Engage入门的标准时间表，因为每个实施都是独一无二的，可根据贵组织的需求具有不同的里程碑和要求。
 
-要在实施和自定义您实例的Marketo Engage时获得手动帮助，请联系Adobe客户团队或联系[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}。
+要在实施和自定义您实例的Marketo Engage时获得手动帮助，请联系Adobe客户团队或联系[Adobe Professional Services](https://business.adobe.com/cn/customers/consulting-services/main.html){target="_blank"}。
 
 ### 作者
 
