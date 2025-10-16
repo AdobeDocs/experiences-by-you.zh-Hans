@@ -46,7 +46,7 @@ ht-degree: 26%
   </td>
   <td>
     <a href="/help/campaign/acs/troubleshooting-for-marketers.md">
-      <img alt="营销人员疑难解答" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png" />
+      <img alt="营销人员疑难解答" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png?lang=zh-Hans" />
     </a>
     <div>
       <a href="/help/campaign/acs/troubleshooting-for-marketers.md">
@@ -59,7 +59,7 @@ ht-degree: 26%
   </td>
   <td>
     <a href="/help/campaign/10-best-practices-for-marketers.md">
-      <img alt="营销人员借助 Adobe Campaign 取得成功的十大最佳实践" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png" />
+      <img alt="营销人员借助 Adobe Campaign 取得成功的十大最佳实践" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png?lang=zh-Hans" />
     </a>
     <div>
       <a href="/help/campaign/10-best-practices-for-marketers.md">
@@ -79,6 +79,6 @@ ht-degree: 26%
 
 * [Experience League Adobe Campaign社区](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community)
 * Adobe Campaign v8 - [文档](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=zh-hans) / [教程](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=zh-CN)
-* Adobe Campaign Classic v7 - [文档](https://experienceleague.adobe.com/docs/campaign-classic.html) / [教程](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=zh-Hans)
-* Adobe Campaign Standard - [文档](https://experienceleague.adobe.com/docs/campaign-standard.html) / [教程](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=zh-Hans)
-* [Adobe Campaign产品信息](https://business.adobe.com/products/campaign/adobe-campaign.html)
+* Adobe Campaign Classic v7 - [文档](https://experienceleague.adobe.com/docs/campaign-classic.html?lang=zh-Hans) / [教程](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=zh-Hans)
+* Adobe Campaign Standard - [文档](https://experienceleague.adobe.com/docs/campaign-standard.html?lang=zh-Hans) / [教程](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=zh-Hans)
+* [Adobe Campaign产品信息](https://business.adobe.com/cn/products/campaign/adobe-campaign.html)

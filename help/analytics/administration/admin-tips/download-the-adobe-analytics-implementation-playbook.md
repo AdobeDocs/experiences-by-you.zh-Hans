@@ -105,7 +105,7 @@ SDR示例屏幕截图：
 >
 >在[!DNL Adobe Analytics]中创建站点名称/属性维度。 在[!DNL Adobe Analytics]中设置一个专用维度(通常是eVar)来标识站点名称/应用程序名称，有助于进行分段、故障排除、创建虚拟报表包等。 其带来的好处是无穷的，尤其是在一个（全局）报表包中组合多个站点时更是如此。 关键是确保开发团队始终在属性维度中设置此值，其中包括所有页面加载（s.t调用/trackState）和所有自定义事件（s.tl调用/trackAction）。 处理规则可能是一个很有用的工具，可以帮助您以正确一致的方式设置这些值。
 
-[观看Doug Moore制作的此视频](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html){target="_blank"}，了解有关填写实施行动手册的更多信息。
+[观看Doug Moore制作的此视频](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=zh-Hans){target="_blank"}，了解有关填写实施行动手册的更多信息。
 
 ## 作者
 

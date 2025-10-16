@@ -29,12 +29,12 @@ ht-degree: 22%
 
 有关更多信息，请参阅相关的产品指南：
 
-* [了解电子邮件程序文档](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)
+* [了解电子邮件程序文档](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=zh-Hans)
 
 观看其他视频以了解有关此功能的更多帮助：
 
-* [计划的电子邮件浏览](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/scheduled-email-watch.html?lang=en)
-* [AB测试演练](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=en)
+* [计划的电子邮件浏览](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/scheduled-email-watch.html?lang=zh-Hans)
+* [AB测试演练](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=zh-Hans)
 
 向同行学习如何使用电子邮件程序：
 
