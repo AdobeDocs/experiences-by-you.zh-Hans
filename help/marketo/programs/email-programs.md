@@ -22,7 +22,7 @@ ht-degree: 22%
 
 观看此分步教程，了解如何使用 A/B 测试创建电子邮件计划。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419440/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453377/?captions=chi_hans&learn=on){transcript=true}
 
 
 ## 其他资源：
