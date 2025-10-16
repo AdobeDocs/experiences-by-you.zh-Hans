@@ -1,6 +1,6 @@
 ---
 title: 组织新实例并建立命名约定
-description: 了解如何在Marketo Engage实例中设置良好的组织，以便未来组织内的营销人员能够轻松浏览程序、修改资源和提取报表。
+description: 了解如何在Marketo Engage实例中设置良好的组织，从而使组织内的未来营销人员能够轻松浏览程序、修改资源和提取报表。
 role: Admin
 level: Beginner
 doc-type: Article
@@ -10,7 +10,7 @@ last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-14813
 thumbnail: KT-14813.jpeg
 exl-id: 19b3de9e-53f3-4308-b46e-7b8f756c30a0
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
 source-wordcount: '1166'
 ht-degree: 2%
@@ -19,19 +19,19 @@ ht-degree: 2%
 
 # 组织新实例并建立命名约定
 
-作为实施新Marketo Engage实例的管理员，您将为将来允许组织内的营销人员轻松导航该实例奠定基础。 熟悉树文件夹结构和命名惯例可以使您的实例保持整洁并为长期成功做好准备。 本教程包含Adobe和Marketo Engage冠军(2019-2020) Natalie Kremer推荐的示例，可帮助您[统一组织文件夹并命名资源](https://nation.marketo.com/t5/champion-program-blogs/keep-marketo-engage-organized-with-folders-and-naming/ba-p/245630){target="_blank"}。
+作为实施新Marketo Engage实例的管理员，您为将来允许组织内的营销人员轻松导航该实例奠定了基础。 熟悉树文件夹结构和命名惯例可以使您的实例保持整洁并为长期成功做好准备。 本教程包含Adobe和Marketo Engage Champion(2019-2020) Natalie Kremer推荐的示例，可帮助您[统一组织文件夹并命名资源](https://nation.marketo.com/t5/champion-program-blogs/keep-marketo-engage-organized-with-folders-and-naming/ba-p/245630){target="_blank"}。
 
 ## 为何需要构造文件夹并应用命名约定？
 
-通过在实例中保持井然有序，您和您的同事可以轻松跟踪活动、项目和资产并报告项目效果。 若要在实例中组织导航树并大规模生成，建议使用[文件夹](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"}、[标准命名约定](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"}以及[克隆](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"}等功能。
+通过在实例中保持井然有序，您和您的同事可以轻松跟踪活动、项目和资产并报告项目效果。 若要在实例中组织导航树并大规模构建，建议使用[文件夹](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"}、[标准命名约定](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"}以及[克隆](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"}等功能。
 
-## 如何组织Marketo Engage实例
+## 如何整理Marketo Engage实例
 
->[!VIDEO](https://video.tv.adobe.com/v/3422761/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3421577/?quality=12&learn=on)
 
 ### 步骤1 — 设置文件夹结构以按顺序排列程序
 
-组织实例的第一步是[设置文件夹结构](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html?lang=zh-Hans)以易于查找和有序的方式存放程序和资产。
+组织实例的第一步是[设置文件夹结构](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html)以易于查找和有序的方式存放程序和资产。
 
 在树中构造文件夹时，下面是一些快速提示：
 
@@ -65,8 +65,10 @@ ht-degree: 2%
 现在，让我们在项目级别应用文件夹结构。 作为最佳实践，将本地资产放在子文件夹中将有助于保持程序整洁并允许内部用户高效地修改或报告程序。 常见子文件夹包括电子邮件、登陆页、智能营销活动、列表、报告等。
 
 **项目群中的文件夹名称**
+
 * 营销活动 — *用于管理交互和状态跟踪的所有营销活动的文件夹。*
 * 本地Assets - *此项目特定的所有资源的文件夹。*
+
    * 电子邮件
    * 登陆页面
    * 智能营销活动
@@ -180,7 +182,7 @@ ht-degree: 2%
 
 * 下载工作表：[Marketo Engage组织和命名约定](./assets/adobe-marketo-engage-organization-and-naming-conventions.xlsx){target="_blank"}以支持创建文件夹结构和命名约定。
 * 在标准命名惯例中确定必要的组件后，请考虑将公式构建到Google工作表或Microsoft Excel中。 在以后使用时，只需在电子表格中输入您的值即可生成程序名。
-* 在调整整个文件夹结构后，现在就可以根据最常见的用例和团队收到的最常见的请求来考虑您所需的模板。 然后，开始构建您的第一个项目模板。 阅读以开始使用[Adobe Marketo Engage计划模板](https://business.adobe.com/blog/how-to/get-started-with-marketo-engage-program-templates){target="_blank"}。
+* 在调整整个文件夹结构后，现在就可以根据最常见的用例和团队收到的最常见的请求来考虑您所需的模板。 然后，开始构建您的第一个项目模板。 请阅读以开始使用[Adobe Marketo Engage计划模板](https://business.adobe.com/blog/how-to/get-started-with-marketo-engage-program-templates){target="_blank"}。
 
 ### 作者
 

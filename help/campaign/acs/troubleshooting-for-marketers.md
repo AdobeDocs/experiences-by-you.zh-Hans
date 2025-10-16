@@ -11,7 +11,7 @@ last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
 exl-id: 1f27e284-73e3-4f28-988e-51163775eec8
-source-git-commit: 02e3a6dfa59df45113242bd8e874e18e9e1efd58
+source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
 source-wordcount: '711'
 ht-degree: 2%
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 作者：[Suraj Patra](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}，梅耶高级顾问
 
-作为过去五年中[!DNL Adobe]Experience Cloud产品的高级工程师和客户专家，我让[Meijer](https://www.meijer.com/){target="_blank"}（一家美国超级中心连锁企业，创建于1934年）的业务用户能够与ACS一起开展复杂的营销和事务性营销活动。 我参与过的几个项目包括用于存储个性化选件和订单详细信息的自定义营销活动、与[!DNL Adobe]Audience Manager集成以及用于区段摄取的客户洞察。
+作为过去五年中[!DNL Adobe]个Experience Cloud产品的高级工程师和客户专家，我让[Meijer](https://www.meijer.com/){target="_blank"}（一家成立于1934年的美国超级中心连锁店）的商业用户能够与ACS一起开展复杂的营销和事务性营销活动。 我参与的一些项目包括用于存储个性化选件和订单详细信息的自定义营销活动，与[!DNL Adobe] Audience Manager和客户insight集成以用于区段摄取。
 
 在使用ACS期间，我遇到一些错误，解决这些错误会非常耗时且令人沮丧。 了解最常见的错误有助于更快地解决问题，并提高工作效率。 下面是我的疑难解答提示，可帮助您在出现类似错误时有效地解决它们。
 
@@ -59,16 +59,17 @@ ht-degree: 2%
 
 具有协调详细信息的![工作流](/help/_assets/kt-13256/del-persn-error-wf-solution.png)
 
-了解有关[协调](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=zh-Hans)的详细信息。
+了解有关[协调](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=en)的详细信息。
 
 ## 通用字段数据集错误
 
 **错误代码：**
-`The document types of inbound events (''and'') are incompatible (step 'Exclusion'). Unable to perform the operation. `
+
+`The document types of inbound events (''and'') are incompatible (step 'Exclusion'). Unable to perform the operation.`
 
 **原因：**
-在ACS工作流中使用&#x200B;**排除活动**&#x200B;时，当主集和排除集的字段名称不同时，根据ID执行排除时，会出现此问题。
 
+在ACS工作流中使用&#x200B;**排除活动**&#x200B;时，当主集和排除集的字段名称不同时，根据ID执行排除时，会出现此问题。
 
 ![公用字段数据集错误](/help/_assets/kt-13256/dataset-error.png)
 
@@ -95,7 +96,7 @@ ht-degree: 2%
 
 ![字段名称丢弃错误](/help/_assets/kt-13256/field-name-dropped-error.png)
 
-在活动中手动编辑表达式名称时，会发生这种情况。 图像显示该表达式已从`name `修改为`i__name`。
+在活动中手动编辑表达式名称时，会发生这种情况。 图像显示该表达式已从`name`修改为`i__name`。
 
 **解决方案：**
 

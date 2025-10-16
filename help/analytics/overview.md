@@ -1,12 +1,12 @@
 ---
 title: 您的 Analytics 真实体验
 description: Analytics by You 的特色是已凭借对 Adobe Analytics 的了解达到一定专业和影响力水平的普通用户创建的用户生成内容。
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 doc-type: overview
 solution: Analytics
 exl-id: a8dd4631-950b-4504-9af7-7953165ef175
-source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
+source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 19%
@@ -45,7 +45,7 @@ ht-degree: 19%
   </td>
   <td>
     <a href="/help/marketo/programs/email-programs.md">
-      <img alt="以非技术方式翻译[!DNL Adobe Analytics]技术语言" src="https://video.tv.adobe.com/v/345321?format=jpeg&captions=chi_hans" />
+      <img alt="以非技术方式翻译[!DNL Adobe Analytics]技术语言" src="https://video.tv.adobe.com/v/342066?format=jpeg" />
     </a>
     <div>
       <a href="/help/analytics/administration/key-admin-skills/translating-adobe-analytics-technical-language.md">
@@ -58,7 +58,7 @@ ht-degree: 19%
   </td>
   <td>
     <a href="/help/analytics/administration/admin-tips/create-standardized-naming-conventions.md">
-      <img alt="创建标准化的命名惯例" src="https://cdn.experienceleague.adobe.com/thumb/10531.jpg?lang=zh-Hans" />
+      <img alt="创建标准化的命名惯例" src="https://cdn.experienceleague.adobe.com/thumb/10531.jpg" />
     </a>
     <div>
       <a href="/help/analytics/administration/admin-tips/create-standardized-naming-conventions.md">
@@ -76,7 +76,7 @@ ht-degree: 19%
 
 ## 其他资源
 
-* [Experience LeagueAdobe Analytics社区](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community)
+* [Experience League Adobe Analytics社区](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community)
 * [Adobe Analytics文档](https://experienceleague.adobe.com/docs/analytics.html?lang=zh-Hans)
-* [Adobe Analytics 教程](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=zh-Hans)
-* [Adobe Analytics产品信息](https://business.adobe.com/cn/products/analytics/adobe-analytics.html)
+* [Adobe Analytics 教程](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html)
+* [Adobe Analytics产品信息](https://business.adobe.com/products/analytics/adobe-analytics.html)
