@@ -138,7 +138,7 @@ Workspace可让您自由发挥创意，而不受限于“标准”细分。 您�
 
 >[!IMPORTANT]
 >
->要详细了解使用下拉列表和自由格式划分，请参阅<https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680>
+>要详细了解使用下拉列表和自由格式划分，请参阅<https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680?profile.language=zh-Hans>
 
 ##### 2.1.2.2. Google [!DNL Analytics]：功能板、自定义报告和已保存报告
 

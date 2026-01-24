@@ -115,4 +115,4 @@ ht-degree: 0%
 
 * 职业发展 — 赋权社区将许多分析团队的重点从反应性和战术性转变为规范性和战略性。 这会为您所在社区的管理项目团队创造职业发展机会。
 
-如果您有一个内部[!DNL Adobe Analytics]用户组或更正式的“社区”，或者正在努力形成社区，那么我们很乐意在[[!DNL Adobe] Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions)中听听您的故事！
+如果您有一个内部[!DNL Adobe Analytics]用户组或更正式的“社区”，或者正在努力形成社区，那么我们很乐意在[[!DNL Adobe] Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions?profile.language=zh-Hans)中听听您的故事！

@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # 现在只需等待一个区段……使用区段在Analysis Workspace中发掘新见解
 
-无论您是新[!DNL Adobe Analytics]用户还是经验丰富的专业人士，您都将在您的Analysis Workspace项目中充分利用区段。 正如[[!DNL Adobe] Experience League](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=zh-Hans)描述的那样，“区段允许您根据特性或网站交互来识别访客的子集。” 虽然此功能的基本结果意味着隔离您网站的用户组、访问或点击，但像您自己这样的思维敏锐的分析人员可以使用此工具进行创意，并找到了解您网站活动的新方法。 可能的选项列表非常多，因此，您可以尝试创建自己的选项，并在Experience League上的[[!DNL Adobe Analytics] 社区](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community)或[社区](https://www.measure.chat/)社区等社区中与Slack或上的其他人#Measure行共享。
+无论您是新[!DNL Adobe Analytics]用户还是经验丰富的专业人士，您都将在您的Analysis Workspace项目中充分利用区段。 正如[[!DNL Adobe] Experience League](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=zh-Hans)描述的那样，“区段允许您根据特性或网站交互来识别访客的子集。” 虽然此功能的基本结果意味着隔离您网站的用户组、访问或点击，但像您自己这样的思维敏锐的分析人员可以使用此工具进行创意，并找到了解您网站活动的新方法。 可能的选项列表非常多，因此，您可以尝试创建自己的选项，并在Experience League上的[[!DNL Adobe Analytics] 社区](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=zh-Hans)或[社区](https://www.measure.chat/)社区等社区中与Slack或上的其他人#Measure行共享。
 
 如果您需要有关如何创建区段的快速刷新程序，请查看有关在Analysis Workspace中使用[区段生成器](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=zh-Hans)的Experience League文档。
 
@@ -79,7 +79,7 @@ ht-degree: 0%
 
 ![区段12](assets/s12.png)
 
-使用区段来查找新见解的可能性是无穷的！ 这只是个起点。 请自己尝试几个社区，让社区知道您发现的内容：[[!DNL Adobe Analytics] Experience League上的Community](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community)或[#MeasureSlack](https://www.measure.chat/)社区。
+使用区段来查找新见解的可能性是无穷的！ 这只是个起点。 请自己尝试几个社区，让社区知道您发现的内容：[[!DNL Adobe Analytics] Experience League上的Community](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=zh-Hans)或[#MeasureSlack](https://www.measure.chat/)社区。
 
 分段快乐！
 
