@@ -182,7 +182,7 @@ ht-degree: 2%
 
 * 下载工作表：[Marketo Engage组织和命名约定](./assets/adobe-marketo-engage-organization-and-naming-conventions.xlsx){target="_blank"}以支持创建文件夹结构和命名约定。
 * 在标准命名惯例中确定必要的组件后，请考虑将公式构建到Google工作表或Microsoft Excel中。 在以后使用时，只需在电子表格中输入您的值即可生成程序名。
-* 在调整整个文件夹结构后，现在就可以根据最常见的用例和团队收到的最常见的请求来考虑您所需的模板。 然后，开始构建您的第一个项目模板。 请阅读以开始使用[Adobe Marketo Engage计划模板](https://business.adobe.com/blog/how-to/get-started-with-marketo-engage-program-templates){target="_blank"}。
+* 在调整整个文件夹结构后，现在就可以根据最常见的用例和团队收到的最常见的请求来考虑您所需的模板。 然后，开始构建您的第一个项目模板。 请阅读以开始使用[Adobe Marketo Engage计划模板](https://business.adobe.com/cn/blog/how-to/get-started-with-marketo-engage-program-templates){target="_blank"}。
 
 ### 作者
 

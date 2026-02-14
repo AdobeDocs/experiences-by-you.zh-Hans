@@ -68,7 +68,7 @@ ht-degree: 0%
    * 人员生命周期
    * 数据管理
 1. 在Marketo Engage实例中构建
-   * [卓越中心(COE)](https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself){target="_blank}
+   * [卓越中心(COE)](https://business.adobe.com/cn/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself){target="_blank}
    * 文件夹结构
    * 命名约定
    * 项目群组织
