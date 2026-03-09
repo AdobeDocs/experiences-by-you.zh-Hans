@@ -24,5 +24,5 @@ ht-degree: 8%
 + [制定实例治理指南](/help/marketo-tutorial-inherited-instance/develop-an-instance-governance-guide.md)
 + [直观地展示您的营销技术栈栈](/help/marketo-tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)
 + [项目启动前质量保证流程](/help/marketo-tutorial-inherited-instance/essential-program-pre-launch-qa.md)
-+ [[!DNL Marketo Engage] 教程](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/overview)
-+ [返回透视](https://experienceleague.adobe.com/en/perspectives)
++ [[!DNL Marketo Engage] 教程](https://experienceleague.adobe.com/zh-hans/docs/marketo-learn/tutorials/overview)
++ [返回透视](https://experienceleague.adobe.com/zh-hans/perspectives)
