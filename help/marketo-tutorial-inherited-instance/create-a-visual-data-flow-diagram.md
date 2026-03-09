@@ -11,10 +11,10 @@ jira: KT-13877
 thumbnail: KT-13877.jpeg
 hide: false
 exl-id: 088bdcf1-4e49-44a7-ac78-a03742ff680b
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+source-git-commit: efd84b4fa04ca4d7bd8f4b8b5ad69b6a24f5e8c6
 workflow-type: tm+mt
-source-wordcount: '569'
-ht-degree: 2%
+source-wordcount: '599'
+ht-degree: 1%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 2%
 
 ## 为何要为继承的实例创建架构图？
 
-1. **熟悉您从实时实例继承的营销技术栈栈。**&#x200B;鼓励所有营销运营经理/平台运营经理在新公司开始时都进行此练习。 此创建过程使管理员用户能够查看从外部集成发送到[!DNL Marketo Engage]的数据和活动的全貌，并轻松解决API错误。
+1. **熟悉您从实时实例继承的营销技术栈栈。** 我们鼓励所有营销运营经理/平台运营经理在新公司开始工作时都进行这项练习。 此创建过程使管理员用户能够查看从外部集成发送到[!DNL Marketo Engage]的数据和活动的全貌，并轻松解决API错误。
 2. **熟悉管理外部集成的关键利益相关者。** Kelly Jo Horton用于快速识别利益相关者的提示是引用API用户列表。
-   1. **导航到“管理员”部分的“集成>LaunchPoint”选项卡。**&#x200B;了解有关如何导航到“LaunchPoint”选项卡的更多信息： [创建用于REST API的自定义服务](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html?lang=zh-Hans){target="_blank"}。
+   1. **导航到“管理员”部分的“集成>LaunchPoint”选项卡。** 了解有关如何导航到“LaunchPoint”选项卡的详细信息：[创建用于REST API的自定义服务](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html){target="_blank"}。
    2. 在“API调用信息”部分的“集成”>“Web服务”选项卡中，查找按API用户排列的API使用情况统计数据。 通过单击API调用编号，您可以查看每个用户发出的具体单个调用。
 
 ## 如何执行此可视化数据流图练习
@@ -46,12 +46,12 @@ ht-degree: 2%
 
 ### 步骤3：技术版本
 
-创建一个技术版本，以显示详细信息，如每个集成的API用户名、推送到[!DNL Marketo Engage]或从[!DNL Marketo Engage]拉取的数据类型的简短说明，以及任何中间件流和触发器的详细图表。  示例如下：
+创建一个技术版本，以显示详细信息，如每个集成的API用户名、推送到[!DNL Marketo Engage]或从[!DNL Marketo Engage]拉取的数据类型的简短说明，以及任何中间件流和触发器的详细图表。以下是示例：
 
 ![技术版本](/help/marketo-tutorial-inherited-instance/_assets/data-flow-diagram/Lead-Data-Source-Diagram-KellyJo-Horton.png){align="center"}
 
 
-## 接下来呢？
+## 接下来做什么？
 
 **开始使用示例：**
 下载其中一个示例数据流图表，以绘制营销技术栈栈的当前状态、人员和数据流，或在审核实例时从头开始创建数据宇宙的图表：
@@ -118,9 +118,9 @@ ht-degree: 2%
       </td>
 </table>
 
-您可以使用以下一些工具： draw.io (Google文档)、[!DNL Adobe] XD、Figma、Gliffy（在Confluence中）
+您可以使用以下一些工具： draw.io (Google Docs)、[!DNL Adobe] XD、Figma、Gliffy（在Confluence中）
 
-**如果已经存在体系结构图怎么办？**&#x200B;新团队成员可能有不同的视角。 让新[!DNL Marketo Engage]管理员在其载入流程中执行此练习并与他人共享很有价值。
+**如果已经有体系结构图怎么办？** 新的团队成员可能有不同的视角。 让新[!DNL Marketo Engage]管理员在其载入流程中执行此练习并与他人共享很有价值。
 
 ## 作者
 
@@ -133,4 +133,4 @@ Etumos的*高级客户合作伙伴*
 **赵蔼明**
 *采用和维系营销经理，[!DNL Adobe]*
 
-(/help/marketo-tutorial-inherited-instance/_assets/authors/[!DNL Adobe]_Author_Amy_Chiu.png){width=30%}
+![赵蔼明](/help/marketo-tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}
