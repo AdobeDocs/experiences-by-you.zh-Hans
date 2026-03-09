@@ -7,10 +7,10 @@ role: Admin
 level: Beginner
 solution: Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 15e031893212a9c6258d1747f9d8d2c888ddfb54
+source-git-commit: 81b3c04ef2daedb5ddb796c5cf74da6dca85dd21
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 3%
+source-wordcount: '97'
+ht-degree: 7%
 
 ---
 
@@ -26,5 +26,5 @@ ht-degree: 3%
 + [组织新实例并建立命名约定](./organizing-new-instance.md)
 + [使用Dynamic Chat设计全渠道对话式营销](./designing-omnichannel-conversational-marketing.md)
 + [实例治理和文档入门](./documenting-your-instance.md)
-+ [[!DNL Marketo Engage] 教程](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=zh-Hans)
-+ [返回透视](https://experienceleague.adobe.com/zh-hans/perspectives#f-el_product=Marketo%20Engage&amp;aq=((%40el_contenttype%20NOT%20%22Community%7CUser%22)%20AND%20(%40el_contenttype%3D%22perspective%22)))
++ [[!DNL Marketo Engage] 教程](https://experienceleague.adobe.com/zh-hans/docs/marketo-learn/tutorials/overview)
++ [返回透视](https://experienceleague.adobe.com/zh-hans/perspectives)

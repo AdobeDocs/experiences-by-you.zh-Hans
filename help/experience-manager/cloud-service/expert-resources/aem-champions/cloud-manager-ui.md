@@ -6,15 +6,15 @@ solution: Experience Manager Cloud Manager, Marketo Engage, Experience Manager
 feature-set: Marketo Engage, Experience Manager
 feature: Cloud Manager
 topic: Administration
-role: Admin, Architect
+role: Admin, Developer
 level: Beginner
 doc-type: Value Video
 last-substantial-update: 2023-05-11T00:00:00Z
 jira: KT-13230
 exl-id: c977d316-5e5d-43b9-ba10-a11433d33ca5
-source-git-commit: 2a628f89f602371c02db5204956d9397f306bdb8
+source-git-commit: 81b3c04ef2daedb5ddb796c5cf74da6dca85dd21
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '80'
 ht-degree: 2%
 
 ---
