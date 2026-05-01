@@ -9,20 +9,19 @@ doc-type: Tutorial
 last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-14103
 thumbnail: KT-14103.jpeg
-hide: false
 exl-id: e127b84d-ef92-4527-a0e6-a36af35b7ee0
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+source-git-commit: d78210c6d6f5ec22430770c752495959303a9519
 workflow-type: tm+mt
-source-wordcount: '874'
+source-wordcount: '936'
 ht-degree: 0%
 
 ---
 
 # 使用文档开发实例治理指南
 
-当您进入旧版[!DNL Marketo Engage]实例时，经常会遇到缺少最新功能和技术文档的难题。 作为管理员，建立准则以确保正确的实例管理是您不可忽视的核心责任。 在已建立的 [!DNL Marketo Engage] 实例[&#128279;](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582)中工作时，它是提高效率的关键策略之一。
+当您进入旧版[!DNL Marketo Engage]实例时，经常会遇到缺少最新功能和技术文档的难题。 作为管理员，建立准则以确保正确的实例管理是您不可忽视的核心责任。 在已建立的 [!DNL Marketo Engage] 实例](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582)中工作时，它是[提高效率的关键策略之一。
 
-此分步教程源自[!DNL [!DNL Adobe] Marketo Champion] (2018)，Nick Hajdin将指导您完成此过程，以概述实例设置、记录主要操作程序并维护[!DNL changelog]以实施严格的治理策略。
+此分步教程源自[！DNL [!DNL Adobe] Marketo Champion] (2018)，Nick Hajdin将指导您完成此过程，以概述实例设置、记录主要操作程序并维护[!DNL changelog]以实施严格的治理策略。
 
 ## 为您的继承实例开发实例治理指南
 
@@ -30,7 +29,7 @@ ht-degree: 0%
 
 1. 以可扩展方式更轻松地培训内部用户。
 2. 在[!DNL Marketo Engage]中长期更有效地构建。
-3. 保持实例的运行状况和卫生，以节省您花费数小时挖掘电子邮件、[审核跟踪](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html?lang=zh-Hans)和[活动日志](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html?lang=zh-Hans)以获取上下文。
+3. 保持实例的运行状况和卫生，以节省您花费数小时挖掘电子邮件、[审核跟踪](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html)和[活动日志](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html)以获取上下文。
 4. 如果您的团队遇到任何人员调整，请节省将[!DNL Marketo Engage]知识移交给新[!DNL Marketo Engage]管理员的时间。
 
 ## [!DNL Marketo Engage]治理指南101
@@ -92,7 +91,7 @@ ht-degree: 0%
 
 安排定期审查文档，以确保文档保持准确和最新。 在繁忙的时刻很容易被忽视。 主动在日历上设置提醒，以确保您的团队定期进行更新，以反映操作程序中的任何更改或优化。
 
-## 接下来呢？
+## 接下来做什么？
 
 通过下载此[简单模板](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx)开始使用。
 
@@ -111,7 +110,7 @@ ht-degree: 0%
 ### 作者
 
 **尼克·哈伊丁**
-[!DNL [!DNL Adobe] Marketo Champion] (2018)
+[！DNL [!DNL Adobe] Marketo Champion] (2018)
 *[!DNL Digital Technology Senior Manager at Accenture]*
 
 ![尼克·哈伊丁](/help/marketo-tutorial-inherited-instance/_assets/authors/Customer_Author_Nicholas_Hajdin.png){width="30%"}
@@ -119,4 +118,4 @@ ht-degree: 0%
 **赵蔼明**
 *采用和维系营销经理，[!DNL Adobe]*
 
-![Amy Chiu](/help/marketo-tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}
+![赵蔼明](/help/marketo-tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}
