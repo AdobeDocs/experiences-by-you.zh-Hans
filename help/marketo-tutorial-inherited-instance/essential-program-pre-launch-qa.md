@@ -9,11 +9,10 @@ doc-type: Tutorial
 last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13888
 thumbnail: KT-13888.jpeg
-hide: false
 exl-id: c377fe5f-2d77-4fd0-9ac4-5ad65506f582
-source-git-commit: a7a52347dbf9c3c12f3653c23e01bce611588580
+source-git-commit: d78210c6d6f5ec22430770c752495959303a9519
 workflow-type: tm+mt
-source-wordcount: '4894'
+source-wordcount: '6045'
 ht-degree: 2%
 
 ---
@@ -38,7 +37,7 @@ ht-degree: 2%
 请回答以下问题来思考您的QA过程：
 
 * **谁能够为审阅者和审批者提供服务？**
-如果您在较小的组织中，则[!DNL Marketo Engage]管理员可能扮演营销和营销运营的混合角色。 建议使用非生成器[!DNL Marketo Engage]考虑使用超级用户来审核程序。 新的一双新眼有助于发现问题。
+如果您所在的组织较小，则[!DNL Marketo Engage]管理员可能扮演营销和营销运营的混合角色。 建议使用非生成器[!DNL Marketo Engage]考虑使用超级用户来审核程序。 新的一双新眼有助于发现问题。
 
 * **构建者和审阅者如何协作以及记录注释和更改？**
 您可以将内容整理在电子表格或项目管理平台中。 参考下面的核对清单，将模板转换为最适合您组织的格式。 您的团队只需在每次构建并审查启动程序时克隆模板即可。
@@ -108,7 +107,7 @@ ht-degree: 2%
 | 5 | **机器人** | 有哪些设置？ 根据你的需要，它们是否合理？ | **是：** <br>如果不能使用“是”回答此问题，应对其进行更新。 | [机器人是什么意思？](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/landing-page-actions/edit-landing-page-title-and-metadata.html?lang=zh-Hans){target="_blank"} |
 | 6 | **个性化** | 如果您的页面上有任何个性化元素（例如，动态内容、代码片段），是否对其进行了测试？ 它们是否都按预期工作？ | **是/不适用：** <br>如果无法回答“是”或“不适用”，请进行测试！ | [在登陆页面中使用动态内容](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.html?lang=zh-Hans){target="_blank"}<br><br> [预览包含动态内容的登陆页面](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.html?lang=zh-Hans){target="_blank"} |
 | 7 | **图像** | 使用的所有图像是否都已正确压缩？ 如果有任何文字覆盖了图像，它是否清晰易读？ 您有权使用这些图像吗？它们是否为品牌图像？ | **是/不适用：** <br>应压缩所有图像（如果使用的话）以提高电子邮件加载速度。 | [替换上载的图像或文件](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.html?lang=zh-Hans){target="_blank"} |
-| 8 | **副本** | 您是否查看了副本中是否有任何语法错误？ 副本是否为您的品牌提供了语调？ 您的副本是否明确说明了页面的目标？ | **是/不适用：** <br>如果您无法回答“是”或“不适用”，请查看您的副本。 |  |
+| 8 | **复制** | 您是否查看了副本中是否有任何语法错误？ 副本是否为您的品牌提供了语调？ 您的副本是否明确说明了页面的目标？ | **是/不适用：** <br>如果您无法回答“是”或“不适用”，请查看您的副本。 |  |
 | 9 | **表单** | 如果登陆页面上有表单，那么引用的是否是正确的表单？ 如果您使用的是非Marketo登陆页面，则也请检查表单资产页面中的嵌入代码，确保它不受[2023年8月弃用的旧URL结构](https://nation.marketo.com/t5/product-documents/upcoming-changes-to-design-studio-urls/ta-p/306632){target="_blank"}的影响。 | **是/不适用：** <br>如果您无法回答是（或不适用），请修复它！ | 带有表单的[登陆页面](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/quick-wins/landing-page-with-a-form.html?lang=zh-Hans){target="_blank"}<br><br> [在您的网站上嵌入表单](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.html?lang=zh-Hans){target="_blank"}<br><br>[对Design Studio URL的更改](https://nation.marketo.com/t5/product-documents/upcoming-changes-to-design-studio-urls/ta-p/306632)<br> |
 | 10 | **感谢** | 如果您的页面上有表单，该页面是否在提交时显示成功消息/重定向到感谢页面？ | **是/不适用：** <br>如果无法回答是（或不适用），请修复您的提交后设置。 | [重定向登陆页面](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/quick-wins/redirect-a-landing-page.html?lang=zh-Hans){target="_blank"} |
 | 11 | **GDPR/CASL合规性** | 如果数据是通过表单捕获的，是否遵守选择加入规定，您是否提供包含正常隐私策略链接的收集声明？ | **是：** <br>了解您的相关合规性环境：如果您不能使用“是”回答此问题，则必须更新以确保它符合合规性。 如果你不知道，就寻求适当的建议。 | [隐私管理](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/privacy-management.html?lang=zh-Hans){target="_blank"} |
@@ -147,7 +146,7 @@ ht-degree: 2%
 |---|---|---|---|---|
 | 1 | **逻辑** | 如果使用智能列表来识别受众的任何部分，那么是否已检查、审核逻辑并将其视为准确？ | **是：** <br>如果您无法以“是”回答问题，则应修复智能列表设置，并在继续操作之前检查这些设置。 |  |
 | 2 | **列出导入进程** | 如果使用静态列表来识别受众的任何部分，数据源是否可信，以及是否根据列表导入流程准确完成了导入？ | **是：** <br>如果您无法以“是”回答问题，则应修复列表数据并检查这些数据，然后再继续。 | [从静态列表中添加/删除人员的方法](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.html?lang=zh-Hans){target="_blank"}<br><br>[导入人员列表](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/quick-wins/import-a-list-of-people.html?lang=zh-Hans#step-import-your-spreadsheet-into-marketo) |
-| 3 | **排除项** | 列入阻止列表是否包含任何必需的排除项（例如，竞争对手、取消订阅项） | **是或不适用：** <br>您必须过滤掉取消订阅项，除非您有非常好的、符合法律规定的理由。 如果没有包括任何这些内容，您应该对您的内容、活动规则和法律基础充满信心。 | [了解取消订阅](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html?lang=zh-Hans){target="_blank"}<br><br>[更改数据值](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html?lang=zh-Hans){target="_blank"} |
+| 3 | **排除项** | 是否包含任何必需的排除项（例如，竞争对手、取消订阅项） | **是或不适用：** <br>您必须过滤掉取消订阅项，除非您有非常好的、符合法律规定的理由。 如果没有包括任何这些内容，您应该对您的内容、活动规则和法律基础充满信心。 | [了解取消订阅](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html?lang=zh-Hans){target="_blank"}<br><br>[更改数据值](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html?lang=zh-Hans){target="_blank"} |
 | 4 | **主要列表** | 是否在适当时使用主要列表/分段？ | **是或不适用：**&#x200B;主列表/分段旨在减少必须引用的字段数并降低人为错误的风险。 如果不使用主列表/分段，您应该对规则充满信心。 | [定义区段规则](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.html?lang=zh-Hans) |
 
 >[!TAB 受众]
@@ -156,7 +155,7 @@ ht-degree: 2%
 |---|---|---|---|---|
 | 1 | **法律依据：**<br>&#x200B;您与受众联系有相应的法律依据。 | <ul><li>**明确：**&#x200B;他们是否明确选择接收来自您品牌的营销评论？ </li><li>**已推断（符合条件）：**&#x200B;他们是否向您提供了其联系详情，并合理地期望您会使用此信息与他们联系？ </li><li>**已认可（符合要求）：**&#x200B;您是否从公共来源获取了他们的联系详细信息，并且根据公共来源，可以合理地假定内容与他们相关？</li></ul> | **是，并声明基础：**&#x200B;请确保您选择的任何基础在您的合规性环境中有效。 如果您无法回答“是”，请暂停启动该计划，并寻求澄清联系此受众的法律依据。 | [隐私管理](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/privacy-management.html?lang=zh-Hans){target="_blank"} |
 | 2 | **数据源** | 如果通过导入列表识别受众，数据源是否可信？ | **是或不适用：**<br>&#x200B;如果不能使用“是”回答问题，请寻求关于数据源的说明。 | [通过导入列表定义受众](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.html?lang=zh-Hans){target="_blank"} |
-| 3 | **列出购买情况** | 受众是否来自列表购买或赞助活动？ | **如果来源=列表购买，则否：**<br>&#x200B;列表购买是不良做法，在很多地方都是非法的，并且经常违反您与营销自动化平台的合同。<br><br>**是，如果源=赞助** <br>在赞助和竞争案例中，请确保数据捕获符合要求。 最佳做法是在第一次沟通中明确说明您是如何收到其信息的，并使选择退出变得容易。 |  |
+| 3 | **列出购买情况** | 受众是否来自列表购买或赞助活动？ | **如果源=列表购买，则否：**<br>&#x200B;列表购买是一种不良做法，在很多地方都是非法的，而且经常会违反您与营销自动化平台的合同。<br><br>**如果源=赞助，则否** <br>在赞助和竞争案例中，请确保数据捕获是合规的。 最佳做法是在第一次沟通中明确说明您是如何收到其信息的，并使选择退出变得容易。 |  |
 | 4 | **相关性** | 您即将向此受众发送的信息与他们以及他们与您之间的关系相关。 | **是：** <br>如果您无法以“是”回答问题，请停止操作，并仔细考虑您向这些人发送电子邮件的原因。 发送与他们无关或他们与您的关系不相关的信息，可能会对性能和可投放性产生负面影响，并且可能是对您的法规遵从性环境的破坏。 |  |
 | 5 | **预期** | 此受众期待收到您的回复。 | **是：** <br>如果您无法以“是”回答问题，请停止操作，并仔细考虑您向这些人发送电子邮件的原因。 向不想或希望收到您反馈的受众发送电子邮件，可能会对性能和可投放性产生负面影响，并可能违反您的合规性环境。 |  |
 
@@ -185,11 +184,11 @@ ht-degree: 2%
 | 19 | **A/B和Champ/Challenger测试** | 您是否对电子邮件进行了冠军/挑战者测试？ | **是或否：**<br>&#x200B;如果您没有进行任何测试，请思考您是否可能错过了解受众更多信息的机会。 | [创建A/B测试](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=zh-Hans)<br><br>[添加电子邮件冠军/挑战者](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.html?lang=zh-Hans){target="_blank"} |
 | 20 | **客户端测试** | 您是否通过客户端测试软件运行了电子邮件？<li>您是否发现主要电子邮件客户端有任何显示问题？ <li>您是否更正了或记录为非紧急模板修复？ <li>您是否发现任何加载速度问题并尝试改进？<li>您是否发现任何主题行/预览行问题？ 他们解决了吗？ | **是或不适用：**<br>&#x200B;如果您无法以“是”回答（除非您没有测试软件），则应在发送之前完成此操作。 | 客户端测试软件的示例包括Litmus或Acid上的Email或[Marketo Email Deliverability Power Pack](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.html?lang=zh-Hans)<br><br>[收件箱跟踪器教程](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.html?lang=zh-Hans){target="_blank"} |
 | 21 | **垃圾邮件测试** | 您是否通过垃圾邮件流程运行电子邮件？<li>有没有任何列入阻止列表的旗帜被升起以引起注意？<li>您是否识别了任何收件箱位置/电子邮件客户端标记？ <li>您是否寻找潜在原因并尝试解决它们？ | **是或不适用：**<br>&#x200B;如果您无法用是回答（除非您没有测试软件），则应在发送之前完成此操作。 | 如果您在合同中包含[Marketo的收件箱跟踪器功能](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.html?lang=zh-Hans){target="_blank"}，或者使用Litmus或Email on Acid等工具，请对此使用。 |
-| 22 | **其他[!DNL Analytics]** | 电子邮件是否包含其他Analytics代码？ | **是或不适用：**<br>       如果您无法通过是回答（除非您没有其他分析软件），则应在发送之前完成此操作。 |  |
+| 22 | **其他[!DNL Analytics]** | 电子邮件是否包含其他Analytics代码？ | **是或不适用：**<br>&#x200B;如果您无法用是回答（除非您没有其他分析软件），则应在发送前完成此操作。 |  |
 
 >[!TAB 最终检查]
 
-| # | 审查 | 要问的问题 | 接受标准 |
+| # | 审阅 | 要问的问题 | 接受标准 |
 |---|---|---|---|
 | 1 | **资产审批** | 确保最终确定的计划资产和冠军/挑战者测试获得完全批准，并且不对草稿模式进行最终更改。 | **是：**<br>&#x200B;如果您无法以“是”回答问题，则必须在发送之前完成此操作。 |
 | 2 | **智能[!DNL Campaign]准确性** | 智能营销活动是否引用了正确的资产？ | **是：**<br>&#x200B;如果您无法以“是”回答问题，则在发送之前必须解决此问题。 |
@@ -198,7 +197,7 @@ ht-degree: 2%
 
 >[!ENDTABS]
 
-## 接下来呢？
+## 接下来做什么？
 
 单击[此处](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Program_Prelaunch_QA_Checklist.xlsx)下载可编辑的程序启动前核对清单，供您自定义。 请记住，这应该根据您组织的工作流程进行调整。 开发有效的QA流程可使您始终负责并减少客户面临的错误。
 
@@ -206,7 +205,7 @@ ht-degree: 2%
 
 **Grace Brebner**
 [!DNL Adobe]Marketo冠军（2021年）
-*Digital Pi， LLC - A Merkle公司的APAC地区客户战略总监*
+*APAC地区客户策略总监，Digital Pi， LLC — 一家默克尔公司*
 
 ![Grace Brebner](/help/marketo-tutorial-inherited-instance/_assets/authors/Customer_Author_Grace_Brebner.png){width=30%}
 

@@ -9,11 +9,10 @@ doc-type: Tutorial
 last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-14103
 thumbnail: KT-14103.jpeg
-hide: false
 exl-id: e127b84d-ef92-4527-a0e6-a36af35b7ee0
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+source-git-commit: d78210c6d6f5ec22430770c752495959303a9519
 workflow-type: tm+mt
-source-wordcount: '874'
+source-wordcount: '936'
 ht-degree: 0%
 
 ---
@@ -92,7 +91,7 @@ ht-degree: 0%
 
 安排定期审查文档，以确保文档保持准确和最新。 在繁忙的时刻很容易被忽视。 主动在日历上设置提醒，以确保您的团队定期进行更新，以反映操作程序中的任何更改或优化。
 
-## 接下来呢？
+## 接下来做什么？
 
 通过下载此[简单模板](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx)开始使用。
 
@@ -119,4 +118,4 @@ ht-degree: 0%
 **赵蔼明**
 *采用和维系营销经理，[!DNL Adobe]*
 
-![Amy Chiu](/help/marketo-tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}
+![赵蔼明](/help/marketo-tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}

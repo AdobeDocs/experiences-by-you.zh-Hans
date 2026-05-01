@@ -9,18 +9,17 @@ doc-type: Tutorial
 last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13875
 thumbnail: KT-13875.jpeg
-hide: false
 exl-id: 6a38f5dd-5d25-43d8-a1d3-e75ab396e555
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+source-git-commit: d78210c6d6f5ec22430770c752495959303a9519
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '458'
 ht-degree: 0%
 
 ---
 
 # 记录CRM同步错误以进行疑难解答
 
-作为[!DNL Marketo Engage]管理员，检查您的实例是否与CRM保持同步应该是您[每日例程](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}的关键部分。 虽然[通知部分](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html?lang=zh-Hans){target="_blank"}（在[!DNL Marketo Engage]界面的右上角找到）是您开始查找和调查频繁同步问题的地方，但有一个专业提示可帮助您以有条理的方式管理实例运行状况。 [!DNL Adobe] Marketo Champion (2019-2022)，Amy Goldfine建议管理员用户保留CRM同步错误的日志，以便更轻松地执行故障排除。
+作为[!DNL Marketo Engage]管理员，检查您的实例是否与CRM保持同步应该是[每日例程](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}的关键部分。 虽然[通知部分](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html?lang=zh-Hans){target="_blank"}（在[!DNL Marketo Engage]界面的右上角找到）是您开始查找和调查频繁同步问题的地方，但有一个专业提示可帮助您以有条理的方式管理实例运行状况。[!DNL Adobe] Marketo Champion (2019-2022)，Amy Goldfine建议管理员用户保留CRM同步错误的日志，以便更轻松地执行故障排除。
 
 ![同步错误选项卡屏幕截图](/help/marketo-tutorial-inherited-instance/_assets/Marketo_Engage_Admin_Salesforce_Sync_Errors_Tab.png)
 
@@ -46,7 +45,7 @@ ht-degree: 0%
 
 **步骤7：**&#x200B;在最后一列中，粘贴错误的实际文本。
 
-## 接下来呢？
+## 接下来做什么？
 
 **识别错误代码：**&#x200B;若要了解错误代码，请查看开发人员文档[响应级别错误代码表](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes){target="_blank"}中的说明，并找到解决错误的典型后续步骤。
 
@@ -59,6 +58,6 @@ ht-degree: 0%
 ![Amy Goldfine](/help/marketo-tutorial-inherited-instance/_assets/authors/Customer_Author_Amy_Goldfine.png){width="25%"}
 
 **赵蔼明**
-*在[!DNL Adobe]*&#x200B;的采用和保留营销经理
+*在[!DNL Adobe]*&#x200B;的采用和维系营销经理
 
 ![赵蔼明](/help/marketo-tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width="25%"}
