@@ -6,7 +6,8 @@ index: true
 role: Admin
 level: Beginner
 solution: Marketo Engage
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 auto-video-transcripts: true
 source-git-commit: cddb05edf1f607bc1e695dcf593364958f21320b
 workflow-type: tm+mt
