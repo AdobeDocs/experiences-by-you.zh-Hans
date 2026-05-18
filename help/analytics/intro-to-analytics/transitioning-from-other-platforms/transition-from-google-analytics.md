@@ -10,34 +10,34 @@ thumbnail: 34749.jpg
 exl-id: 646bdc8f-c95e-40be-b2f7-8e4ba5653d91
 source-git-commit: 02e3a6dfa59df45113242bd8e874e18e9e1efd58
 workflow-type: tm+mt
-source-wordcount: '3323'
-ht-degree: 0%
+source-wordcount: '3354'
+ht-degree: 1%
 
 ---
 
 # 从Google [!DNL Analytics]过渡到[!DNL Adobe Analytics]的综合指南{#comprehensive-guide-for-transitioning-to-adobe-analytics}
 
-## 1.导言
+## &#x200B;1. 简介
 
-在任何工具之间转换的最大挑战之一是学习在何处查找等效的功能以及学习如何高效地使用它。 此讨论属于更全面的指南的一部分，旨在帮助用户更轻松地转换为[!DNL Adobe Analytics] (可以是新用户，也可以是来自Google [!DNL Analytics]的用户)。 提供了与GA的深入对比（这可能是大多数用户熟悉的相当工具），以帮助用户将现有知识运用到新的工具集上。 当没有替代练习的方法时，这有助于您开始并减少您在此期间可能遇到的挫折。
+在任何工具之间转换的最大挑战之一是学习在何处查找等效的功能以及学习如何高效地使用它。 此讨论属于更全面的指南的一部分，旨在帮助用户更轻松地转换为[!DNL Adobe Analytics]（可以是新用户，也可以是来自Google [!DNL Analytics]的用户）。 提供了与GA的深入对比（这可能是大多数用户熟悉的相当工具），以帮助用户将现有知识运用到新的工具集上。 当没有替代练习的方法时，这有助于您开始并减少您在此期间可能遇到的挫折。
 
 我们应快速地对比术语：
 
 | **描述** | **[!DNL Adobe Analytics]** | **Google[!DNL Analytics]** |
 |--------------------------------------------------------------------------------------------------------------------------------|---------------------|----------------------|
 | 表示某个页面（或应用程序上的某个屏幕）已被查看的事件量度 | 页面查看 | 页面查看 |
-| 一个量度，表示您的网站或应用程序上在同一时间范围内发生的一组交互 | 前往 | 会话 |
+| 一个量度，表示您的网站或应用程序上在同一时间范围内发生的一组交互 | 访问 | 会话 |
 | 一个量度，定义标识的设备（基于多个标准，包括Cookie和用于拼接用户信息的其他行为模式） | 独特访客 | 用户 |
 
-## 2.界面
+## &#x200B;2. 界面
 
 当人们比较[!DNL Adobe Analytics]和Google [!DNL Analytics]时，他们评论说[!DNL Adobe]的界面起初是令人望而生畏的。 这是真的，但信不信由你，这是优点，不是弱点。 [!DNL Adobe]提供了广泛的数据可视化图表工具和灵活性，使您能够更自由地根据需求进行构建。
 
 我们来了解一下“原位”报告。
 
-### 2.1.现场报告
+### 2.1. 网站内报告
 
-#### 2.1.1.主屏幕
+#### 2.1.1. 主屏幕
 
 [!DNL Adobe Analytics]和Google [!DNL Analytics]均提供了自定义用户登录时看到的第一个视图的方法。
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 ![workspace-create-project](assets/ga-to-aa_1.png)
 
-本指南的后文中将更详细地介绍工作区。 请参阅第2.1.2.1部分
+本指南的后文中将更详细地介绍工作区。 请参阅部分2.1.2.1
 
 >[!TIP]
 >
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 
 
-##### 2.1.1.2.主屏幕分析(Google [!DNL Analytics])
+##### 2.1.1.2. 主屏幕分析(Google [!DNL Analytics])
 
 * Google [!DNL Analytics]主屏幕为您提供了一些预建的可视化图表。 其中涵盖的内容包括：
 * 过去七天的用户、会话、跳出率和会话持续时间
@@ -71,13 +71,13 @@ ht-degree: 0%
 
 ![google-analytics-interfaces](assets/ga-to-aa_2.png)
 
-这可能是您对[!DNL Adobe Analytics]最怀念的一件事。 没有为您预建的主屏幕。 但是，您可以轻松设置自定义Workspace以复制上述列表中的所需内容，并将其设置为登录屏幕。 有关此主题的详情见后文(或者参见第2.1.2.1部分[!DNL Adobe] Workspace)。
+这可能是您对[!DNL Adobe Analytics]最怀念的一件事。 没有为您预建的主屏幕。 但是，您可以轻松设置自定义Workspace以复制上述列表中的所需内容，并将其设置为登录屏幕。 有关此主题的详情见后文（或参阅第2.1.2.1部分[!DNL Adobe] Workspace）。
 
-#### 2.1.2.原位Report Builder
+#### 2.1.2. 站点内Report Builder
 
 除了分析工具提供的简单报表之外，每个工具还提供更强大的工具，用于构建您自己的自定义报表。
 
-##### 2.1.2.1. [!DNL Adobe Analytics] Workspace
+##### 2.1.2.1. [!DNL Adobe Analytics] 工作区
 
 这是[!DNL Adobe Analytics]的动力来源，自其在2017年推出以来，它已成为进行[!DNL Analytics]分析的首选位置，并且是Reports部分很快消失的主要原因。
 
@@ -92,10 +92,10 @@ ht-degree: 0%
 * 自由格式表
 * 同类群组表
 * 流失
-* 流
+* 流量
 * 图形
    * 面积图（栈叠和非栈叠）
-   * 折线图
+   * 线形图
    * 散点图
    * 条形图（栈叠和非栈叠）
    * 项目符号
@@ -138,7 +138,7 @@ Workspace可让您自由发挥创意，而不受限于“标准”细分。 您�
 
 >[!IMPORTANT]
 >
->要详细了解使用下拉列表和自由格式划分，请参阅<https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680?profile.language=zh-Hans>
+>要详细了解使用下拉列表和自由格式划分，请参阅<https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680>
 
 ##### 2.1.2.2. Google [!DNL Analytics]：功能板、自定义报告和已保存报告
 
@@ -152,11 +152,11 @@ Google功能板和自定义报表允许您将多个可视化一起提取到一�
 
 如果是表面比较，就行得通。 这些都类似于[!DNL Adobe]旧式功能板、自定义报表和书签。 报表包中提供了基本工具来支持您的需求。
 
-#### 2.1.3.报告
+#### 2.1.3. 报告
 
 Google和[!DNL Adobe]都有一些可导航的报表，这些报表是基于维度的预建表和基本时间线图。
 
-##### 2.1.3.1. [!DNL Adobe Analytics]报告
+##### 2.1.3.1. [!DNL Adobe Analytics] 报告
 
 [!DNL Adobe Analytics]还具有“报表”分区，但为了支持Analysis Workspace，该分区正在逐步取消。 事实上，由于Workspace是一个功能更强大的工具，因此该界面已宣布终止使用。 这些表中的大多数都可以更轻松地构建和修改。 [!DNL Adobe]的节划分得更加细致，这可能令人望而生畏：
 
@@ -166,7 +166,7 @@ Google和[!DNL Adobe]都有一些可导航的报表，这些报表是基于维�
 
 “网站量度”是普遍需要的，这涵盖了标准量度（页面查看次数、独特访客数、访问量以及您已设置的自定义事件）。 这类似于行为报表GA，但还包括了一些您在“受众”中可以找到的量度（因为[!DNL Adobe]不拆分量度类型）。
 
-在这里，您可以找到“机器人”报表。 所有标准报表中都排除了源自机器人的流量，但是，有两个报表可供您深入了解所发生的情况以及哪些机器人访问了您的网站。 如果您设置了自定义机器人规则来排除频繁访问您网站的已知垃圾虫机器人，此功能尤为有用。 您可以获得这些机器人所执行操作的洞察，但又不会让这些流量在您的主报表中泛滥。 机器人报表目前不通过Workspace提供（但即将推出的新报表功能也允许用户在报表中获取此信息）。
+在这里，您可以找到“机器人”报表。 所有标准报表中都排除了源自机器人的流量，但是，有两个报表可向insight说明所发生的情况以及哪些机器人访问了您的网站。 如果您设置了自定义机器人规则来排除频繁访问您网站的已知垃圾虫机器人，此功能尤为有用。 您可以让一些insight了解这些机器人正在做什么，但又不会让这些流量在您的主报表中泛滥。 机器人报表目前不通过Workspace提供（但即将推出的新报表功能也允许用户在报表中获取此信息）。
 
 网站内容是一组[!DNL Adobe]标准维度：页面名称、网站区域、层次结构、服务器等。 所有这些维度在Workspace中都可用。
 
@@ -204,11 +204,11 @@ Google [!DNL Analytics]将这些报表拆分为以下部分：“实时”、“
 
 这些功能对于快速分析数据很有用，但是如果您真的需要深入挖掘，则会遇到很多限制。
 
-### 2.2.扩展报表访问
+### 2.2. 扩展的报表访问
 
 除了“原位报告”之外，大多数工具还提供了扩展功能，可供您用于在工具之外进行分析，构建一些更加定制化的报表。
 
-#### 2.2.1. [!DNL Adobe Analytics]Report Builder(Microsoft® Excel扩展)
+#### 2.2.1. [!DNL Adobe Analytics] Report Builder （Microsoft® Excel扩展）
 
 Workspace是一个很棒的工具，但有时您需要将数据导入自定义的电子表格中，这样您就可以将多个数据源拼合在一起。 这就是Report Builder发挥作用的地方。
 
@@ -224,7 +224,7 @@ Report Builder是Microsoft® Excel的一个插件，允许您创建与[!DNL Adob
 
 需要注意的是，API仍会按照拉取请求中的指定，应用划分和区段来拉入关联数据。
 
-[!DNL Adobe]的Workspace（第2.1.2.1节）使用API构建报表，如果您在Workspace中启用调试模式，它会显示所使用的确切API调用。 这是构建API调用的快速方法。 通过使用Workspace构建和验证要提取的数据，然后使用这些API调用将数据取出来供您自行处理。
+[!DNL Adobe]的Workspace（第2.1.2.1部分）使用该API生成报表，如果您在Workspace中启用调试模式，它会显示所使用的确切API调用。 这是构建API调用的快速方法。 通过使用Workspace构建和验证要提取的数据，然后使用这些API调用将数据取出来供您自行处理。
 
 
 #### 2.2.3. Google [!DNL Analytics] Data Studio
@@ -239,11 +239,11 @@ Report Builder是Microsoft® Excel的一个插件，允许您创建与[!DNL Adob
 对于我自己使用，当需要从Google [!DNL Analytics]中以扩展方式拉取数据时，我个人的首选工具是Google Spreadsheet Extension。 尽管我需要与GA表建立多个连接，但我可以从原始数据中引用单元格并构建所需的报告。 然后，我使用Google电子表格的绘图功能将它们可视化。
 
 
-## 3.原始数据导出
+## &#x200B;3. 原始数据导出
 
 当您真正需要原始数据时，[!DNL Adobe]和Google都提供了以这种方式提取信息的功能。
 
-### 3.1. [!DNL Adobe]数据馈送
+### 3.1. [!DNL Adobe] 数据馈送
 
 在第2.2.2部分中，我提到了[!DNL Adobe Analytics] API拉取“处理过的数据”。 原始数据馈送提取由管理面板中设置的“处理规则”处理的数据，但此原始数据包括在其他任何地方排除的所有数据。
 
@@ -260,18 +260,18 @@ Report Builder是Microsoft® Excel的一个插件，允许您创建与[!DNL Adob
 
 但是，这不是提供完整的原始数据转储，而是允许工程师通过SQL查询访问数据，以提取目标原始数据或所有原始数据列。
 
-## 4.结论
+## &#x200B;4. 结论
 
 与任何系统一样，需要练习才能熟悉该工具。 希望本指南可以帮助您开始使用，或提供提示以改进您对[!DNL Adobe Analytics]的使用。
 
-但是，我要强调，我建议在您的实施策略中同时使用[!DNL Adobe Analytics]和Google [!DNL Analytics] (即使Google [!DNL Analytics]只是免费版本)。 这使您能够有一个备份系统，以确保您拥有数据，因为没有任何系统是绝对可靠的。
+但是，我要强调，我建议在您的实施策略中同时使用[!DNL Adobe Analytics]和Google [!DNL Analytics]（即使Google [!DNL Analytics]只是免费版本）。 这使您能够有一个备份系统，以确保您拥有数据，因为没有任何系统是绝对可靠的。
 
 除了本指南之外，还有许多资源可帮助您改进策略：
 
-* [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/zh-hans#home) — 包含教程、视频、文档和社区论坛
+* [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/?lang=zh-hans#home) — 包含教程、视频、文档和社区论坛
 * [[!DNL Adobe] 用户组](https://analytics-augs.adobe.com/) — 一个社区活动中心，帮助用户相互联系并改进其实施。
 * [[!DNL Adobe Analytics] 用户组YouTube频道](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) — 无法进行[!DNL Adobe Analytics]用户组会话？ 重新观看以前在全球范围内的用户组会议，以详细了解您的同行如何使用该工具。
-* [Measure ChatSlack频道](https://www.measure.chat/) — 与全球[!DNL Adobe Analytics]用户联系，分享行业知识，向同行提问，并加入以量度为重点的兴趣小组。
+* [Measure Chat Slack频道](https://www.measure.chat/) — 与全球[!DNL Adobe Analytics]用户联系，分享行业知识，向同行提问，并加入以量度为重点的兴趣小组。
 * 等等！
 
 ## 作者
