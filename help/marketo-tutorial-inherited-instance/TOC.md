@@ -7,10 +7,9 @@ index: false
 role: Admin
 level: Beginner
 solution: Marketo Engage
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
 auto-video-transcripts: true
-source-git-commit: cddb05edf1f607bc1e695dcf593364958f21320b
+source-git-commit: 1818db9e2253ebfc085205761331bb53fe884e26
 workflow-type: tm+mt
 source-wordcount: 79
 ht-degree: 8%
@@ -26,5 +25,5 @@ ht-degree: 8%
 + [制定实例治理指南](/help/marketo-tutorial-inherited-instance/develop-an-instance-governance-guide.md)
 + [直观地展示您的营销技术栈栈](/help/marketo-tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)
 + [项目启动前质量保证流程](/help/marketo-tutorial-inherited-instance/essential-program-pre-launch-qa.md)
-+ [[!DNL Marketo Engage] 教程](https://experienceleague.adobe.com/zh-hans/docs/marketo-learn/tutorials/overview)
-+ [返回透视](https://experienceleague.adobe.com/zh-hans/perspectives)
++ [[!DNL Marketo Engage] 教程](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/overview)
++ [返回透视](https://experienceleague.adobe.com/en/perspectives)
