@@ -21,7 +21,7 @@ ht-degree: 0%
 
 在您启用新的[!DNL Marketo Engage]实例时，是时候让相关团队快速将[!DNL Marketo Engage]用于其作业了。
 
-这些内部入职和培训最佳实践由Adobe Marketo Engage客户Naomi Liu提供，她分享了[内部入职](https://nation.marketo.com/t5/employee-blogs/peer-perspective-orchestrating-onboarding-across-global-teams/ba-p/244931){target=&quot;_blank}和[培训最佳实践](https://nation.marketo.com/t5/employee-blogs/peer-perspective-how-to-train-internal-users-on-marketo-engage/ba-p/245237){target=&quot;_blank}，这些最佳实践源自她为图像处理全球团队实施电子新实例的经验。 根据她的见解为内部团队制定有效的培训计划。
+这些内部入职和培训最佳实践由Adobe Marketo Engage客户Naomi Liu提供，她分享了[内部入职](https://nation.marketo.com/t5/employee-blogs/peer-perspective-orchestrating-onboarding-across-global-teams/ba-p/244931){target=_blank}和[培训最佳实践](https://nation.marketo.com/t5/employee-blogs/peer-perspective-how-to-train-internal-users-on-marketo-engage/ba-p/245237){target=_blank}，这些最佳实践源自她为图像处理全球团队实施电子新实例的经验。 根据她的见解为内部团队制定有效的培训计划。
 
 ## 在实施新实例时，为什么要制定内部入门培训计划？
 
