@@ -13,14 +13,14 @@ kt: 9779
 exl-id: 9ceef641-3509-4e5e-8c44-bc76502e389b
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '885'
+source-wordcount: '903'
 ht-degree: 0%
 
 ---
 
 # 简化培训环节并缩短用户的培训时间的提示和技巧
 
->[!VIDEO](https://video.tv.adobe.com/v/341109/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/340458/?quality=12&learn=on)
 
 确保组织中的商业用户接受过[!DNL Adobe Analytics]的良好培训对于帮助培养数据驱动型决策文化至关重要。 如果用户可以轻松地在[!DNL Adobe Analytics]中查找信息，就可以自行解答简单的业务问题，这就让分析人员有更多的时间来解答具有挑战性的业务问题。 分享您的知识有助于推动数据普及化，并让商业用户在基于绩效的决策中更加独立。
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 * 请确保也录制这些课程，并在创建新内容时逐个发布它们。
 * 有时，随着实施的发展和演变，您可能需要更新培训课程，以使内容保持最新。
 * 根据您如何部署实施以及如何架构组织，还可能会需要针对特定部门或群体创建培训课程，例如，向IT部门提供有关浏览器和操作系统使用的培训，演示有关网站可用性的警报，以及向营销部门提供有关反向链接、营销渠道和最多访问内容页面的培训。
-* 您无需自己创建所有内容。 [!DNL Adobe]提供了一些非常棒的免费学习路径和额外的Experience League内容，您可以在[[!DNL Adobe] 培训项目](https://experienceleague.adobe.com/docs/analytics.html?lang=zh-Hans)内向用户提供。
+* 您无需自己创建所有内容。 [!DNL Adobe]有一些非常棒的免费学习路径和其他培训内容，您可以在[[!DNL Adobe] Experience League](https://experienceleague.adobe.com/docs/analytics.html?lang=en)中提供给您的用户。
 
 
 
