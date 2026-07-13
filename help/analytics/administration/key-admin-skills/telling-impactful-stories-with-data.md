@@ -12,8 +12,8 @@ kt: 10157
 exl-id: bbbe8514-95d2-4e18-aaa2-6c3bd94816a1
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '448'
-ht-degree: 0%
+source-wordcount: '450'
+ht-degree: 6%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 确定机会或问题
 
-首先定义当前情况并确定问题或机会。 您正在搭建舞台并提供足够的信息来吸引受众，但并未完全揭示解决方案。 这个介绍非常关键（并且可能具有挑战性），但它能够真正地帮助您的分析得以落实！  用数据讲故事的价值在于促使采取行动，从而导致&#x200B;**改变行为**。 否则，数据、洞察和分析将无用武之地。
+首先定义当前情况并确定问题或机会。 您正在搭建舞台并提供足够的信息来吸引受众，但并未完全揭示解决方案。 这个介绍非常关键（并且可能具有挑战性），但它能够真正地帮助您的分析得以落实！  数据storytelling的值是提示导致&#x200B;**更改行为**&#x200B;的操作。 否则，数据、Insight和分析将无用武之地。
 
 **[!DNL Adobe]Workspace提示：**&#x200B;请以提问的形式给您的可视化展示加上标题，准确地指明突出显示的问题或当前情况。
 
@@ -50,6 +50,6 @@ ht-degree: 0%
 
 ![Amy Ard](assets/amy-ard-headshot-small.png)
 
-Levelwing的[!DNL Analytics]的Director的Amy Ard
+Amy Ard，Levelwing的[!DNL Analytics]主管
 
 [!DNL Adobe Analytics]冠军

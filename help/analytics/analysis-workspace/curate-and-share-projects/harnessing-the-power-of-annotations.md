@@ -1,6 +1,6 @@
 ---
-title: 释放分析洞察力；利用注释的力量
-description: 了解注释在 Adobe Analysis Workspace 中发挥的关键作用，并获得最大限度发挥注释作用的实用技巧。将您的数据理解和协作提升到新的高度，在此过程中不断提取更丰富的分析见解。
+title: 解锁分析insight；利用注释的强大功能
+description: 了解注释在 Adobe Analysis Workspace 中发挥的关键作用，并获得最大限度发挥注释作用的实用技巧。 将您的数据理解和协作提升到新的高度，在此过程中不断提取更丰富的分析见解。
 feature: Annotations
 role: User
 level: Experienced
@@ -12,18 +12,18 @@ thumbnail: KT-15331.jpeg
 exl-id: a7e06ac7-cc06-47e5-a4d7-834a5a7f8351
 source-git-commit: 41e1153f92ceed71831cb89c9619c375f2304194
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: '716'
 ht-degree: 3%
 
 ---
 
-# 释放分析洞察力；利用注释的力量
+# 解锁分析insight；利用注释的强大功能
 
-注释数据组件是AdobeAnalysis Workspace中提供的最简单，但从长期来看，是最省时的功能之一。 与Workspace中的任何其他功能不同，它充当Workspace用户和其他用户的叙述性历史记忆。
+注释数据组件是Adobe Analysis Workspace中提供的最简单，但从长期来看，是最省时的功能之一。 与Workspace中的任何其他功能不同，它充当Workspace用户和其他用户的叙述性历史记忆。
 
 ![1stgraph](assets/1stgraph.png)
 
-简而言之，注释是可以添加到AdobeWorkspace中的日期趋势数据的简短描述文本。 注释可为使用Analysis Workspace了解贵公司数据历史的每个人提供上下文，有助于更快速地分析性能并为所有报表提供高度自定义的感觉。
+简而言之，注释是可以添加到Adobe Workspace中的日期趋势数据的简短描述文本。 注释可为使用Analysis Workspace了解贵公司数据历史的每个人提供上下文，有助于更快速地分析性能并为所有报表提供高度自定义的感觉。
 
 ## 用例
 
@@ -44,7 +44,7 @@ ht-degree: 3%
 ![2ndimage](assets/2ndimage.png){width="70%"}![3rdimage](assets/3rdimage.png){width="30%"}
 
 
-有关批注工作方式的所有详细信息，请务必查看有关Experience League[&#128279;](https://experienceleague.adobe.com/zh-hans/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace)的视频教程。
+有关批注工作方式的所有详细信息，请务必查看Experience League[&#128279;](https://experienceleague.adobe.com/zh-hans/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace)上的视频教程。
 
 ## 帮助您入门的提示和技巧
 
@@ -83,4 +83,4 @@ ht-degree: 3%
 
 ![托马斯 — 大头照](assets/thomas-headshot.png)
 
-Thomas Edward Buckley，Miles &amp; More（汉莎航空集团）Data Warehouse与Business Intelligence经理
+Miles &amp; More（汉莎集团）Data Warehouse与Business Intelligence经理Thomas Edward Buckley
