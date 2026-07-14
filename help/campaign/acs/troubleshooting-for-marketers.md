@@ -13,7 +13,7 @@ thumbnail: KT-13256.jpeg
 exl-id: 1f27e284-73e3-4f28-988e-51163775eec8
 source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: '740'
 ht-degree: 2%
 
 ---
@@ -22,14 +22,14 @@ ht-degree: 2%
 
 作者：[Suraj Patra](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}，梅耶高级顾问
 
-作为过去五年中[!DNL Adobe]个Experience Cloud产品的高级工程师和客户专家，我让[Meijer](https://www.meijer.com/){target="_blank"}（一家成立于1934年的美国超级中心连锁店）的商业用户能够与ACS一起开展复杂的营销和事务性营销活动。 我参与的一些项目包括用于存储个性化选件和订单详细信息的自定义营销活动，与[!DNL Adobe] Audience Manager和客户insight集成以用于区段摄取。
+作为过去五年中[!DNL Adobe]个Experience Cloud产品的高级工程师和客户专家，我让[Meijer](https://www.meijer.com/){target="_blank"}（成立于1934年的美国超级中心连锁店）的商业用户能够与ACS一起开展复杂的营销和事务性营销活动。 我参与的一些项目包括用于存储个性化选件和订单详细信息的自定义营销活动，与[!DNL Adobe] Audience Manager和客户insight集成以用于区段摄取。
 
 在使用ACS期间，我遇到一些错误，解决这些错误会非常耗时且令人沮丧。 了解最常见的错误有助于更快地解决问题，并提高工作效率。 下面是我的疑难解答提示，可帮助您在出现类似错误时有效地解决它们。
 
 ## 数据类型不匹配错误
 
-**错误代码：**
-`PGS-220000 PostgreSQL error: ERROR: operator does not exist: character varying = bigint`
+**错误代码：
+
 
 **原因：**
 当您尝试使用不同数据类型的字段进行协调时，工作流中会出现这些类型的错误。 例如，当您使用具有字符串字段的加载文件上载文件时，并尝试将该字符串字段与数据类型为int的用户档案字段相协调。
@@ -44,8 +44,8 @@ ht-degree: 2%
 
 ## 投放Personalization错误
 
-**错误代码：**
-`The schema for profiles specified in the transition ('') is not compatible with the schema defined in the delivery template ('nms:recipient'). They should be identical.`
+**错误代码：
+
 
 **原因：**
 当您向某个地址发送电子邮件，但该电子邮件或任何其他标识符未与用户档案进行协调时，会出现此错误。 要发送电子邮件通信，电子邮件或标识符应始终链接到用户档案。
@@ -59,7 +59,7 @@ ht-degree: 2%
 
 具有协调详细信息的![工作流](/help/_assets/kt-13256/del-persn-error-wf-solution.png)
 
-了解有关[协调](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=zh-Hans)的详细信息。
+了解有关[协调](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=en)的详细信息。
 
 ## 通用字段数据集错误
 
@@ -87,8 +87,8 @@ ht-degree: 2%
 
 ## 字段名称删除错误
 
-**错误代码：**
-`XTK-170036 Unable to parse expression 'i__name'`
+**错误代码：
+
 
 **原因：**
 
@@ -110,8 +110,8 @@ ht-degree: 2%
 
 ## 临时表删除错误 
 
-**错误代码：**
-`XTK-170024 The temporary schema "temp:deliveryEmail1" is not defined in the current context.`
+**错误代码：
+
 
 **原因：**
 这是涉及扩充或其他活动的复杂工作流中的常见错误。 这可能意味着在对工作流进行多项更改期间，某些活动工作流无法正确保存。
