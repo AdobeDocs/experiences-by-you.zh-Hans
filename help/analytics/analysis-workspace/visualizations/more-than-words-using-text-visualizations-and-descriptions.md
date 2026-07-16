@@ -12,7 +12,7 @@ thumbnail: KT-13267.jpeg
 exl-id: ddcffb53-bcfb-4fc4-858a-ae191285fe66
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '491'
 ht-degree: 0%
 
 ---
@@ -48,13 +48,13 @@ ht-degree: 0%
 
 ![文本06](assets/t06.png)
 
-您可以将任何公共URL上可访问的图像添加到报表中，但前提是URL的格式为&#x200B;*https*，且格式为.png、.jpeg、.jpg或.gif — 这听起来可能很严格，而任何用于共享图像或GIF（如imgur或GIPHY）的在线工具都可以提供一种使用共享链接快速上传可访问Workspace的文件的方法。
+您可以将在任何公共URL上可访问的图像添加到报表中，但前提是URL的格式为&#x200B;*https*，且格式为.png、.jpeg、.jpg或.gif — 这听起来可能很严格，而任何用于共享图像或GIF的在线工具（如imgur或GIPHY）都可以提供一种快速方法，以使用共享链接上载可访问Workspace的文件。
 
 结果如何？ 您可以在项目中显示数据直接引用的网页页面：
 
 ![文本07](assets/t07.png)
 
-您还可以在项目中使用GIF来移动图像，如站点演练、浏览站点的理想路径或应用程序上的任务，或者只是向团队展示&#x200B;***令人叹为观止***&#x200B;的报告现在变得如何：
+您还可以在项目中使用GIF来包含移动图像，如站点演练、浏览站点的理想路径或应用程序上的任务，或者只是向团队展示&#x200B;***令人叹为观止的***&#x200B;您的报告现在是如何变成的：
 
 ![文本08](assets/t08.png)
 
