@@ -18,6 +18,6 @@ ht-degree: 0%
 
 ---
 
-# AEM Champion提示和技巧：可编辑的模板
+# AEM Champion提示和技巧：可编辑模板
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409424?quality=12&learn=on)

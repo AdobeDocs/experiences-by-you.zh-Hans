@@ -13,8 +13,8 @@ feature: Modern UX
 exl-id: b1bb3d32-bbf3-48e5-999b-102ddd501124
 source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 27%
+source-wordcount: '90'
+ht-degree: 20%
 
 ---
 
@@ -22,11 +22,11 @@ ht-degree: 27%
 
 了解如何浏览用户界面并熟悉 [!DNL Marketo Engage] 平台。
 
->[!VIDEO](https://video.tv.adobe.com/v/3450436/?learn=on&captions=chi_hans){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3419131/?learn=on){transcript=true}
 
 ## 其他资源
 
-* [[!DNL Marketo Engage] 术语表](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html?lang=zh-Hans)
+* [[!DNL Marketo Engage] 术语表](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html?lang=en)
 使用Marketo时可能会遇到的许多术语的定义。
-* [图标术语表](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-engage-modern-ux/icon-glossary.html?lang=zh-Hans)
+* [图标术语表](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-engage-modern-ux/icon-glossary.html?lang=en)
 [!DNL Marketo Engage]界面的图标词汇表。
