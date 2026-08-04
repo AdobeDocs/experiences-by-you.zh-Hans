@@ -20,4 +20,4 @@ ht-degree: 0%
 
 # AEM Champion提示和技巧：可编辑模板
 
->[!VIDEO](https://video.tv.adobe.com/v/3409424?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439847?captions=chi_hans&quality=12&learn=on)
