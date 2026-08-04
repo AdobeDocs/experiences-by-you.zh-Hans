@@ -38,7 +38,7 @@ ht-degree: 9%
 
 ### 第3阶段 — 项目库创建和活动设置
 
-- 开发电子邮件模板和登陆页面。 从[&#128279;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program)从[程序导入库](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)导入入门程序开始。
+- 开发电子邮件模板和登陆页面。 从[&#128279;](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program)从[程序导入库](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)导入入门程序开始。
 - 设置分段和Personalization规则
 - 创建用于潜在客户生成和培养的初始营销活动
 
@@ -294,7 +294,7 @@ ht-degree: 9%
 >[!NOTE]
 >提供的示例并非基于实际的实施时间表。 请勿依赖这些时间线作为您使用Marketo Engage的标准时间线，因为每个实施都是独一无二的，可根据贵组织的需求具有不同的里程碑和要求。
 
-有关实施和自定义实例的Marketo Engage的手动帮助，请联系Adobe客户团队或联系[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}。
+有关实施和自定义实例的Marketo Engage的手动帮助，请联系Adobe客户团队或联系[Adobe Professional Services](https://business.adobe.com/cn/customers/consulting-services/main.html){target="_blank"}。
 
 ### 作者
 
