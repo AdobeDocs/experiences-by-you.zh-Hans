@@ -13,8 +13,8 @@ feature: Modern UX
 exl-id: b1bb3d32-bbf3-48e5-999b-102ddd501124
 source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 27%
+source-wordcount: '90'
+ht-degree: 20%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 27%
 
 了解如何浏览用户界面并熟悉 [!DNL Marketo Engage] 平台。
 
->[!VIDEO](https://video.tv.adobe.com/v/3450436/?learn=on&captions=chi_hans){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450436/?captions=chi_hans&learn=on){transcript=true}
 
 ## 其他资源
 

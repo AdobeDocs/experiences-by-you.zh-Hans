@@ -8,14 +8,14 @@ solution: Marketo Engage
 exl-id: 5145c189-cc92-4472-bf99-981b43c2c5ba
 source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '265'
 ht-degree: 16%
 
 ---
 
 # Marketo by You：按用户的资源，适用于用户。
 
-关于[!DNL Adobe]个Experience Cloud解决方案最强大的功能是什么？ 你。 那些用户将产品拿出来深入挖掘并以令人惊叹的创新方式应用它们来创造有意义的体验和成果。 “您的体验”包含由日常用户创建的内容，这些用户在其[!DNL Adobe] Experience Cloud解决方案中拥有一定程度的专业知识和影响力。 此对等知识鼓励协作和发现，使您和任何其他用户都能找到提升您的产品专业知识所需的灵感。
+有关[!DNL Adobe] Experience Cloud解决方案最强大的功能？ 你。 那些用户将产品拿出来深入挖掘并以令人惊叹的创新方式应用它们来创造有意义的体验和成果。 “您的体验”包含由通过其[!DNL Adobe] Experience Cloud解决方案获得一定专业知识和影响力的日常用户创建的内容。 此对等知识鼓励协作和发现，使您和任何其他用户都能找到提升您的产品专业知识所需的灵感。
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -77,6 +77,6 @@ ht-degree: 16%
 ## 其他资源
 
 * [Marketo国家/地区（社区）](https://nation.marketo.com/)
-* [Adobe Marketo Engage文档](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=zh-Hans)
+* [Adobe Marketo Engage 文档](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=zh-Hans)
 * [Adobe Marketo Engage教程](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=zh-Hans)
 * [Adobe Marketo Engage产品信息](https://business.adobe.com/cn/products/marketo/adobe-marketo.html)

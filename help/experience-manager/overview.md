@@ -8,14 +8,14 @@ solution: Experience Manager
 exl-id: f6aa9dbd-fb4f-40fa-b607-174755a1ca9f
 source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 20%
+source-wordcount: '274'
+ht-degree: 27%
 
 ---
 
 # Experience Manager by You：按用户的资源，适用于用户。
 
-关于[!DNL Adobe]个Experience Cloud解决方案最强大的功能是什么？ 你。 那些用户将产品拿出来深入挖掘并以令人惊叹的创新方式应用它们来创造有意义的体验和成果。 “您的体验”包含由日常用户创建的内容，这些用户在其[!DNL Adobe] Experience Cloud解决方案中拥有一定程度的专业知识和影响力。 此对等知识鼓励协作和发现，使您和任何其他用户都能找到提升您的产品专业知识所需的灵感。
+有关[!DNL Adobe] Experience Cloud解决方案最强大的功能？ 你。 那些用户将产品拿出来深入挖掘并以令人惊叹的创新方式应用它们来创造有意义的体验和成果。 “您的体验”包含由通过其[!DNL Adobe] Experience Cloud解决方案获得一定专业知识和影响力的日常用户创建的内容。 此对等知识鼓励协作和发现，使您和任何其他用户都能找到提升您的产品专业知识所需的灵感。
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -32,7 +32,7 @@ ht-degree: 20%
 <tr>
   <td>
     <a href="/help/experience-manager/sites/expert-resources/champion-tips-1.md">
-      <img alt="提示和技巧 — 可编辑模板" src="https://video.tv.adobe.com/v/3409424?format=jpeg" />
+      <img alt="提示和技巧 — 可编辑模板" src="https://video.tv.adobe.com/v/3439847?captions=chi_hans&format=jpeg" />
     </a>
     <div>
       <a href="/help/experience-manager/sites/expert-resources/champion-tips-1.md">
@@ -58,7 +58,7 @@ ht-degree: 20%
   </td>
   <td>
     <a href="/help/experience-manager/sites/expert-resources/champion-tips-2.md">
-      <img alt="提示和技巧" src="https://video.tv.adobe.com/v/3439847?captions=chi_hans&format=jpeg" />
+      <img alt="提示和技巧" src="https://video.tv.adobe.com/v/3439481?captions=chi_hans&format=jpeg" />
     </a>
     <div>
       <a href="/help/experience-manager/sites/expert-resources/champion-tips-2.md">
@@ -76,7 +76,7 @@ ht-degree: 20%
 
 ## 其他资源
 
-* [Experience Manager社区](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=zh-Hans)
+* [Experience Manager Communities](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=zh-Hans)
 * [Experience Manager文档](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=zh-Hans)
 * [Experience Manager教程](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-tutorials/overview.html?lang=zh-Hans)
 * [Experience Manager产品信息](https://business.adobe.com/cn/products/experience-manager/adobe-experience-manager.html)
