@@ -12,14 +12,14 @@ kt: 10129
 exl-id: 9dbebe7a-0b68-4aea-8a51-6e6bc0f54d09
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: '712'
 ht-degree: 0%
 
 ---
 
 # 跨职能工作
 
->[!VIDEO](https://video.tv.adobe.com/v/345450/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/345450/?captions=chi_hans&quality=12&learn=on)
 
 [!DNL Adobe Analytics]之旅始于良好的实施。 我们都知道有句谚语“种瓜得瓜，种豆得豆”。 为了消除“产生垃圾”的实施，管理员必须监控输入到系统中的数据的每个细节。 也就是说，数据收集策略受到组织中许多利益相关者的影响，管理员必须日复一日地与这些利益相关者进行合作。
 
