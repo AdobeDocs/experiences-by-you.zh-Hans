@@ -7,20 +7,18 @@ feature: Admin Tools
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-05-15T00:00:00Z
+last-substantial-update: 2023-05-15
 jira: KT-13216
 thumbnail: KT-13216.jpeg
 exl-id: ea446e58-d9f2-4a21-aa9b-71aa548016e2
 source-git-commit: 07b28edade263aa3c85348716bd45df4a053e239
 workflow-type: tm+mt
-source-wordcount: '876'
+source-wordcount: '879'
 ht-degree: 0%
-
 ---
-
 # 使用执行摘要仪表板推动成功
 
-_执行官经常缺少关于其网站和应用程序的及时和相关信息，依赖每月的Excel图表或淹没在精细的数据中。 解决方案： Cloud Managerarketo Engagexecutive摘要仪表板Experience Manager。_
+_执行官经常缺少关于其网站和应用程序的及时和相关信息，依赖每月的Excel图表或淹没在精细的数据中。 解决方案： Experience Manager Cloud Managerarketo Engagexecutive摘要仪表板。_
 
 我想让你想象一下从西雅图开车到旧金山。 方向智慧，这相当容易。 在I-5南面待上12到16个小时，你就在那里。 很简单，对吧？ 现在，我想让你们想象一下，我把一块纸板放在你的仪表盘上，然后我告诉你们最后的
 在旅途中，你将收到一个仪表板，上面显示你的速度、燃油水平和旅程距离：
