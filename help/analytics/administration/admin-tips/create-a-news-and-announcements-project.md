@@ -13,11 +13,9 @@ kt: 10535
 exl-id: 59944fab-11f8-4af5-92ed-00dcd4205eda
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '498'
+source-wordcount: '499'
 ht-degree: 0%
-
 ---
-
 # 创建新闻和公告项目
 
 **内容：**&#x200B;在Workspace中创建以文本为主的新闻和公告项目，并与整个公司共享。 您无需强制将此作为登录页提供给用户（但您可以这样做），因为每次更新时，它都会浮到用户列表的顶部。
