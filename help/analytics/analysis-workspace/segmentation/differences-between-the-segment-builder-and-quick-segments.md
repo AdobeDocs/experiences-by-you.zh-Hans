@@ -66,4 +66,4 @@ Adobe Analytics冠军
 
 ## 下载
 
-[![快速区段下载](assets/quick-segments-download-small.jpg)](assets/ Adobe_Analytics_Segments_Vs_Segment_Builder_Reference_Guide.pdf)
+[![快速区段下载](assets/quick-segments-download-small.jpg)] (assets/ Adobe_Analytics_Segments_Vs_Segment_Builder_Reference_Guide.pdf)
