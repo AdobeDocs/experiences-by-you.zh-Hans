@@ -71,7 +71,7 @@ ht-degree: 22%
   </td>
   <td>
     <a href="/help/analytics/administration/admin-tips/create-standardized-naming-conventions.md">
-      <img alt="创建标准化的命名惯例" src="https://cdn.experienceleague.adobe.com/thumb/10531.jpg" />
+      <img alt="创建标准化的命名惯例" src="https://cdn.experienceleague.adobe.com/thumb/10531.jpg?lang=zh-Hans" />
     </a>
     <div>
       <a href="/help/analytics/administration/admin-tips/create-standardized-naming-conventions.md">
@@ -89,7 +89,7 @@ ht-degree: 22%
 
 ## 其他资源
 
-* [Experience League Adobe Analytics社区](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community)
+* [Experience League Adobe Analytics社区](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=zh-Hans)
 * [Adobe Analytics 文档](https://experienceleague.adobe.com/docs/analytics.html?lang=zh-Hans)
-* [Adobe Analytics 教程](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html)
-* [Adobe Analytics产品信息](https://business.adobe.com/products/analytics/adobe-analytics.html)
+* [Adobe Analytics 教程](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=zh-Hans)
+* [Adobe Analytics产品信息](https://business.adobe.com/cn/products/analytics/adobe-analytics.html)

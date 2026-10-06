@@ -48,7 +48,7 @@ ht-degree: 6%
 
 然后，您就可以轻松地向用户指出这些信息，而无需编写冗长的电子邮件或再召开一次会议。 有关培训用户的更多提示和技巧，请查看[[!DNL Adobe] Champion Thomas Edward Buckley的文章](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=zh-Hans){target="_blank"}，该文章旨在简化和减少培训用户的时间。
 
-此外，[!DNL Adobe] Experience League上有大量的[视频教程](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html){target="_blank"}以及[免费课程](https://experienceleague.adobe.com/?lang=en#dashboard/learning){target="_blank"}。 如果您需要特定于公司数据和业务KPI的视频，那么请务必录制自己的视频。 但如果普通的教学视频就足够了，那就没必要再来一次了。
+此外，[!DNL Adobe] Experience League上有大量的[视频教程](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=zh-Hans){target="_blank"}以及[免费课程](https://experienceleague.adobe.com/zh-hans?lang=en#dashboard/learning){target="_blank"}。 如果您需要特定于公司数据和业务KPI的视频，那么请务必录制自己的视频。 但如果普通的教学视频就足够了，那就没必要再来一次了。
 
 ## 作者
 

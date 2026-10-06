@@ -78,7 +78,7 @@ _了解测量会议。 使用funnel地图可视化计划的每个步骤。 创�
 1. 与设计师和产品经理一起，完成每个步骤，并讨论在该funnel中每个人都认为成功的内容。 是转化率吗？ 它是否选择了特定的路径？ 它是否使用某些功能？
 1. 提出以下问题：为了了解funnel在funnel各个步骤中的整体性能，必须采用哪些量度和维度。
 1. 在funnel的每个步骤上方，添加在该步骤中测量的指标和维度，包括计算量度。
-1. 在每个funnel的开头，写出进入功能板的报告，产品经理可以使用这些报告跟踪性能。 这些报表包括[流失报表](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow)、[当前月份](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges)、[趋势转化率](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/visualizations/line)以及特定于该funnel的任何报表。
+1. 在每个funnel的开头，写出进入功能板的报告，产品经理可以使用这些报告跟踪性能。 这些报表包括[流失报表](https://experienceleague.adobe.com/zh-hans/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow)、[当前月份](https://experienceleague.adobe.com/zh-hans/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges)、[趋势转化率](https://experienceleague.adobe.com/zh-hans/docs/analytics/analyze/analysis-workspace/visualizations/line)以及特定于该funnel的任何报表。
 1. 将您发现的新量度和维度添加到SDR并将其发送给利益相关者进行第二次审查。
 
 ### 预览功能板
