@@ -6,11 +6,20 @@ role: Admin
 level: Beginner
 doc-type: Tutorial
 duration: 0
-last-substantial-update: 2024-03-01
+last-substantial-update: 2024-03-01T00:00:00.000Z
 jira: KT-13204
 thumbnail: KT-13204.jpeg
 exl-id: 58816df0-03d2-4d2f-a11b-8809c51d6e4f
-source-git-commit: b7e6c53ba2f2345e72f5028472d46596e6c41f58
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '577'
 ht-degree: 0%
@@ -38,10 +47,10 @@ ht-degree: 0%
   *了解有关Marketo Engage Champions用于开发您的业务所需的得分模型的策略的更多信息。*
 <br>
 
-* 正在同步本机CRM连接器的字段[&#128279;](/help/marketo-tutorial-implementing-new-instance/syncing-fields-for-crm-integration.md)
+* 正在同步本机CRM连接器的字段[](/help/marketo-tutorial-implementing-new-instance/syncing-fields-for-crm-integration.md)
   *了解如何通过战略性地选择Marketo Engage要使用的基本CRM字段来简化初始CRM集成。 执行数据字典练习，确定您需要用于顺利进行CRM同步的字段，以帮助销售和营销团队保持一致。*
-  * [Salesforce同步入门](https://experienceleague.adobe.com/zh-hans/docs/marketo-learn/tutorials/lead-and-data-management/salesforce-sync-setup){target=_blank}
-  * [Microsoft Dynamics同步入门](https://experienceleague.adobe.com/zh-hans/docs/marketo-learn/tutorials/lead-and-data-management/microsoft-dynamics-sync-setup){target=_blank}
+  * [Salesforce同步入门](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/salesforce-sync-setup){target=&quot;_blank}
+  * [Microsoft Dynamics同步入门](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/microsoft-dynamics-sync-setup){target=&quot;_blank}
 <br>
 
 * [组织新实例并建立命名约定](/help/marketo-tutorial-implementing-new-instance/organizing-new-instance.md)
@@ -57,6 +66,6 @@ ht-degree: 0%
 
 ## 其他资源
 
-* [使用最佳实践核对清单实施新的Marketo Engage实例](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/getting-started/implementing-a-new-marketo-engage-instance/where-to-start){target=_blank}
+* [使用最佳实践核对清单实施新的Marketo Engage实例](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/implementing-a-new-marketo-engage-instance/where-to-start){target=&quot;_blank}
   *每个核对清单都为您提供了宝贵的步骤，以便跟踪您的配置进度。 使用可下载的清单记录您所做的工作，以便将来进行实例审核和用户载入。*
 

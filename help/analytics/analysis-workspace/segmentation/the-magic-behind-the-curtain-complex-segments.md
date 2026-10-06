@@ -6,17 +6,36 @@ role: User
 level: Experienced
 doc-type: Article
 duration: 36000
-last-substantial-update: 2024-03-25T00:00:00Z
+last-substantial-update: 2024-03-25T00:00:00.000Z
 jira: KT-15200
 thumbnail: KT-15200.jpeg
 exl-id: 1da85e88-64b3-49e5-9bf6-76126ac9f6ad
-source-git-commit: 69fa16c1bf38604e4dabc553baee71598be83db3
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '4166'
 ht-degree: 1%
-
 ---
-
 # 幕后的魔法：复杂的区段：排除、容器和归因
 
 _揭示复杂数据分段、探索排除项、容器和归因模型的复杂性。 像魔术师的手法一样，掌握这些技巧使分析师能够执行数据魔术，以精确和巧妙的方式转换见解。_
@@ -60,33 +79,33 @@ _揭示复杂数据分段、探索排除项、容器和归因模型的复杂性�
 
 ![Figure2-DnceVsExclude-Visit](assets/figure2-dnce-vs-exclude-visit.png)
 
-*如上所述，**访问**&#x200B;内的每次点击都将用相同的true / false进行计算。 但是，返回的数据集是整个访问的数据集。*
+*如上所述，**访问**内的每次点击都将用相同的true / false进行计算。 但是，返回的数据集是整个访问的数据集。*
 
 - 在每次点击时，“Value”不包含“Example”（是），因此返回true；同样，“Example”不包含“Example”（否，它包含它），因此返回false。
-   - 如果访问中的&#x200B;**any**&#x200B;点击返回&#x200B;**true**，则返回&#x200B;**整个访问**。*
-   - 如果访问完全由包含“示例”的点击组成，则任何点击都不会返回true，因此该访问将&#x200B;**不在您的数据集中返回**。
+  - 如果访问中的&#x200B;**any**&#x200B;点击返回&#x200B;**true**，则返回&#x200B;**整个访问**。*
+  - 如果访问完全由包含“示例”的点击组成，则任何点击都不会返回true，因此该访问将&#x200B;**不在您的数据集中返回**。
 - 同样，在每次点击时，“Example”都包含“Example”（是），因此返回true
-   - 如果&#x200B;**任何点击**&#x200B;返回&#x200B;**true**，则整个访问将&#x200B;**排除**
-   - 如果访问中的&#x200B;**所有点击**&#x200B;返回&#x200B;**false**，则该访问将在您的数据集中返回
+  - 如果&#x200B;**任何点击**&#x200B;返回&#x200B;**true**，则整个访问将&#x200B;**排除**
+  - 如果访问中的&#x200B;**所有点击**&#x200B;返回&#x200B;**false**，则该访问将在您的数据集中返回
 - 现在你可以看到这个逻辑在哪里开始分化。 在上面的示例中，有三次不同的访问：
-   - 当使用“不包含/等于”时，将返回三个&#x200B;**访问中的两个**。
-   - 当使用“Exclude Contains / Equals”时，**只返回这些访问中的一个**
+  - 当使用“不包含/等于”时，将返回三个&#x200B;**访问中的两个**。
+  - 当使用“Exclude Contains / Equals”时，**只返回这些访问中的一个**
 
 **图3：不包含/不等于 — 访问范围**
 
 ![Figure3-DnceVsExclude-Visitor](assets/figure3-dnce-vs-exclude-visitor.png)
 
-*如上所述，**访客**&#x200B;进行的每次点击都将使用相同的true / false逻辑进行计算。 但现在我们查看了此访客在所有访问中所做的所有点击（在选定的日期范围内）。*
+*如上所述，**访客**进行的每次点击都将使用相同的true / false逻辑进行计算。 但现在我们查看了此访客在所有访问中所做的所有点击（在选定的日期范围内）。*
 
 - 在每次点击时，“Value”不包含“Example”（是），因此返回true；同样，“Example”不包含“Example”（否，它包含它），因此返回false。
-   - 如果访客进行的&#x200B;**any**&#x200B;点击返回&#x200B;**true**，则返回&#x200B;**整个访问**。
-   - 如果该访客从未进行任何包含“示例”的点击，则任何点击都不会返回true，因此该访客将&#x200B;**不在您的数据集中返回**。
+  - 如果访客进行的&#x200B;**any**&#x200B;点击返回&#x200B;**true**，则返回&#x200B;**整个访问**。
+  - 如果该访客从未进行任何包含“示例”的点击，则任何点击都不会返回true，因此该访客将&#x200B;**不在您的数据集中返回**。
 - 同样，在每次点击时，“Example”都包含“Example”（是），因此返回true。
-   - 如果&#x200B;**任何点击**&#x200B;返回&#x200B;**true**，则整个访客（以及随后所有访客）都将&#x200B;**排除。**
-   - 如果访问中的&#x200B;**所有点击**&#x200B;返回&#x200B;**false**，则将在您的数据集中返回该访客，从而成功返回未输入“X”的访客。
+  - 如果&#x200B;**任何点击**&#x200B;返回&#x200B;**true**，则整个访客（以及随后所有访客）都将&#x200B;**排除。**
+  - 如果访问中的&#x200B;**所有点击**&#x200B;返回&#x200B;**false**，则将在您的数据集中返回该访客，从而成功返回未输入“X”的访客。
 - 这是访问逻辑的扩展，其中涉及到了更多注意事项。 在上面的示例中，有两个不同的访客，每个访客3次：
-   - 当使用“不包含/等于”时，将返回&#x200B;**两个**&#x200B;访客，及其所有&#x200B;**三个**&#x200B;访问（在报表中占2个访客和6个总访问）
-   - 使用“Exclude Contains / Equals” **时，仅返回这些访客中的1**，并且只包含与该访客关联的三次访问（在报表中占1个访客和3个总访问次数）
+  - 当使用“不包含/等于”时，将返回&#x200B;**两个**&#x200B;访客，及其所有&#x200B;**三个**&#x200B;访问（在报表中占2个访客和6个总访问）
+  - 使用“Exclude Contains / Equals” **时，仅返回这些访客中的1**，并且只包含与该访客关联的三次访问（在报表中占1个访客和3个总访问次数）
 
 >[!TIP]
 >
@@ -260,31 +279,31 @@ _揭示复杂数据分段、探索排除项、容器和归因模型的复杂性�
 **访问1**
 
 - 页面A
-   - 未设置&#x200B;**eVar1**
-   - 未设置&#x200B;**eVar2**
+  - 未设置&#x200B;**eVar1**
+  - 未设置&#x200B;**eVar2**
 - 单击URL中带有？icid=promo-banner的促销横幅
 - 页面B
-   - **eVar1**&#x200B;和&#x200B;**eVar2**&#x200B;设置为“促销横幅”
-   - 已触发eVar1 **的**&#x200B;实例
-   - 已触发eVar2 **的**&#x200B;实例
+  - **eVar1**&#x200B;和&#x200B;**eVar2**&#x200B;设置为“促销横幅”
+  - 已触发eVar1 **的**&#x200B;实例
+  - 已触发eVar2 **的**&#x200B;实例
 - 页面C
-   - **eVar1**&#x200B;和&#x200B;**eVar2**&#x200B;都维护值“promo-banner”
-   - eVar的实例量度都不会触发，因为两个eVar都使用持久值
+  - **eVar1**&#x200B;和&#x200B;**eVar2**&#x200B;都维护值“promo-banner”
+  - eVar的实例量度都不会触发，因为两个eVar都使用持久值
 
 **访问2**
 
 - 页面D
-   - **eVar1**&#x200B;未设置为任何值，并且未触发eVar1 **的**&#x200B;实例
-   - **eVar2**&#x200B;由于30天过期而保留“促销横幅”值
-   - 未触发&#x200B;**eVar2**&#x200B;的实例，因为该值是永久性的，实际上并未设置
+  - **eVar1**&#x200B;未设置为任何值，并且未触发eVar1 **的**&#x200B;实例
+  - **eVar2**&#x200B;由于30天过期而保留“促销横幅”值
+  - 未触发&#x200B;**eVar2**&#x200B;的实例，因为该值是永久性的，实际上并未设置
 - 单击URL中带有？icid=promo-side-rail的Side Rail Promotion
 - 页面E
-   - **eVar1**&#x200B;和&#x200B;**eVar2**&#x200B;设置为“促销侧边栏”
-   - 已触发eVar1 **的**&#x200B;实例
-   - 已触发eVar2 **的**&#x200B;实例
+  - **eVar1**&#x200B;和&#x200B;**eVar2**&#x200B;设置为“促销侧边栏”
+  - 已触发eVar1 **的**&#x200B;实例
+  - 已触发eVar2 **的**&#x200B;实例
 - 第F页
-   - **eVar1**&#x200B;和&#x200B;**eVar2**&#x200B;都维护值“promo-side-rail”
-   - eVar的实例量度都不会触发，因为两个eVar都使用持久值
+  - **eVar1**&#x200B;和&#x200B;**eVar2**&#x200B;都维护值“promo-side-rail”
+  - eVar的实例量度都不会触发，因为两个eVar都使用持久值
 
 目前，这两次访问的预期结果如下：
 

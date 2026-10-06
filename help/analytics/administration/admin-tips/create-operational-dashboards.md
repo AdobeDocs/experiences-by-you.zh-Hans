@@ -1,6 +1,6 @@
 ---
 title: 在Analysis Workspace中创建操作功能板
-description: 探索 [!DNL Adobe Analytics] Workspace中的操作仪表板如何彻底改变沟通和效率。
+description: 探索[!DNL Adobe Analytics] Workspace中的操作仪表板如何彻底改变沟通和效率。
 solution: Analytics
 feature-set: Analytics
 feature: Curate and Share
@@ -8,17 +8,30 @@ topic: Administration
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-08-18T00:00:00Z
+last-substantial-update: 2023-08-18T00:00:00.000Z
 jira: KT-13829
 thumbnail: KT-13829.jpeg
 exl-id: 8df9e88f-e564-4a8e-b624-026c873d3f19
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
+subfeature_v2:
+  - id: c510df06-c813-424c-abc1-c7ae8b03e9b3
+    internal-label: Curate and Share
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '1145'
+source-wordcount: '1146'
 ht-degree: 0%
-
 ---
-
 # 在Analysis Workspace中创建操作功能板
 
 _了解[!DNL Adobe Analytics] Workspace中的操作仪表板如何彻底改变沟通和效率。 了解如何创建常见问题解答、新闻和公告以及Bug &amp; Features功能板，以简化信息、改善用户体验并提高参与度。_
@@ -28,7 +41,7 @@ _了解[!DNL Adobe Analytics] Workspace中的操作仪表板如何彻底改变�
 
 我注意到用户经常忽略我对Confluence网站的引用，例如“我的VPN已关闭”或“我现在无法阅读”等。基本上，“我待会再看那份文件”意味着它永远不会被阅读，同样的问题将在下周被再次提问。
 
-***实现点击：**&#x200B;Workspace的多功能性可能会改变游戏规则。 用户更喜欢在Workspace中快速、直接的回答，因此让我们将他们保留在那里，避免额外的步骤。*
+***实现点击：**Workspace的多功能性可能会改变游戏规则。 用户更喜欢在Workspace中快速、直接的回答，因此让我们将他们保留在那里，避免额外的步骤。*
 
 我着手创建运营功能板，以便在公司内共享。 到目前为止，它们一直让用户了解信息、集中信息，并减少了用户的不满。 这是一个简单、不断演变的过程，随着时间的推移提高了效率。
 
@@ -49,7 +62,7 @@ _了解[!DNL Adobe Analytics] Workspace中的操作仪表板如何彻底改变�
 
 厌倦了无休止地重复答案？ 停下！ 通过制作常见问题仪表板来节省时间。 用户可以在询问前查阅它，或者您可以在响应中快速链接到它。
 
-只需创建[文本可视化图表](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html?lang=zh-Hans)，其中问题格式化为标题，答案/解释为内容，全部折叠以仅显示问题。 按相关性（例如，页面或产品）或使用面板对它们进行分组。 保持简单，在顶部优先处理常见查询。
+只需创建[文本可视化图表](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html)，其中问题格式化为标题，答案/解释为内容，全部折叠以仅显示问题。 按相关性（例如，页面或产品）或使用面板对它们进行分组。 保持简单，在顶部优先处理常见查询。
 
 请更新您的常见问题仪表板，而不是写长电子邮件或重新发现旧的解释。 立即开始，随时间推移展开。 使用超链接在报表中引用其他功能板或相关常见问题解答。 需要时，通过从其他功能板链接到常见问题解答，提供复杂的上下文。
 

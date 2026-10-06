@@ -1,27 +1,45 @@
 ---
 title: 使用文档开发实例治理指南
-description: 了解如何建立强大的过程来创建和维护 [!DNL Marketo Engage] 实例的文档和更改日志。
+description: 了解如何建立强大的过程来创建和维护[!DNL Marketo Engage]实例的文档和更改日志。
 feature-set: Marketo Engage
 feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-16T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00.000Z
 jira: KT-14103
 thumbnail: KT-14103.jpeg
 exl-id: e127b84d-ef92-4527-a0e6-a36af35b7ee0
-source-git-commit: d78210c6d6f5ec22430770c752495959303a9519
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '936'
+source-wordcount: '937'
 ht-degree: 0%
-
 ---
-
 # 使用文档开发实例治理指南
 
-当您进入旧版[!DNL Marketo Engage]实例时，经常会遇到缺少最新功能和技术文档的难题。 作为管理员，建立准则以确保正确的实例管理是您不可忽视的核心责任。 在已建立的 [!DNL Marketo Engage] 实例[&#128279;](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582)中工作时，它是提高效率的关键策略之一。
+当您进入旧版[!DNL Marketo Engage]实例时，经常会遇到缺少最新功能和技术文档的难题。 作为管理员，建立准则以确保正确的实例管理是您不可忽视的核心责任。 在已建立的 [!DNL Marketo Engage] 实例](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582)中工作时，它是[提高效率的关键策略之一。
 
-此分步教程源自[!DNL [!DNL Adobe] Marketo Champion] (2018)，Nick Hajdin将指导您完成此过程，以概述实例设置、记录主要操作程序并维护[!DNL changelog]以实施严格的治理策略。
+此分步教程源自[！DNL [!DNL Adobe] Marketo Champion] (2018)，Nick Hajdin将指导您完成此过程，以概述实例设置、记录主要操作程序并维护[!DNL changelog]以实施严格的治理策略。
 
 ## 为您的继承实例开发实例治理指南
 
@@ -29,7 +47,7 @@ ht-degree: 0%
 
 1. 以可扩展方式更轻松地培训内部用户。
 2. 在[!DNL Marketo Engage]中长期更有效地构建。
-3. 保持实例的运行状况和卫生，以节省您花费数小时挖掘电子邮件、[审核跟踪](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html?lang=zh-Hans)和[活动日志](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html?lang=zh-Hans)以获取上下文。
+3. 保持实例的运行状况和卫生，以节省您花费数小时挖掘电子邮件、[审核跟踪](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html)和[活动日志](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html)以获取上下文。
 4. 如果您的团队遇到任何人员调整，请节省将[!DNL Marketo Engage]知识移交给新[!DNL Marketo Engage]管理员的时间。
 
 ## [!DNL Marketo Engage]治理指南101
@@ -54,22 +72,22 @@ ht-degree: 0%
 格式因基于云的平台和共享文档而异。 您可以设计符合组织需求的格式。 [以下是一个简单的文档和更改日志Excel模板](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx)，其中包含您可以开始使用的重要元素。 这些功能包括：
 
 * 文档
-   * 项目模板名称
-   * 渠道
-   * 创建日期
-   * 创建者
-   * 计划的目的
-   * 状态
-   * 链接到计划模板
-   * 注释
+  * 项目模板名称
+  * 渠道
+  * 创建日期
+  * 创建者
+  * 计划的目的
+  * 状态
+  * 链接到计划模板
+  * 注释
 * Changelog
-   * 项目模板名称
-   * 更改日期
-   * 更新者
-   * 更新目的
-   * 更改前的体验（包括链接/屏幕截图）
-   * 更改后的体验（包括链接/屏幕截图）
-   * 项目群的URL
+  * 项目模板名称
+  * 更改日期
+  * 更新者
+  * 更新目的
+  * 更改前的体验（包括链接/屏幕截图）
+  * 更改后的体验（包括链接/屏幕截图）
+  * 项目群的URL
 
 ### 步骤3：确定并记录主要运行方案的当前状态
 
@@ -110,7 +128,7 @@ ht-degree: 0%
 ### 作者
 
 **尼克·哈伊丁**
-[!DNL [!DNL Adobe] Marketo Champion] (2018)
+[！DNL [!DNL Adobe] Marketo Champion] (2018)
 *[!DNL Digital Technology Senior Manager at Accenture]*
 
 ![尼克·哈伊丁](/help/marketo-tutorial-inherited-instance/_assets/authors/Customer_Author_Nicholas_Hajdin.png){width="30%"}

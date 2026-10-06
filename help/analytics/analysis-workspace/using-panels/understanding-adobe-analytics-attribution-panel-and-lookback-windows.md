@@ -6,24 +6,37 @@ feature: Attribution
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-06-20T00:00:00Z
+last-substantial-update: 2023-06-20T00:00:00.000Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
 exl-id: 2a62e563-bad9-424f-94ca-2af68d4a83b5
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '1698'
 ht-degree: 0%
-
 ---
-
 # 了解[!DNL Adobe Analytics]归因面板和回顾时间范围
 
-当我第一次思考[归因面板](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=zh-Hans)和&#x200B;**回顾窗口**&#x200B;时，会立即想起了“*时间旅行”*&#x200B;的概念；当然，也会想起我们对许多新工具（如这些工具）的典型反应：只是推迟尝试使用，因为它们看起来太复杂了。
+当我第一次思考[归因面板](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=en)和&#x200B;**回顾窗口**&#x200B;时，会立即想起了“*时间旅行”*&#x200B;的概念；当然，也会想起我们对许多新工具（如这些工具）的典型反应：只是推迟尝试使用，因为它们看起来太复杂了。
 
 说实话，看看这些选项，开关，面板，读数和旋钮。  说真的，我们来谈谈那些复杂的闪光灯，水管，仪表盘…… 等等!!  现在不是谈论时间机器时分心的时候，我们只是没有时间……还是我们该这样做？
 
-我承认&#x200B;**归因面板**&#x200B;是一个相当复杂的工具；但是，我们作为分析师的典型工作就是日复一日地使用我们最喜欢且高度复杂的工具之一来查看过去发生的情况。 该工具名为&#x200B;***[!DNL Adobe Analytics]***!  所以，是的，为了回答我们非常相关的问题，我相信这两件事表明我们有很多时间。
+我承认&#x200B;**归因面板**&#x200B;是一个相当复杂的工具；但是，我们作为分析师的典型工作就是日复一日地使用我们最喜欢且高度复杂的工具之一来查看过去发生的情况。 该工具名为***[!DNL Adobe Analytics]***!  所以，是的，为了回答我们非常相关的问题，我相信这两件事表明我们有很多时间。
 
 因此，我们为什么要让一些像恐惧一样的东西挡住这些神奇、复杂、强大的工具，让我们日复一日地往前看&#x200B;*向后看*？
 
@@ -44,7 +57,7 @@ ht-degree: 0%
 
 在&#x200B;**归因**&#x200B;中，只需考虑一段时间内，事件/操作可能如何由个人、多个个人或任意数量的不同事件之一引起。
 
-根据[[!DNL Adobe]](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=zh-Hans)，*归因*&#x200B;使分析人员能够自定义&#x200B;*Dimension*&#x200B;项目接收&#x200B;*成功事件*&#x200B;点数的方式。
+根据[[!DNL Adobe]](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=en)，*归因*&#x200B;使分析人员能够自定义&#x200B;*Dimension*&#x200B;项目接收&#x200B;*成功事件*&#x200B;点数的方式。
 
 
 >[!WARNING]
@@ -76,9 +89,9 @@ ht-degree: 0%
 
 - **U形**：此方法将&#x200B;**40%**&#x200B;的点数分配给门中的&#x200B;*第一个人*，将&#x200B;**20%**&#x200B;的点数分配给&#x200B;*之间的所有*&#x200B;人，然后将&#x200B;**40%**&#x200B;分配给&#x200B;**最后一个**。 此模型最常用于您有&#x200B;**长的转化/销售周期**&#x200B;且在此过程中包含&#x200B;*多个接触点*&#x200B;的情况。  在本例中，您的目标是主要突出介绍有助于客户转化的&#x200B;***first***&#x200B;和&#x200B;***last***&#x200B;营销策略。
 - **J**-**形状**&#x200B;和&#x200B;**反向J**：
-   - 考虑&#x200B;**U型**，但此模型将&#x200B;**60%**&#x200B;点数分配给走进大门的&#x200B;*最后一位人员*，将&#x200B;**20%**&#x200B;分配给&#x200B;*第一个*，然后&#x200B;*将其余*&#x200B;的&#x200B;**20%**&#x200B;除以&#x200B;*其他各项*。  **反向J**&#x200B;则正好相反。
+  - 考虑&#x200B;**U型**，但此模型将&#x200B;**60%**&#x200B;点数分配给走进大门的&#x200B;*最后一位人员*，将&#x200B;**20%**&#x200B;分配给&#x200B;*第一个*，然后&#x200B;*将其余*&#x200B;的&#x200B;**20%**&#x200B;除以&#x200B;*其他各项*。  **反向J**&#x200B;则正好相反。
 
-     此处的目标是将重点大部分放在营销活动的&#x200B;*开头*&#x200B;或&#x200B;*结尾*&#x200B;处；但是，您仍希望在对面为参与项目分配一定数量的点数，同时在此过程中承认“小人物”。
+    此处的目标是将重点大部分放在营销活动的&#x200B;*开头*&#x200B;或&#x200B;*结尾*&#x200B;处；但是，您仍希望在对面为参与项目分配一定数量的点数，同时在此过程中承认“小人物”。
 
 - **时间衰减**：现在，如果不共享此时间衰减信息，我将会失职。 此模型的半衰期是指数衰减的 — 随着时间的推移！  在这种情况下，此模型半衰期的&#x200B;*默认*&#x200B;参数为&#x200B;**7天**。  其工作方式是根据&#x200B;*初始接触点*&#x200B;之后以及客户转化时经过的时间&#x200B;*，将*&#x200B;权重&#x200B;*应用于每个&#x200B;**营销渠道**、*。
 
@@ -86,7 +99,7 @@ ht-degree: 0%
 
 - **自定义**：你选择获得点数的人。  这是你的竞选活动！
 
-有关这些和其他归因模型的其他信息，请[单击此处](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=zh-Hans)
+有关这些和其他归因模型的其他信息，请[单击此处](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=en)
 
 为了更有趣，让我们来讨论一下倒计时吧！
 
@@ -117,12 +130,12 @@ ht-degree: 0%
 
 ## **最终付诸实践**
 
-现在概念已敲定，假设您正在开展营销活动，并尝试确定哪个渠道在提高转化率方面最有效&#x200B;**。 借助&#x200B;**&#x200B;归因面板&#x200B;**，您不仅可以看到&#x200B;**&#x200B;最近联系&#x200B;**，还可以看到&#x200B;**&#x200B;首次联系&#x200B;**、**&#x200B;同一联系&#x200B;**&#x200B;以及您选择用来确定哪些&#x200B;**&#x200B;渠道&#x200B;**&#x200B;在推动&#x200B;*转化*&#x200B;方面最有效&#x200B;*的*&lbrace;任何其他&#x200B;**&#x200B;模型&#x200B;**。 然后，此信息可用于&#x200B;*优化*&#x200B;您的促销活动，并通过您选择的&#x200B;**&#x200B;回溯时段**&#x200B;来回溯时间，从而提高整体效果！
+现在概念已敲定，假设您正在开展营销活动，并尝试确定哪个渠道在提高转化率方面最有效&#x200B;**。 借助&#x200B;**归因面板**，您不仅可以看到&#x200B;**最近联系**，还可以看到&#x200B;**首次联系**、**同一联系**&#x200B;以及您选择用来确定哪些&#x200B;**渠道**&#x200B;在推动&#x200B;*转化*&#x200B;方面最有效&#x200B;*的*{任何其他&#x200B;**模型**。 然后，此信息可用于&#x200B;*优化*&#x200B;您的促销活动，并通过您选择的&#x200B;**回溯时段**&#x200B;来回溯时间，从而提高整体效果！
 
-现在您已看到它可执行的操作，请不要被归因面板看似复杂的功能所愚弄或恐吓。  **面对它**。  *拥抱*&#x200B;它。  **了解**&#x200B;它。
+现在您已看到它可执行的操作，请不要被归因面板看似复杂的功能所愚弄或恐吓。  **面对它**。  *拥抱*&#x200B;它。  **了解**它。
 但最重要的是 — *使用它来为您带来好处。* **归因面板**&#x200B;和&#x200B;**回顾窗口**&#x200B;是加深了解您的客户及其品牌历程的关键。
 
-现在，我们可以满怀信心地回到“[”时间](https://youtu.be/gVryJmZNFdU)”，并利用我们可靠的时间机器（也就是&#x200B;***[!DNL Adobe Analytics]***）的强大功能做出数据驱动型决策。
+现在，我们可以满怀信心地回到“[”时间](https://youtu.be/gVryJmZNFdU)”，并利用我们可靠的时间机器（也就是***[!DNL Adobe Analytics]***）的强大功能做出数据驱动型决策。
 
 ## 作者
 

@@ -6,17 +6,30 @@ feature: Cohort Analysis
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-05-16T00:00:00Z
+last-substantial-update: 2023-05-16T00:00:00.000Z
 jira: KT-13213
 thumbnail: KT-13213.jpeg
 exl-id: 79392eea-a8b6-4ae2-98ef-6ebbd11d88a0
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '1151'
 ht-degree: 0%
-
 ---
-
 # 使用同类群组分析了解客户行为
 
 要改善客户体验和收入，企业必须了解客户行为。 同类群组分析有助于理解参与度和维系率，从而采取改进客户创建和创建大流量月份促销活动等措施。
@@ -56,7 +69,7 @@ ht-degree: 0%
 1. **包含条件：**&#x200B;访问
 1. **返回条件：**&#x200B;访问
 1. **粒度：**&#x200B;个月
-1. **设置：**&#x200B;滚动计算
+1. **设置：**滚动计算
 \*\*允许您根据前一列而不是所包含的列计算维系。 因此，这意味着每个月都会包含用户\*\*
 1. **区段：**&#x200B;您可以选择特定区段以进一步推动此分析
    1. 特定登陆页面
@@ -116,7 +129,7 @@ ht-degree: 0%
 1. **包含条件：**&#x200B;访问+登录成功事件
 1. **返回条件：**&#x200B;访问
 1. **粒度：**&#x200B;个月
-1. **设置：**&#x200B;滚动计算
+1. **设置：**滚动计算
 \*\*允许您根据前一列而不是所包含的列计算维系。 因此，这意味着每个月都会包含用户\*\*
 
 ### 解释结果

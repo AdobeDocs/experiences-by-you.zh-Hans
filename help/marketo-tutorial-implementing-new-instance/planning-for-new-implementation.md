@@ -10,13 +10,20 @@ last: substantial-update- 2024-05-01
 jira: KT-14808
 thumbnail: KT-14808.jpeg
 exl-id: 65119abd-6f13-4acc-9e99-09843369ad28
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '1194'
 ht-degree: 9%
-
 ---
-
 # 规划新的Marketo Engage实施
 
 实施新的Marketo Engage实例涉及细致的规划、跨团队协作和持续优化。 虽然没有完美的方法可用来实施新实例，但大多数已实施新实例的Marketo Engage管理员都同意，提前规划将使流程更加顺畅。
@@ -38,7 +45,7 @@ ht-degree: 9%
 
 ### 第3阶段 — 项目库创建和活动设置
 
-- 开发电子邮件模板和登陆页面。 从[&#128279;](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program)从[程序导入库](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)导入入门程序开始。
+- 开发电子邮件模板和登陆页面。 从[从[程序导入库](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)导入入门程序](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program)开始。
 - 设置分段和Personalization规则
 - 创建用于潜在客户生成和培养的初始营销活动
 
@@ -294,7 +301,7 @@ ht-degree: 9%
 >[!NOTE]
 >提供的示例并非基于实际的实施时间表。 请勿依赖这些时间线作为您使用Marketo Engage的标准时间线，因为每个实施都是独一无二的，可根据贵组织的需求具有不同的里程碑和要求。
 
-有关实施和自定义实例的Marketo Engage的手动帮助，请联系Adobe客户团队或联系[Adobe Professional Services](https://business.adobe.com/cn/customers/consulting-services/main.html){target="_blank"}。
+有关实施和自定义实例的Marketo Engage的手动帮助，请联系Adobe客户团队或联系[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}。
 
 ### 作者
 

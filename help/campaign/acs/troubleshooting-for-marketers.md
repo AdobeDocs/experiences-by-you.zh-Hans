@@ -7,17 +7,28 @@ feature: Workflows
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Article
-last-substantial-update: 2023-05-18T00:00:00Z
+last-substantial-update: 2023-05-18T00:00:00.000Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
 exl-id: 1f27e284-73e3-4f28-988e-51163775eec8
-source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
+product_v2:
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '740'
 ht-degree: 2%
-
 ---
-
 # 营销人员故障诊断：5个常见的工作流和交付错误
 
 作者：[Suraj Patra](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}，梅耶高级顾问
@@ -28,8 +39,8 @@ ht-degree: 2%
 
 ## 数据类型不匹配错误
 
-**错误代码：
-
+**错误代码：**
+`PGS-220000 PostgreSQL error: ERROR: operator does not exist: character varying = bigint`
 
 **原因：**
 当您尝试使用不同数据类型的字段进行协调时，工作流中会出现这些类型的错误。 例如，当您使用具有字符串字段的加载文件上载文件时，并尝试将该字符串字段与数据类型为int的用户档案字段相协调。
@@ -44,8 +55,8 @@ ht-degree: 2%
 
 ## 投放Personalization错误
 
-**错误代码：
-
+**错误代码：**
+`The schema for profiles specified in the transition ('') is not compatible with the schema defined in the delivery template ('nms:recipient'). They should be identical.`
 
 **原因：**
 当您向某个地址发送电子邮件，但该电子邮件或任何其他标识符未与用户档案进行协调时，会出现此错误。 要发送电子邮件通信，电子邮件或标识符应始终链接到用户档案。
@@ -59,7 +70,7 @@ ht-degree: 2%
 
 具有协调详细信息的![工作流](/help/_assets/kt-13256/del-persn-error-wf-solution.png)
 
-了解有关[协调](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=zh-Hans)的详细信息。
+了解有关[协调](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=en)的详细信息。
 
 ## 通用字段数据集错误
 
@@ -87,8 +98,8 @@ ht-degree: 2%
 
 ## 字段名称删除错误
 
-**错误代码：
-
+**错误代码：**
+`XTK-170036 Unable to parse expression 'i__name'`
 
 **原因：**
 
@@ -110,8 +121,8 @@ ht-degree: 2%
 
 ## 临时表删除错误 
 
-**错误代码：
-
+**错误代码：**
+`XTK-170024 The temporary schema "temp:deliveryEmail1" is not defined in the current context.`
 
 **原因：**
 这是涉及扩充或其他活动的复杂工作流中的常见错误。 这可能意味着在对工作流进行多项更改期间，某些活动工作流无法正确保存。

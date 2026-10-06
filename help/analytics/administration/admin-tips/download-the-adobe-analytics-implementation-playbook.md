@@ -1,5 +1,5 @@
 ---
-title: 下载 [!DNL Adobe Analytics] 实施行动手册
+title: 下载[!DNL Adobe Analytics]实施行动手册
 description: 业务需求文档（通常称为BRD）是关键利益相关者、业务用户和技术用户需要共同协作的非常重要的文档。 该文档记录着所有期望的KPI、报告要求以及AA实施完成后希望看到的任何数据点。
 solution: Analytics
 feature-set: Analytics
@@ -11,13 +11,26 @@ doc-type: article
 thumbnail: 10530.jpg
 kt: 10530
 exl-id: 42679c86-e08f-4dda-8e47-f9880409bad6
-source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
+subfeature_v2:
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '1799'
+source-wordcount: '1800'
 ht-degree: 0%
-
 ---
-
 # 下载[!DNL Adobe Analytics]实施行动手册
 
 开始之前，[下载剧本](assets/aa-implementation-playbook.xlsx)。
@@ -89,7 +102,7 @@ SDR示例屏幕截图：
 
 **原因：**&#x200B;这将让您清楚地了解用户在所有数字属性中的历程，以及[!DNL Adobe Analytics]涵盖和未涵盖的内容，以便您可以开始优先为任何缺失的属性添加标记。 通过以这种方式布局数字生态系统，您可以识别标记策略中的潜在机会，以全面了解用户的历程。 例如，您是否需要一个全局报表包来跨多个域/站点进行跟踪？ 域或应用程序之间是否需要将访客ID切换为混合体验？ 跨域跟踪是否需要更新内部URL过滤器？
 
-**方法：**&#x200B;确定文档的所有者，以提供治理和管理更新的单一责任来源。
+**方法：**确定文档的所有者，以提供治理和管理更新的单一责任来源。
 在属性选项卡上列出以下内容：
 
 * **属性名称：**&#x200B;这可以是域、子域、应用程序名称等。即使在同一个域中，如果其中的某些部分是单独管理的（例如由不同的团队或不同的技术管理），那么应该分开这些部分。
@@ -105,7 +118,7 @@ SDR示例屏幕截图：
 >
 >在[!DNL Adobe Analytics]中创建站点名称/属性维度。 在[!DNL Adobe Analytics]中设置一个专用维度（通常是eVar）来标识站点名称/应用程序名称，有助于进行分段、故障排除、创建虚拟报表包等。其带来的好处是无穷的，尤其是在一个（全局）报表包中组合多个站点时更是如此。 关键是确保开发团队始终在属性维度中设置此值，其中包括所有页面加载（s.t调用/trackState）和所有自定义事件（s.tl调用/trackAction）。 处理规则可能是一个很有用的工具，可以帮助您以正确一致的方式设置这些值。
 
-[观看Doug Moore制作的此视频](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=zh-Hans){target="_blank"}，了解有关填写实施行动手册的更多信息。
+[观看Doug Moore制作的此视频](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html){target="_blank"}，了解有关填写实施行动手册的更多信息。
 
 ## 作者
 

@@ -7,15 +7,26 @@ audience: author, marketer, developer
 role: Admin
 level: Intermediate
 topic: Administration
-last-substantial-update: 2023-11-03T00:00:00Z
+last-substantial-update: 2023-11-03T00:00:00.000Z
 exl-id: 65a12916-27bb-4761-a1d3-da8ff4c51ef8
-source-git-commit: 7bbe86435c683f41509a8cbe6b117b354309644a
+product_v2:
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: c45915cf-e157-4af7-a80d-97b905bcb3a5
+    internal-label: Experience Manager Sites
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 0%
-
 ---
-
 # 您的AEM Sites成熟度评估核对清单
 
 评估AEM Sites实例的当前状态可能会让人觉得不知所措。 通常，最好的开始做法是审核您的实例，现在您可以使用这一成熟度评估清单来指导您完成该过程！
@@ -28,9 +39,9 @@ AEM成熟度评估主要针对内部部署和托管服务实施。 由于每个�
 
 有关管理、开发或创作的最佳实践，请参阅以下资源：
 
-* [管理最佳实践](https://experienceleague.adobe.com/docs/experience-manager-65/administering/bestpractices/administer-best-practices.html?lang=zh-Hans)
-* [制定最佳实践](https://experienceleague.adobe.com/docs/experience-manager-65/developing/bestpractices/best-practices.html?lang=zh-Hans)
-* [创作最佳实践](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/authoring/best-practices.html?lang=zh-Hans)
+* [管理最佳实践](https://experienceleague.adobe.com/docs/experience-manager-65/administering/bestpractices/administer-best-practices.html?lang=en)
+* [制定最佳实践](https://experienceleague.adobe.com/docs/experience-manager-65/developing/bestpractices/best-practices.html?lang=en)
+* [创作最佳实践](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/authoring/best-practices.html?lang=en)
 
 上述每个最佳实践领域还都包括在创作、开发和部署AEM方面的更多最佳实践。
 

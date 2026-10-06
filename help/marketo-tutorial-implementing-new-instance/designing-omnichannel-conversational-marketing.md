@@ -6,16 +6,23 @@ level: Beginner
 doc-type: Article
 solution: Marketo Engage
 duration: 0
-last-substantial-update: 2024-05-23T00:00:00Z
+last-substantial-update: 2024-05-23T00:00:00.000Z
 jira: KT-14814
 exl-id: 160dfb25-9f54-4dce-a08a-4a8d3c4c5368
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '1458'
 ht-degree: 0%
-
 ---
-
 # 使用Dynamic Chat设计全渠道对话式营销
 
 营销人员、您的网站对于创造潜在客户、提高转化率和加快销售周期至关重要。 通过在您的网站上实时吸引访客，您的销售团队可以更有效地确定购买者的资格。 Adobe Dynamic Chat是Adobe Marketo Engage订阅中的本机聊天渠道，它使您能够自动进行对话以扩展Marketo Engage的功能。
@@ -26,7 +33,7 @@ ht-degree: 0%
 
 访客浏览您的网站是有原因的。 他们可能正在查找有关您的产品或服务的内容，或者寻找联系信息以便与您的销售代表交谈。 他们也可以是您的客户，正在寻找其他产品信息。 如果网站访客准备好与您的销售团队交谈，则通过聊天进行自助服务和自我认证。
 
-当Sara Barriuso实施Dynamic Chat时，她被其与Marketo Engage和[预建活动触发器](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities){target="_blank"}的无缝集成所吸引，后者可激活Marketo Engage程序，反之亦然。 她针对三个受众群体制定了对话式参与策略：
+当Sara Barriuso实施Dynamic Chat时，她被其与Marketo Engage和[预建活动触发器](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities){target="_blank"}的无缝集成所吸引，后者可激活Marketo Engage程序，反之亦然。 她针对三个受众群体制定了对话式参与策略：
 
 1. 未知的潜在客户：主动提供演示调用以生成新潜在客户。
 2. 已知商机/客户：延长访客浏览内容所花费的时间，并提供演示调用以创造追加销售和交叉销售机会。
@@ -49,7 +56,7 @@ ht-degree: 0%
 
 此对话框提供五个初始选项供网站访客从中进行选择，从而创建自助式体验，帮助他们根据角色查找所需的信息。 首先，您可能需要浏览“联系我们”电子邮件收件箱，以确定常见主题并将它们归类到适用于网站访客的对话框选项中。 观看演示并按照以下步骤创建默认的“全包式”对话框：
 
->[!VIDEO](https://video.tv.adobe.com/v/3446485/?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429194/?learn=on)
 
 >[!BEGINTABS]
 
@@ -86,7 +93,7 @@ ht-degree: 0%
 
 通过纳入行业目标内容，您可以进一步增强默认的全方位对话框，使对话对访客更有用。 例如，建议向访客下载行业特定的白皮书或案例分析。 观看演示，并按照以下步骤为基于帐户的营销创建默认的全方位对话框：
 
->[!VIDEO](https://video.tv.adobe.com/v/3441395/?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429195/?learn=on)
 
 >[!BEGINTABS]
 
@@ -111,7 +118,7 @@ ht-degree: 0%
 
 活动和网络研讨会是B2B企业为创造需求而采用的流行营销策略。 他们提供引人入胜的体验和丰富的信息，吸引潜在客户。 将您的网站访客与即将举行的活动和网络研讨会连接起来，使您能够更快地确定潜在客户。 创建此对话框的工作量小，成本低，并且可以快速展示成功情况，帮助您获得营销利益相关者的支持，以将对话式参与添加到您的全渠道自动化计划中。 观看演示，并按照以下步骤创建活动/网络研讨会促销对话方块：
 
->[!VIDEO](https://video.tv.adobe.com/v/3445100/?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429196/?learn=on)
 
 >[!BEGINTABS]
 
@@ -150,7 +157,7 @@ ht-degree: 0%
 >[!NOTE]
 >请思考某些保护州/国家涉及的潜在安全风险，并与您的法律团队协商后仔细实施此个性化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3437099/?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429197/?learn=on)
 
 >[!BEGINTABS]
 
@@ -173,11 +180,11 @@ ht-degree: 0%
 
 想象一下，一个迷人的橱窗显示器吸引你的眼球，把你吸引到一家商店里。 如果接待员随后帮助您选择产品或回答您的问题，您可能会觉得更适合购买产品。 要在线复制此体验，您可以在营销活动指导访客的网页上显示Dynamic Chat对话框。 当用户与Web内容互动时，Dynamic Chat会立即显示相关对话，从而提供其他内容或解决潜在问题。 这是通过利用Dynamic Chat自动触发器根据Marketo Engage项目中的用户参与度激活活动来实现的。 现在，让我们看一看如何让此用例变得生动。
 
->[!VIDEO](https://video.tv.adobe.com/v/3437589/?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429199/?learn=on)
 
 扩展Campaign内容参与 — 配置：
 
->[!VIDEO](https://video.tv.adobe.com/v/3439506/?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429200/?learn=on)
 
 >[!BEGINTABS]
 
@@ -193,7 +200,7 @@ ht-degree: 0%
 
 ## 接下来做什么？
 
-* 在[流Designer](https://experienceleague.adobe.com/zh-hans/docs/marketo/using/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer){target="_blank"}或流程图中离线绘制对话流。
+* 在[流Designer](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer){target="_blank"}或流程图中离线绘制对话流。
 * 在Dynamic Chat中创建默认的“全包式”对话框。
 * 在Marketo Engage中使用自动化触发器激活营销活动后参与对话。
 
