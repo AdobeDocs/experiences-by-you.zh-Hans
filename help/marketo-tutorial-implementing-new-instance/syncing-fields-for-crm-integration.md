@@ -104,7 +104,7 @@ Marketo Engage与CRM系统之间的初始同步将自动关联大部分现有的
 **步骤6：**&#x200B;执行初始同步
 
 * 确保您要与Marketo Engage同步的所有字段在CRM中具有数据字典定义的相应权限。
-* 确保您&#x200B;**不**&#x200B;希望与Marketo Engage同步的所有字段在Marketo同步配置文件](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync){target="_blank"}中[隐藏。 在以后向同步中添加新字段比删除意外同步的字段要容易得多。
+* 确保您&#x200B;**不**&#x200B;希望与Marketo Engage同步的所有字段在Marketo同步配置文件[&#128279;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync){target="_blank"}中隐藏。 在以后向同步中添加新字段比删除意外同步的字段要容易得多。
 * 您是否正在将您的CRM与同步筛选器字段连接？ 如果同步到Salesforce，请联系Adobe客户支持，以确保在开始初始同步之前已启用筛选器功能。
 
 

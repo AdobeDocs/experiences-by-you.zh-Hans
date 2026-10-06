@@ -30,7 +30,7 @@ ht-degree: 1%
 
 但事情并不仅限于此。 您的团队可能需要补充支持文档或培训材料，以提高他们对Marketo Engage的熟练程度。 这些资源可以包括交互式练习、访问测验或有关Marketo Engage中允许操作的准则，这会使贵组织中的所有Marketo Engage用户受益。 无论是在最初创建全面的治理指南，还是在最初记录设置方面的关键内容，记录新用户引导期间所做的决策都是确保当前团队和子孙后代新员工成功使用Marketo Engage的关键。
 
-通过了解文档和管理的重要性，本教程深入研究了由专家同行提供的最佳做法[Marketo Engage管理和培训文档入门](https://nation.marketo.com/t5/product-blogs/getting-started-on-your-marketo-governance-and-training/ba-p/242421){target=&quot;_blank}和[如何记录您的实例？](https://nation.marketo.com/t5/product-discussions/how-do-you-document-your-instance/td-p/72877){target=&quot;_blank}，以帮助您制定流程并保持文档与内部用户相关。
+通过了解文档和管理的重要性，本教程深入研究了由专家同行提供的最佳做法[Marketo Engage管理和培训文档入门](https://nation.marketo.com/t5/product-blogs/getting-started-on-your-marketo-governance-and-training/ba-p/242421){target=_blank}和[如何记录您的实例？](https://nation.marketo.com/t5/product-discussions/how-do-you-document-your-instance/td-p/72877){target=_blank}，以帮助您制定流程并保持文档与内部用户相关。
 
 ## 为什么在实例实施期间记录更改和决策至关重要
 
@@ -75,7 +75,7 @@ ht-degree: 1%
    * 人员生命周期
    * 数据管理
 1. 在Marketo Engage实例中构建
-   * [卓越中心(COE)](https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself){target=&quot;_blank}
+   * [卓越中心(COE)](https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself){target=_blank}
    * 文件夹结构
    * 命名约定
    * 项目群组织
