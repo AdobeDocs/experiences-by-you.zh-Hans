@@ -32,7 +32,7 @@ ht-degree: 36%
 
 了解如何浏览用户界面并熟悉 [!DNL Marketo Engage] 平台。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419131/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450436/?captions=chi_hans&learn=on){transcript=true}
 
 ## 其他资源
 

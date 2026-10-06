@@ -32,7 +32,7 @@ ht-degree: 4%
 
 了解如何在[!DNL Analytics]和Database部分中导航以在[!DNL Marketo Engage]中提取不同的现成报告。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419295/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446430/?captions=chi_hans&learn=on){transcript=true}
 
 ## 其他资源
 

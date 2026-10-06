@@ -37,4 +37,4 @@ ht-degree: 29%
 
 探索 AEM 专业人士 Wilson Faure 的专家推荐和最佳实践。 在本视频中，他介绍了迁移到 AEM as a Cloud Service 的复杂规划和准备工作。 发现无价之宝的最佳实践，以实现迁移历程中的关键里程碑，包括建立性能基准和克服障碍，例如客户代码兼容性和管理外部/内部API。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427587/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445939/?captions=chi_hans&learn=on)
