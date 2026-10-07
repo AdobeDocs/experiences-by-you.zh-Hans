@@ -9,13 +9,26 @@ doc-type: feature video
 thumbnail: Workspace Basics.jpeg
 kt: KT-13087
 exl-id: 2bd7a828-5bb0-43bf-8802-310edd444d62
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '936'
 ht-degree: 0%
-
 ---
-
 # 7右键单击提示和技巧，提高工作流效率
 
 以下是7个可以在Analysis Workspace中使用的右键单击提示，以提高工作流的效率。 您可以阅读下面的文本或观看视频以观看演示。

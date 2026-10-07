@@ -1,6 +1,6 @@
 ---
-title: 以非技术方式翻译 [!DNL Adobe Analytics] 技术语言
-description: 随着对数字世界的关注比以往任何时候都要多，理解、分析和操作 [!DNL Adobe Analytics] 设置中可用的丰富数据的需求日益增长。 这种关注度的增加可能会揭示出对prop和eVar世界完全陌生的一群利益相关者。 作为您组织的 [!DNL Adobe Analytics] 专家，您是关键人物，可帮助您的利益相关者了解技术细节并充分利用您的 [!DNL Adobe Analytics] 投资。
+title: 以非技术方式翻译[!DNL Adobe Analytics]技术语言
+description: 随着对数字世界的关注比以往任何时候都要多，理解、分析和操作[!DNL Adobe Analytics]设置中可用的丰富数据的需求日益增长。 这种关注度的增加可能会揭示出对prop和eVar世界完全陌生的一群利益相关者。 作为贵组织的[!DNL Adobe Analytics]专家，您是关键人物，可帮助利益相关者了解技术细节并充分利用您的[!DNL Adobe Analytics]投资。
 solution: Analytics
 feature-set: Analytics
 feature: Admin Tools
@@ -10,13 +10,23 @@ level: Experienced
 thumbnail: 342066.jpg
 kt: 10128
 exl-id: b26f8b1e-e57d-4684-86c2-7a13f67521e6
-source-git-commit: b2e05ff39e065691dda530ed17762a55cf2e6778
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '1005'
+source-wordcount: '1009'
 ht-degree: 0%
-
 ---
-
 # 以非技术方式翻译[!DNL Adobe Analytics]技术语言
 
 >[!VIDEO](https://video.tv.adobe.com/v/345321/?captions=chi_hans&quality=12&learn=on)
@@ -35,7 +45,8 @@ ht-degree: 0%
 
 >[!TIP]
 >
->**用描述清楚地命名各个组件（即维度、区段和量度）共享eVar和prop的数据字典始终是使组织数据民主化的一个不错的措施，但不要指望临时用户通过索引/数字就能记住所有自定义变量及其预期用途。 相反，在[!DNL Adobe] Workspace中，请确保组件名称具有描述性，并带有有意义的标签和描述。 这将帮助您的用户在数百个eVar和无限的量度/区段中快速找到正确的量度。
+>**用描述清楚地命名各个组件（即维度、区段和量度）**
+>共享eVar和prop的数据字典始终是使组织数据民主化的一个不错的措施，但不要指望临时用户通过索引/数字就能记住所有自定义变量及其预期用途。 相反，在[!DNL Adobe] Workspace中，请确保组件名称具有描述性，并带有有意义的标签和描述。 这将帮助您的用户在数百个eVar和无限的量度/区段中快速找到正确的量度。
 
 ## 提示#2：查找共同语言
 
@@ -45,7 +56,8 @@ ht-degree: 0%
 
 >[!TIP]
 >
->**使您的实施反映该共同语言[!DNL Adobe Analytics] UI中的几乎所有内容都是可自定义的。 如果您的组织将购物车称为购物袋，您可以将购物车事件重命名为购物袋。
+>**使您的实施反映该共同语言**
+>[!DNL Adobe Analytics] UI中的几乎所有内容都是可自定义的。 如果您的组织将购物车称为购物袋，您可以将购物车事件重命名为购物袋。
 >
 >如果您发现有几个同义词经常出现，或者如果有些词经常让用户感到困惑，请考虑为您的组织创建自己的受控词汇。 积极主动地推动首选术语的标准化。 在您的入职和培训课程中复习最常见的混淆术语，帮助用户适应。
 
@@ -57,7 +69,8 @@ ht-degree: 0%
 
 >[!TIP]
 >
->**创建解决方案特定的、带注释的工作区模板和指南利用Analysis Workspace中的公司报告（模板）和文本可视化来创建上下文指南，帮助您的明星们不偏离正道。
+>**创建解决方案特定的、带注释的工作区模板和指南**
+>利用Analysis Workspace中的公司报告（模板）和文本可视化来创建上下文指南，帮助您的明星们不偏离正道。
 >
 >Analysis Workspace非常灵活，允许您创建模板来加快分析速度，并实现自助服务和自我培养。 通过结合精选模板、注释和工作区间/工作区内部链接等功能，您可以在[!DNL Adobe Analytics]上下文中为非技术用户创建高效、可访问且易于传播的指南。
 

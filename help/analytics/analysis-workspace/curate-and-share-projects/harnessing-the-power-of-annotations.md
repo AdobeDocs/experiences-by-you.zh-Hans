@@ -6,17 +6,30 @@ role: User
 level: Experienced
 doc-type: Article
 duration: 72000
-last-substantial-update: 2024-04-17T00:00:00Z
+last-substantial-update: 2024-04-17T00:00:00.000Z
 jira: KT-15331
 thumbnail: KT-15331.jpeg
 exl-id: a7e06ac7-cc06-47e5-a4d7-834a5a7f8351
-source-git-commit: 41e1153f92ceed71831cb89c9619c375f2304194
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '716'
 ht-degree: 3%
-
 ---
-
 # 解锁分析insight；利用注释的强大功能
 
 注释数据组件是Adobe Analysis Workspace中提供的最简单，但从长期来看，是最省时的功能之一。 与Workspace中的任何其他功能不同，它充当Workspace用户和其他用户的叙述性历史记忆。

@@ -6,17 +6,24 @@ level: Beginner
 doc-type: Article
 solution: Marketo Engage
 duration: 0
-last-substantial-update: 2024-05-03T00:00:00Z
+last-substantial-update: 2024-05-03T00:00:00.000Z
 jira: KT-14813
 thumbnail: KT-14813.jpeg
 exl-id: 19b3de9e-53f3-4308-b46e-7b8f756c30a0
-source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '1166'
+source-wordcount: '1291'
 ht-degree: 2%
-
 ---
-
 # 组织新实例并建立命名约定
 
 作为实施新Marketo Engage实例的管理员，您为将来允许组织内的营销人员轻松导航该实例奠定了基础。 熟悉树文件夹结构和命名惯例可以使您的实例保持整洁并为长期成功做好准备。 本教程包含Adobe和Marketo Engage Champion(2019-2020) Natalie Kremer推荐的示例，可帮助您[统一组织文件夹并命名资源](https://nation.marketo.com/t5/champion-program-blogs/keep-marketo-engage-organized-with-folders-and-naming/ba-p/245630){target="_blank"}。
@@ -38,7 +45,7 @@ ht-degree: 2%
 * 保持平面文件夹结构以便可发现。
 * 构建文件夹以反映组织的团队结构（例如区域或团队）或计划（例如新闻稿）。
 * 包括基于时间标签，以启用可搜索性，并发出用于归档的适当定时的信号（例如2024）。
-   * 建议管理员每年至少存档一次文件夹。 使用年度文件夹名称，您可以轻松停用实时智能营销活动并在年末存档整个文件夹。
+  * 建议管理员每年至少存档一次文件夹。 使用年度文件夹名称，您可以轻松停用实时智能营销活动并在年末存档整个文件夹。
 
 以下是将这些提示付诸实践的文件夹示例。
 
@@ -69,12 +76,12 @@ ht-degree: 2%
 * 营销活动 — *用于管理交互和状态跟踪的所有营销活动的文件夹。*
 * 本地Assets - *此项目特定的所有资源的文件夹。*
 
-   * 电子邮件
-   * 登陆页面
-   * 智能营销活动
-   * 列表 — *仅当存在特定于程序的列表时才需要。*
-   * Forms - *仅当存在特定于项目的Forms时才需要；大多数Forms都是全局Assets。*
-   * 报告 — *仅当存在特定于项目的报告时才需要。*
+  * 电子邮件
+  * 登陆页面
+  * 智能营销活动
+  * 列表 — *仅当存在特定于程序的列表时才需要。*
+  * Forms - *仅当存在特定于项目的Forms时才需要；大多数Forms都是全局Assets。*
+  * 报告 — *仅当存在特定于项目的报告时才需要。*
 
 ### 步骤3 — 为项目和资产创建命名约定
 
@@ -115,8 +122,8 @@ ht-degree: 2%
 从命名资产这一级别开始，最好不要重复程序名，并使用短标识符和通用标识符以便将来进行克隆。 请牢记以下一些快速提示：
 
 * 根据资产在项目流程中的顺序对资产进行编号。
-* 使用“ — ”（连字符）而不是“。”分隔命名组件。（点）或“\_”（下划线）。
-   * 为什么？ Marketo Engage使用圆点将“项目名称”与“促销活动名称”隔开。 使用“\_”将阻止您在资产超链接时看到该标记。
+* 使用“ — ”（连字符）而不是“。”（点）或“\_”（下划线）分隔命名组件。
+  * 为什么？ Marketo Engage使用圆点将“项目名称”与“促销活动名称”隔开。 使用“\_”将阻止您在资产超链接时看到该标记。
 * 在资产名称中使用标准首字母缩写可缩短引用并仍可轻松识别。
 
 考虑到这些情况，我们将将这些提示应用于以下资产并创建公式以生成名称：
@@ -172,13 +179,13 @@ ht-degree: 2%
 | --- |
 | XYZ-Gadget-DS.pdf |
 | Acme-Company-CS.pdf |
-| How-XYZ-Gadgets-make-life-easier-WP.pdf |
+| How-XYZ-Gadgets-make-life-easer-WP.pdf |
 
 >[!CAUTION]
 >
 >在命名上述示例中的文件时，请勿使用空格并避免使用下划线“\_”
 
-## 接下来呢？
+## 接下来做什么？
 
 * 下载工作表：[Marketo Engage组织和命名约定](./assets/adobe-marketo-engage-organization-and-naming-conventions.xlsx){target="_blank"}以支持创建文件夹结构和命名约定。
 * 在标准命名惯例中确定必要的组件后，请考虑将公式构建到Google工作表或Microsoft Excel中。 在以后使用时，只需在电子表格中输入您的值即可生成程序名。

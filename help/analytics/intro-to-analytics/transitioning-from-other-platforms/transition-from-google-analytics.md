@@ -1,6 +1,6 @@
 ---
-title: 从Google [!DNL Analytics]过渡到 [!DNL Adobe Analytics] 的综合指南
-description: 了解等效功能的位置，以及从Google [!DNL Analytics] 过渡到 [!DNL Adobe Analytics]时如何有效使用该功能
+title: 从Google [!DNL Analytics]过渡到[!DNL Adobe Analytics]的综合指南
+description: 了解等效功能的位置，以及从Google [!DNL Analytics]过渡到[!DNL Adobe Analytics]时如何有效使用该功能
 solution: Analytics
 feature: Third-party Integration
 role: User
@@ -8,13 +8,26 @@ level: Beginner
 kt: 9830
 thumbnail: 34749.jpg
 exl-id: 646bdc8f-c95e-40be-b2f7-8e4ba5653d91
-source-git-commit: 02e3a6dfa59df45113242bd8e874e18e9e1efd58
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: eb9732ab-8232-4b21-bc4c-89de86dbe4d7
+    internal-label: Integrations
+subfeature_v2:
+  - id: 518ed3bf-6fcd-5452-90d0-bba80603b0d5
+    internal-label: Third-party Integration
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '3354'
+source-wordcount: '3364'
 ht-degree: 1%
-
 ---
-
 # 从Google [!DNL Analytics]过渡到[!DNL Adobe Analytics]的综合指南{#comprehensive-guide-for-transitioning-to-adobe-analytics}
 
 ## &#x200B;1. 简介
@@ -94,19 +107,19 @@ ht-degree: 1%
 * 流失
 * 流量
 * 图形
-   * 面积图（栈叠和非栈叠）
-   * 线形图
-   * 散点图
-   * 条形图（栈叠和非栈叠）
-   * 项目符号
-   * 圆环图
-   * 直方图
-   * 水平条形图（栈叠和非栈叠）
+  * 面积图（栈叠和非栈叠）
+  * 线形图
+  * 散点图
+  * 条形图（栈叠和非栈叠）
+  * 项目符号
+  * 圆环图
+  * 直方图
+  * 水平条形图（栈叠和非栈叠）
 * 地图
 * 摘要块
-   * 概要变化
-   * 摘要文本
-   * 文本（用于输入附加信息以提供上下文的自由文本字段）
+  * 概要变化
+  * 摘要文本
+  * 文本（用于输入附加信息以提供上下文的自由文本字段）
 * 维恩图
 
 每个面板和可视化都可以指定标题并对其应用描述，以帮助给出信息所显示内容的上下文。

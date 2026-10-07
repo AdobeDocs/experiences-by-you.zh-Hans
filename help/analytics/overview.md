@@ -6,13 +6,26 @@ level: Beginner
 doc-type: overview
 solution: Analytics
 exl-id: a8dd4631-950b-4504-9af7-7953165ef175
-source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 19%
-
+source-wordcount: '277'
+ht-degree: 22%
 ---
-
 # [!DNL Analytics] by You： Resources by users， for users.
 
 关于[!DNL Adobe Experience Cloud]解决方案最强大的功能？ 你。 那些用户将产品拿出来深入挖掘并以令人惊叹的创新方式应用它们来创造有意义的体验和成果。 “按您列出的体验”包含由通过其[!DNL Adobe Experience Cloud]解决方案获得一定专业知识和影响力的日常用户创建的内容。 此对等知识鼓励协作和发现，使您和任何其他用户都能找到提升您的产品专业知识所需的灵感。
@@ -77,6 +90,6 @@ ht-degree: 19%
 ## 其他资源
 
 * [Experience League Adobe Analytics社区](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=zh-Hans)
-* [Adobe Analytics文档](https://experienceleague.adobe.com/docs/analytics.html?lang=zh-Hans)
+* [Adobe Analytics 文档](https://experienceleague.adobe.com/docs/analytics.html?lang=zh-Hans)
 * [Adobe Analytics 教程](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=zh-Hans)
 * [Adobe Analytics产品信息](https://business.adobe.com/cn/products/analytics/adobe-analytics.html)

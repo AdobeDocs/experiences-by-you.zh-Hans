@@ -6,37 +6,44 @@ level: Beginner
 doc-type: Article
 solution: Marketo Engage
 duration: 0
-last-substantial-update: 2024-05-08T00:00:00Z
+last-substantial-update: 2024-05-08T00:00:00.000Z
 jira: KT-14815
 thumbnail: KT-14815.jpeg
 exl-id: b3dd05e1-c522-4631-a6b4-c0c6309f25d3
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '815'
-ht-degree: 0%
-
+source-wordcount: '862'
+ht-degree: 1%
 ---
-
 # 实例治理快速入门和文档
 
-良好的文档记录与实际实例实施本身几乎一样重要。 治理指南是一项至关重要的资源，它概述了您的Marketo Engage实例设置详细信息，涵盖了项目/文件夹结构、通信限制等主题。 此动态文档是您的Marketo Engage管理员或高级用户的参考，展示了针对您的Marketo Engage实例和机构定制的特定最佳实践和管理标准。
+良好的文档记录与实际实例实施本身几乎一样重要。 治理指南是一项关键资源，可概述Marketo Engage实例设置详细信息，并涵盖项目/文件夹结构、通信限制等主题。 此动态文档是您的Marketo Engage管理员或高级用户的参考，其中展示了针对您的Marketo Engage实例和组织定制的特定最佳实践和管理标准。
 
-但事情并不仅限于此。 您的团队可能需要补充支持文件或培训材料，以提高他们的Marketo Engage能力。 这些资源可以包括交互式练习、访问测验或有关Marketo Engage内允许操作的准则，这会使贵公司内的所有Marketo Engage用户受益。 无论是创建全面的治理指南，还是最初记录关键的设置方面，记录新用户引导期间所做的决策都是确保成功Marketo Engage您当前团队和未来几代新员工的关键。
+但事情并不仅限于此。 您的团队可能需要补充支持文档或培训材料，以提高他们对Marketo Engage的熟练程度。 这些资源可以包括交互式练习、访问测验或有关Marketo Engage中允许操作的准则，这会使贵组织中的所有Marketo Engage用户受益。 无论是在最初创建全面的治理指南，还是在最初记录设置方面的关键内容，记录新用户引导期间所做的决策都是确保当前团队和子孙后代新员工成功使用Marketo Engage的关键。
 
-通过了解文档和培训管理的重要性，本教程将深入探讨来自于同行专家的最佳实践[Marketo Engage管理和培训文档快速入门](https://nation.marketo.com/t5/product-blogs/getting-started-on-your-marketo-governance-and-training/ba-p/242421){target="_blank}和[如何记录您的实例？](https://nation.marketo.com/t5/product-discussions/how-do-you-document-your-instance/td-p/72877){target="_blank}帮助您建立流程，并保持文档与内部用户相关。
+通过了解文档和管理的重要性，本教程深入研究了由专家同行提供的最佳做法[Marketo Engage管理和培训文档入门](https://nation.marketo.com/t5/product-blogs/getting-started-on-your-marketo-governance-and-training/ba-p/242421){target=_blank}和[如何记录您的实例？](https://nation.marketo.com/t5/product-discussions/how-do-you-document-your-instance/td-p/72877){target=_blank}，以帮助您制定流程并保持文档与内部用户相关。
 
 ## 为什么在实例实施期间记录更改和决策至关重要
 
-处理您的Marketo Engage文档，就好像您正在指导一位不熟悉该技术的新员工加入该实例。 经验丰富Marketo Engage后，您很容易忽视基本知识。 作为管理员，您应确保启用和治理文档满足初学者需求。 为了方便新用户的学习，一种实用方法是将定义和最佳做法直接纳入您的培训材料。
+处理Marketo Engage文档，就像指导不熟悉相关技术的新员工加入该实例一样。 获得Marketo Engage经验后，您很容易忽视基本知识。 作为管理员，您应确保启用和治理文档满足初学者需求。 为了方便新用户的学习，一种实用方法是将定义和最佳做法直接纳入您的培训材料。
 
 在实例设置期间创建实例文档具有以下几个好处：
 
 * 以可扩展方式简化新用户的培训流程。
-* 在坚实的文件基础之上，促进Marketo Engage的长期方案拟订。
+* 在坚实的文件基础之上，促进Marketo Engage的长期方案制定。
 * 维护实例在一段时间内的运行状况和组织。
-* 在团队调整的情况下，使新Marketo Engage管理员的过渡平稳进行。
+* 在团队调整的情况下，顺利过渡新的Marketo Engage管理员。
 
-最终，写下您在实施期间所做的决策将有助于您和您的团队成功完成Marketo Engage，而无需依靠一个人或少数人来执行这些流程。
+最终，写下您在实施期间所做的决策，将有助于您和您的团队成功实施Marketo Engage，而无需依靠一个人或少数人来执行这些流程。
 
 ## 如何构建Marketo Engage实例治理和文档
 
@@ -46,7 +53,7 @@ ht-degree: 0%
 
 从下面的示例大纲开始，指导您的治理和文档计划：
 
-1. 为我们的组织Marketo Engage的目的
+1. Marketo Engage对于我们组织的用途
 1. 本文档的目的
 1. 维护/更改治理指南的过程
 1. 管理设置
@@ -68,7 +75,7 @@ ht-degree: 0%
    * 人员生命周期
    * 数据管理
 1. 在Marketo Engage实例中构建
-   * [卓越中心(COE)](https://business.adobe.com/cn/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself){target="_blank}
+   * [卓越中心(COE)](https://business.adobe.com/cn/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself){target=_blank}
    * 文件夹结构
    * 命名约定
    * 项目群组织
@@ -101,7 +108,7 @@ ht-degree: 0%
 1. 更改的原因
 1. 谁进行了更改
 
-## 接下来呢？
+## 接下来做什么？
 
 * 下载[示例文档和Changelog](/help/marketo-tutorial-implementing-new-instance/assets/template-adobe-marketo-engage-instance-documentation.xlsx)，并根据您组织的需求对其进行调整。
 * 将文档存储在一个无障碍的平台中，贵组织希望在该平台中定期引用和更新。 例如，一些Marketo Engage冠军使用Confluence（由Atlassian提供）或Excel电子表格。

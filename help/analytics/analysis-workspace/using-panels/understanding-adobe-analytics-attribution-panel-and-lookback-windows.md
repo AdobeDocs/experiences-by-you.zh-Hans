@@ -6,17 +6,30 @@ feature: Attribution
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-06-20T00:00:00Z
+last-substantial-update: 2023-06-20T00:00:00.000Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
 exl-id: 2a62e563-bad9-424f-94ca-2af68d4a83b5
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '1698'
 ht-degree: 0%
-
 ---
-
 # 了解[!DNL Adobe Analytics]归因面板和回顾时间范围
 
 当我第一次思考[归因面板](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=zh-Hans)和&#x200B;**回顾窗口**&#x200B;时，会立即想起了“*时间旅行”*&#x200B;的概念；当然，也会想起我们对许多新工具（如这些工具）的典型反应：只是推迟尝试使用，因为它们看起来太复杂了。
@@ -76,9 +89,9 @@ ht-degree: 0%
 
 - **U形**：此方法将&#x200B;**40%**&#x200B;的点数分配给门中的&#x200B;*第一个人*，将&#x200B;**20%**&#x200B;的点数分配给&#x200B;*之间的所有*&#x200B;人，然后将&#x200B;**40%**&#x200B;分配给&#x200B;**最后一个**。 此模型最常用于您有&#x200B;**长的转化/销售周期**&#x200B;且在此过程中包含&#x200B;*多个接触点*&#x200B;的情况。  在本例中，您的目标是主要突出介绍有助于客户转化的&#x200B;***first***&#x200B;和&#x200B;***last***&#x200B;营销策略。
 - **J**-**形状**&#x200B;和&#x200B;**反向J**：
-   - 考虑&#x200B;**U型**，但此模型将&#x200B;**60%**&#x200B;点数分配给走进大门的&#x200B;*最后一位人员*，将&#x200B;**20%**&#x200B;分配给&#x200B;*第一个*，然后&#x200B;*将其余*&#x200B;的&#x200B;**20%**&#x200B;除以&#x200B;*其他各项*。  **反向J**&#x200B;则正好相反。
+  - 考虑&#x200B;**U型**，但此模型将&#x200B;**60%**&#x200B;点数分配给走进大门的&#x200B;*最后一位人员*，将&#x200B;**20%**&#x200B;分配给&#x200B;*第一个*，然后&#x200B;*将其余*&#x200B;的&#x200B;**20%**&#x200B;除以&#x200B;*其他各项*。  **反向J**&#x200B;则正好相反。
 
-     此处的目标是将重点大部分放在营销活动的&#x200B;*开头*&#x200B;或&#x200B;*结尾*&#x200B;处；但是，您仍希望在对面为参与项目分配一定数量的点数，同时在此过程中承认“小人物”。
+    此处的目标是将重点大部分放在营销活动的&#x200B;*开头*&#x200B;或&#x200B;*结尾*&#x200B;处；但是，您仍希望在对面为参与项目分配一定数量的点数，同时在此过程中承认“小人物”。
 
 - **时间衰减**：现在，如果不共享此时间衰减信息，我将会失职。 此模型的半衰期是指数衰减的 — 随着时间的推移！  在这种情况下，此模型半衰期的&#x200B;*默认*&#x200B;参数为&#x200B;**7天**。  其工作方式是根据&#x200B;*初始接触点*&#x200B;之后以及客户转化时经过的时间&#x200B;*，将*&#x200B;权重&#x200B;*应用于每个&#x200B;**营销渠道**、*。
 

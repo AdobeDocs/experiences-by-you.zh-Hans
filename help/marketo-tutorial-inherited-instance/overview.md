@@ -1,23 +1,33 @@
 ---
-title: 审核继承 [!DNL Marketo Engage] 实例的提示和技巧
-description: 了解如何优化和扩展您继承的实时 [!DNL Marketo Engage] 实例。
+title: 审核继承[!DNL Marketo Engage]实例的提示和技巧
+description: 了解如何优化和扩展您继承的实时[!DNL Marketo Engage]实例。
 solution: Marketo Engage
 feature-set: Marketo Engage
 feature: Administration
 role: Admin
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2023-10-16T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00.000Z
 jira: KT-13890
 thumbnail: KT-13890.jpeg
 exl-id: 3125e813-7d39-4403-922f-5a55bcbbbf95
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '284'
 ht-degree: 0%
-
 ---
-
 # 有关审核继承[!DNL Marketo Engage]实例的提示和技巧
 
 *Source： Adobe Marketo Champions*

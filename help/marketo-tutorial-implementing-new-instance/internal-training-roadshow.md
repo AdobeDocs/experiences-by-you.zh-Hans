@@ -1,22 +1,29 @@
 ---
 title: 制定内部入职和培训路演
-description: 了解如何建立强大的过程来创建和维护 [!DNL Marketo Engage] 实例的文档和更改日志。 这样不仅可以为团队的知识共享节省时间，还可以提高实例的健康和效率。
+description: 了解如何建立强大的过程来创建和维护[!DNL Marketo Engage]实例的文档和更改日志。 这样不仅可以为团队的知识共享节省时间，还可以提高实例的健康和效率。
 role: Admin
 level: Beginner
 doc-type: Article
 solution: Marketo Engage
 duration: 0
-last-substantial-update: 2024-03-01T00:00:00Z
+last-substantial-update: 2024-03-01T00:00:00.000Z
 jira: KT-14809
 thumbnail: KT-14809.jpeg
 exl-id: bd5d102b-0810-43e1-baac-fbef43817d50
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '855'
+source-wordcount: '856'
 ht-degree: 0%
-
 ---
-
 # 开发内部入职和培训路演
 
 在您启用新的[!DNL Marketo Engage]实例时，是时候让相关团队快速将[!DNL Marketo Engage]用于其作业了。

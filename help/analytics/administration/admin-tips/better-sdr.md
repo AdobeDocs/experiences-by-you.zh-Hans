@@ -7,17 +7,30 @@ role: User
 level: Experienced
 doc-type: Article
 duration: 72000
-last-substantial-update: 2024-04-25T00:00:00Z
+last-substantial-update: 2024-04-25T00:00:00.000Z
 jira: KT-15338
 thumbnail: KT-15338.jpeg
 exl-id: 99fcf68f-5698-4270-9055-ab224e6323a1
-source-git-commit: b2e05ff39e065691dda530ed17762a55cf2e6778
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '1647'
+source-wordcount: '1692'
 ht-degree: 0%
-
 ---
-
 # 构建数据文化和更好的解决方案设计参考
 
 _彻底改变您的数据策略，让您的团队能够创建可靠的解决方案设计参考(SDR)文档。 通过循序渐进的方法消除测量差距，促进协作数据文化。_
@@ -26,7 +39,7 @@ _彻底改变您的数据策略，让您的团队能够创建可靠的解决方�
 
 来自一个团队的投诉包括：
 
-“为什么我搞不清这个漏斗的转化率呢？”
+“为什么我无法确定此funnel的转化率？”
 
 “为什么这里没有指标？”
 
@@ -48,7 +61,7 @@ _您的团队成员为何不接受此内容？_
 
 ## 方法
 
-_了解测量会议。 使用漏斗图可视化计划的每个步骤。 创建模拟功能板以分组查看。 为用户创建数据字典。_
+_了解测量会议。 使用funnel地图可视化计划的每个步骤。 创建模拟功能板以分组查看。 为用户创建数据字典。_
 
 ### 测量会议
 
@@ -59,18 +72,18 @@ _了解测量会议。 使用漏斗图可视化计划的每个步骤。 创建�
 1. 对于任何投票率较低的量度和维度，请让要求他们的利益相关者解释为何使用这些组件。 如果存在良好的用例，请保留这些组件。 如果有更好的方法获取这些数据，或者没人能解释这些数据如何可操作，或者如果有另一个很好的理由删除量度和维度，那么就删除它们。
 1. 将这些量度和维度添加到SDR中，以供出席的利益相关者进行初步审查。
 
-### 漏斗图
+### funnel地图
 
 1. 获取所有漏斗的可视化图表，其中包含每个状态的分步图表。
-1. 与设计师和产品经理一起，完成每个步骤，讨论每个人都认为在该漏斗中取得成功的情况。 是转化率吗？ 它是否选择了特定的路径？ 它是否使用某些功能？
-1. 提出有关哪些量度和维度对于了解漏斗每个步骤以及总体上的漏斗性能不可或缺的问题。
-1. 在漏斗的每个步骤上方，添加在该步骤中测量的指标和维度，包括计算量度。
-1. 在每个漏斗的开头，写出进入功能板的报告，产品经理可以使用这些报告跟踪性能。 这些报表包括[流失报表](https://experienceleague.adobe.com/zh-hans/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow)、[当前月份](https://experienceleague.adobe.com/zh-hans/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges)、[趋势转化率](https://experienceleague.adobe.com/zh-hans/docs/analytics/analyze/analysis-workspace/visualizations/line)以及特定于漏斗的任何内容。
+1. 与设计师和产品经理一起，完成每个步骤，并讨论在该funnel中每个人都认为成功的内容。 是转化率吗？ 它是否选择了特定的路径？ 它是否使用某些功能？
+1. 提出以下问题：为了了解funnel在funnel各个步骤中的整体性能，必须采用哪些量度和维度。
+1. 在funnel的每个步骤上方，添加在该步骤中测量的指标和维度，包括计算量度。
+1. 在每个funnel的开头，写出进入功能板的报告，产品经理可以使用这些报告跟踪性能。 这些报表包括[流失报表](https://experienceleague.adobe.com/zh-hans/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow)、[当前月份](https://experienceleague.adobe.com/zh-hans/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges)、[趋势转化率](https://experienceleague.adobe.com/zh-hans/docs/analytics/analyze/analysis-workspace/visualizations/line)以及特定于该funnel的任何报表。
 1. 将您发现的新量度和维度添加到SDR并将其发送给利益相关者进行第二次审查。
 
 ### 预览功能板
 
-1. 使用漏斗图作为指南，创建模拟仪表板。
+1. 以funnel地图为指南，创建模拟仪表板。
 1. 每个漏斗应该有一个总体视图，如[执行摘要仪表板](driving-success-with-executive-summary-dashboards.md)，以及仪表板。
 1. 还有一些更加特定于您的网站或应用程序，例如产品性能或内容性能。
 1. 分发给相关利益相关者并获得设计的反馈。
@@ -105,7 +118,7 @@ _了解如何收集要求、构建数据文化、激发对数据深思熟虑、�
 
 对于您公司的许多人来说，数据是他们消费的东西。 他们使用它。 他们分析它。 他们不会深思熟虑。 有些人从他们的前任那里继承了报告和进程，但为了连续性没有改变它们。 也许这些人永远不需要考虑数据的&#x200B;_为什么_。
 
-此过程为他们提供了真正&#x200B;_了解_&#x200B;数据的机会。 提问诸如“成功是什么？” 你怎么知道你是否成功了？ 如果你不成功，你怎么知道要改变什么？ 在创建每个站点、应用程序和产品时，都必须回答这些问题，但很多时候答案并不是。通过提出这些问题，您不仅有助于加深个人对数据的了解，而且还有助于加深个人对产品的了解。
+此过程为他们提供了真正&#x200B;_了解_&#x200B;数据的机会。 提问诸如“成功是什么？” 你怎么知道你是否成功了？ 如果你不成功，你怎么知道要改变什么？ 在创建每个站点、应用程序和产品时，都必须回答这些问题，但很多时候答案并不是。 通过提出这些问题，您不仅有助于加深个人对数据的了解，而且还有助于加深个人对产品的了解。
 
 ### 创建对数据的拥有感
 

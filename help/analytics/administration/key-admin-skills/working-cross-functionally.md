@@ -1,6 +1,6 @@
 ---
 title: 跨职能工作
-description: ' [!DNL Adobe Analytics] 历程始于良好的实施。 我们都知道有句谚语“种瓜得瓜，种豆得豆”。 为了消除“产生垃圾”的实施，管理员必须监控输入到系统中的数据的每个细节。 也就是说，数据收集策略受到组织中许多利益相关者的影响，管理员必须日复一日地与这些利益相关者进行合作。'
+description: '[!DNL Adobe Analytics]之旅始于良好的实施。 我们都知道有句谚语“种瓜得瓜，种豆得豆”。 为了消除“产生垃圾”的实施，管理员必须监控输入到系统中的数据的每个细节。 也就是说，数据收集策略受到组织中许多利益相关者的影响，管理员必须日复一日地与这些利益相关者进行合作。'
 solution: Analytics
 feature-set: Analytics
 feature: Admin Tools
@@ -10,13 +10,23 @@ level: Experienced
 thumbnail: 342071.jpg
 kt: 10129
 exl-id: 9dbebe7a-0b68-4aea-8a51-6e6bc0f54d09
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '712'
+source-wordcount: '713'
 ht-degree: 0%
-
 ---
-
 # 跨职能工作
 
 >[!VIDEO](https://video.tv.adobe.com/v/345450/?captions=chi_hans&quality=12&learn=on)

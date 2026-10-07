@@ -7,17 +7,27 @@ role: User
 level: Experienced
 doc-type: Article
 duration: 72000
-last-substantial-update: 2024-05-14T00:00:00Z
+last-substantial-update: 2024-05-14T00:00:00.000Z
 jira: KT-15488
 thumbnail: KT-15488.jpeg
 exl-id: b0719779-f260-45b7-bdd6-1a3145bcb251
-source-git-commit: 4340bd82fd13397762c5b1ebd17d5d03d8180c3e
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: b8734a57-d5fb-44a8-8ee1-65225cecaeae
+    internal-label: Data configuration and collection
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
-
 ---
-
 # 实施Web SDK的战略指南
 
 下载我们的战略指南，在当今数字环境中实施Web SDK以优化Web性能、高效标签管理、Adobe端处理、服务器端第三方标签集成、支持无Cookie环境并提高数据质量。

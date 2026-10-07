@@ -11,13 +11,26 @@ doc-type: article
 thumbnail: 10531.jpg
 kt: 10531
 exl-id: 79cec21e-2b52-4e7b-88ad-db137a8cef4e
-source-git-commit: c568ed0a06551d910b6f533698ec47c15adecf6c
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
+subfeature_v2:
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '323'
 ht-degree: 0%
-
 ---
-
 # 创建标准化的命名惯例
 
 **内容：**&#x200B;标准命名惯例既适用于在[!DNL Adobe Analytics] (AA)管理员UI中启用的变量名称本身，也适用于传递到维度的值。 (即，页面名称将“页面名称(v1)”作为变量名称，传入的页面名称值应统一一致，并遵循特定的结构/层次结构，如“站点名称|主页”或“站点名称|搜索|搜索结果”)。

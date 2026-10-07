@@ -6,13 +6,26 @@ level: Beginner
 doc-type: overview
 solution: Marketo Engage
 exl-id: 5145c189-cc92-4472-bf99-981b43c2c5ba
-source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '265'
-ht-degree: 16%
-
+source-wordcount: '259'
+ht-degree: 14%
 ---
-
 # Marketo by You：按用户的资源，适用于用户。
 
 有关[!DNL Adobe] Experience Cloud解决方案最强大的功能？ 你。 那些用户将产品拿出来深入挖掘并以令人惊叹的创新方式应用它们来创造有意义的体验和成果。 “您的体验”包含由通过其[!DNL Adobe] Experience Cloud解决方案获得一定专业知识和影响力的日常用户创建的内容。 此对等知识鼓励协作和发现，使您和任何其他用户都能找到提升您的产品专业知识所需的灵感。

@@ -5,19 +5,29 @@ role: User
 level: Beginner
 doc-type: Feature Video
 solution: Marketo Engage
-last-substantial-update: 2023-05-23T00:00:00Z
+last-substantial-update: 2023-05-23T00:00:00.000Z
 jira: KT-13257
 thumbnail: 3419440.jpeg
 feature-set: Marketo Engage
 feature: Programs
 exl-id: 27c41bdf-b808-4268-9299-9c9944c2ea8d
-source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 22%
-
+source-wordcount: '141'
+ht-degree: 14%
 ---
-
 # 电子邮件程序
 
 观看此分步教程，了解如何使用 A/B 测试创建电子邮件计划。
@@ -33,8 +43,8 @@ ht-degree: 22%
 
 观看其他视频以了解有关此功能的更多帮助：
 
-* [计划的电子邮件浏览](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/scheduled-email-watch.html?lang=zh-Hans)
-* [AB测试演练](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=zh-Hans)
+* [计划的电子邮件演练](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/scheduled-email-watch.html?lang=zh-Hans)
+* [AB测试步骤](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=zh-Hans)
 
 向同行学习如何使用电子邮件程序：
 

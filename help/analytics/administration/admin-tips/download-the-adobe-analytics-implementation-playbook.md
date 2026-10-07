@@ -1,5 +1,5 @@
 ---
-title: 下载 [!DNL Adobe Analytics] 实施行动手册
+title: 下载[!DNL Adobe Analytics]实施行动手册
 description: 业务需求文档（通常称为BRD）是关键利益相关者、业务用户和技术用户需要共同协作的非常重要的文档。 该文档记录着所有期望的KPI、报告要求以及AA实施完成后希望看到的任何数据点。
 solution: Analytics
 feature-set: Analytics
@@ -11,13 +11,26 @@ doc-type: article
 thumbnail: 10530.jpg
 kt: 10530
 exl-id: 42679c86-e08f-4dda-8e47-f9880409bad6
-source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
+subfeature_v2:
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '1799'
+source-wordcount: '1800'
 ht-degree: 0%
-
 ---
-
 # 下载[!DNL Adobe Analytics]实施行动手册
 
 开始之前，[下载剧本](assets/aa-implementation-playbook.xlsx)。

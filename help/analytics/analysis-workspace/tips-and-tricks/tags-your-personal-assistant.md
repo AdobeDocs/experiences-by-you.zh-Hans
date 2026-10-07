@@ -6,17 +6,37 @@ role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Article
 duration: 36000
-last-substantial-update: 2024-02-22T00:00:00Z
+last-substantial-update: 2024-02-22T00:00:00.000Z
 jira: KT-14963
 thumbnail: KT-14963.jpeg
 exl-id: 563941cc-30a2-45d2-8634-0bde3b539ffd
-source-git-commit: 02e3a6dfa59df45113242bd8e874e18e9e1efd58
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+feature_v2:
+  - id: 2e0e1a8a-56e7-5bd5-b805-f35a7c0c2ca7
+    internal-label: Projects
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '1404'
 ht-degree: 0%
-
 ---
-
 # 标记 — 您的个人助理
 
 _了解#TAGS如何简化您的数字分析，作为个人助理高效地找到您需要的内容。 Adobe Analytics Champion的Jeff Bloomer分享了关于最大程度地发挥工具潜力为您的利益提供帮助的专家见解。_

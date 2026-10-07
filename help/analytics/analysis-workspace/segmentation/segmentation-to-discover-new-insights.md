@@ -1,27 +1,46 @@
 ---
 title: 现在只需等待一个区段……使用分段在Analysis Workspace中发掘新的见解
-description: 了解如何在 [!DNL Adobe Analytics] 中使用区段，以从Analysis Workspace可视化图表和自由格式表中发现新的见解。
+description: 了解如何在[!DNL Adobe Analytics]中使用区段以从Analysis Workspace可视化图表和自由格式表中发现新的见解。
 feature-set: Analytics
 feature: Segmentation
 role: User
 level: Beginner
 doc-type: Article
-last-substantial-update: 2023-05-16T00:00:00Z
+last-substantial-update: 2023-05-16T00:00:00.000Z
 jira: KT-13268
 thumbnail: KT-13268.jpeg
 exl-id: 3496b6ff-f8d6-48a1-92f4-442a792663e7
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '800'
-ht-degree: 0%
-
+source-wordcount: '866'
+ht-degree: 2%
 ---
-
 # 现在只需等待一个区段……使用区段在Analysis Workspace中发掘新见解
 
-无论您是新[!DNL Adobe Analytics]用户还是经验丰富的专业人士，您都将在您的Analysis Workspace项目中充分利用区段。 正如[[!DNL Adobe] Experience League](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=zh-Hans)描述的那样，“区段允许您根据特性或网站交互来识别访客的子集。” 虽然此功能的基本结果意味着隔离您网站的用户组、访问或点击，但像您自己这样的思维敏锐的分析人员可以使用此工具进行创意，并找到了解您网站活动的新方法。 可能的选项列表非常多，因此，您可以尝试创建自己的选项，并在Experience League上的[[!DNL Adobe Analytics] 社区](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=zh-Hans)或[社区](https://www.measure.chat/)社区等社区中与Slack或上的其他人#Measure行共享。
+无论您是新[!DNL Adobe Analytics]用户还是经验丰富的专业人士，您都将在您的Analysis Workspace项目中充分利用区段。 正如[[!DNL Adobe] Experience League](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=zh-Hans)描述的那样，“区段允许您根据特性或网站交互情况识别访客的子集。” 虽然此功能的基本结果意味着隔离您网站的用户组、访问或点击，但像您自己这样的思维敏锐的分析人员可以使用此工具进行创意，并找到了解您网站活动的新方法。 可能的选项列表非常多，因此，您可以尝试创建自己的选项，并在组织内或在Experience League上的[[!DNL Adobe Analytics] 社区](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=zh-Hans)或[#Measure Slack](https://www.measure.chat/)社区等社区中与其他人在线共享。
 
-如果您需要有关如何创建区段的快速刷新程序，请查看有关在Analysis Workspace中使用[区段生成器](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=zh-Hans)的Experience League文档。
+如果您需要有关如何创建区段的快速刷新程序，请查看Experience League关于在Analysis Workspace中使用[区段生成器](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=zh-Hans)的文档。
 
 ## 比较和对比区段
 
@@ -31,7 +50,7 @@ ht-degree: 0%
 
 但是，有时您不需要完整的比较面板来为您的最终用户提供主键分析。 值得庆幸的是，某些功能也可以在标准面板中进行比较。
 
-[维恩图可视化](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=zh-Hans)有助于创建快速比较，允许您悬停并查看重叠会话、订单、用户等。 介于2-3个自定义区段之间。 您还可以通过右键单击任何重叠部分来快速生成区段：
+[维恩图可视化](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=zh-Hans)有助于创建快速比较，允许您悬停并查看2-3个自定义区段之间的重叠会话、订单、用户等。 您还可以通过右键单击任何重叠部分来快速生成区段：
 
 ![区段02](assets/s02.png)
 
@@ -79,7 +98,7 @@ ht-degree: 0%
 
 ![区段12](assets/s12.png)
 
-使用区段来查找新见解的可能性是无穷的！ 这只是个起点。 请自己尝试几个社区，让社区知道您发现的内容：[[!DNL Adobe Analytics] Experience League上的Community](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=zh-Hans)或[#MeasureSlack](https://www.measure.chat/)社区。
+使用区段来查找新见解的可能性是无穷的！ 这只是个起点。 请自己尝试几个社区，让社区知道您发现的内容：[[!DNL Adobe Analytics] Experience League上的Community](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=zh-Hans)或[#Measure Slack](https://www.measure.chat/)社区。
 
 分段快乐！
 

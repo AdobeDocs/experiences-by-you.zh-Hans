@@ -1,6 +1,6 @@
 ---
 title: 用数据讲述有影响力的故事
-description: 用数据讲故事是艺术和科学结合了使用数据、可视化和叙述的产物。  利用这些组件，制作有影响力的数据故事可分为三个部分。 通过有效地用数据讲述故事， [!DNL Analytics] 可以变得更容易被更广泛的受众所接受，并且您可以通过数据驱动型决策提升您为组织带来的价值。
+description: 数据故事讲述是艺术与科学借助数据、可视化和叙述相结合的方式。  利用这些组件，制作有影响力的数据故事可分为三个部分。 通过有效地用数据讲述故事，[!DNL Analytics]可以变得更容易被更广泛的受众所接受，并且您可以通过数据驱动型决策提升您为组织带来的价值。
 solution: Analytics
 feature-set: Analytics
 feature: Admin Tools
@@ -10,16 +10,26 @@ level: Experienced
 thumbnail: impactful-stories.jpg
 kt: 10157
 exl-id: bbbe8514-95d2-4e18-aaa2-6c3bd94816a1
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '450'
 ht-degree: 6%
-
 ---
-
 # 用数据讲述有影响力的故事
 
-用数据讲故事是艺术和科学结合了使用数据、可视化和叙述的产物。  利用这些组件，制作有影响力的数据故事可分为三个部分。 通过有效地用数据讲述故事，[!DNL Analytics]可以变得更容易被更广泛的受众所接受，并且您可以通过数据驱动型决策提升您为组织带来的价值。
+数据故事讲述是艺术与科学借助数据、可视化和叙述相结合的方式。  利用这些组件，制作有影响力的数据故事可分为三个部分。 通过有效地用数据讲述故事，[!DNL Analytics]可以变得更容易被更广泛的受众所接受，并且您可以通过数据驱动型决策提升您为组织带来的价值。
 
 ## 确定机会或问题
 

@@ -1,27 +1,40 @@
 ---
 title: 再见，Excel，你好，计算量度
-description: 通过本文了解在 [!DNL Adobe Analytics] 中使用计算量度的好处，以及它们如何为您提供数据的连续、动态视图。
+description: 通过本文了解在[!DNL Adobe Analytics]中使用计算量度的好处，以及它们如何能为您提供数据的连续、动态视图。
 feature-set: Analytics
 feature: Calculated Metrics
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-05-02T00:00:00Z
+last-substantial-update: 2023-05-02T00:00:00.000Z
 jira: KT-13178
 thumbnail: KT-13178.jpeg
 exl-id: b233d6d0-2e89-473e-b700-9977b402af39
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '1274'
+source-wordcount: '1277'
 ht-degree: 0%
-
 ---
-
 # 再见，Excel，你好，计算量度
 
 通过本文了解在[!DNL Adobe Analytics]中使用计算量度的好处，以及它们如何能为您提供数据的连续、动态视图。
 
-嘿！ 为什么现在使用Excel？ 我知道为什么。 你必须向合适的人汇报工作。 您正忙于输入来自[!DNL Adobe Analytics]的数据，计算转化率，绘制转化率图表，并准备将这些数据全部放入PowerPoint中，然后由决策者处理。 我真的希望您至少使用Report Builder来执行此操作，但我知道在座的一些人正在手动将数据从Workspace复制并粘贴到Excel。
+您好！ 为什么现在使用Excel？ 我知道为什么。 你必须向合适的人汇报工作。 您正忙于输入来自[!DNL Adobe Analytics]的数据，计算转化率，绘制转化率图表，并准备将这些数据全部放入PowerPoint中，然后由决策者处理。 我真的希望您至少使用Report Builder来执行此操作，但我知道在座的一些人正在手动将数据从Workspace复制并粘贴到Excel。
 
 为什么？
 
@@ -39,7 +52,7 @@ ht-degree: 0%
 
    我去过那里。 复制/粘贴。 输入公式或向下拖动公式上方的单元格。 单击图表并更改范围，以获取最近的12个月或13个月的数据。 现在复制图表。 现在再来一次。 再来一次。 再来一次。 发送PowerPoint。 这既繁琐又耗时，而且感觉您不得不永远每月都这样做。
 
-   您可以创建一个使用计算量度的Workspace，将“最近12个月”或“13个月”作为日期范围，并在每个月第一天的午夜凌晨自动更新数据和图表。 收件人可以直接访问Workspace。 他们可以在当月的第一天或者在使用文本可视化图表添加您对数据的评论后（您知道，报表的有趣部分），自动通过电子邮件向他们发送PDF副本。
+   您可以创建一个使用计算量度的Workspace，将“最近12个月”或“13个月”作为日期范围，并在每个月第一天的午夜凌晨自动更新数据和图表。 收件人可以直接访问Workspace。 他们可以在当月的第一天或者在使用文本可视化图表添加您对数据的评论（您知道，报告有趣的部分）之后，自动通过电子邮件向他们发送PDF副本。
 
 1. **计算量度可应用于大数据集**
 
@@ -53,7 +66,7 @@ ht-degree: 0%
 
 **用例1：转化率**
 
-大多数转化率只是简单的除法。 转化数除以访客数或访问数。 将漏斗最后一页的页面查看次数除以漏斗第一页的页面查看次数。 将内部营销活动点进次数除以展示次数。 所有这些都可以轻松地作为计算量度完成，并放置在仪表板中，以便享有低数据延迟、更新可视化图表和更好的可共享性。
+大多数转化率只是简单的除法。 转化数除以访客数或访问数。 将funnel最后一页的页面查看次数除以funnel第一页的页面查看次数。 将内部营销活动点进次数除以展示次数。 所有这些都可以轻松地作为计算量度完成，并放置在仪表板中，以便享有低数据延迟、更新可视化图表和更好的可共享性。
 
 **用例2：内部搜索**
 
