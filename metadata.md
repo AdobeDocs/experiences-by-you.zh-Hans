@@ -4,7 +4,7 @@ solution: CX Enterprise, Experience Manager, Experience Manager Cloud Manager, M
 product: experience cloud
 type: Documentation
 mini-toc-levels: 2
-git-repo: https://github.com/adobedocs/experiences-by-you.en
+git-repo: https://github.com/adobedocs/experiences-by-you.zh-Hans
 index: true
 feature-set: Advertising, Analytics, Audience Manager, Campaign, Commerce, Customer Journey Analytics, Experience Cloud Services, Experience Manager, Experience Manager Assets, Experience Manager Cloud Manager, Experience Manager Forms, Experience Manager Guides, Experience Manager Screens, Experience Manager Sites, Experience Platform, Journey Optimizer, Journey Orchestration, Marketo Engage, Workfront
 product_v2:
