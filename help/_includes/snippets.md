@@ -5,22 +5,20 @@ source-git-commit: 80fc3ded085ce416e9a26aec96f1293701f7d268
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 1%
-
 ---
-
 # 片段
 
 ## 赵蔼明 {#amy-chiu}
 
 ![赵蔼明](/help/marketo-tutorial-implementing-new-instance/assets/amy-chiu.png){width="150"}
 
-**Amy Chiu**，采用和维系市场经理，Adobe
+**Amy Chiu**，Adobe采用和维系市场经理
 
 ## 刘直美 {#naomi-liu}
 
 ![刘乃美](/help/marketo-tutorial-implementing-new-instance/assets/naomi-liu.png){width="150"}
 
-**Naomi Liu**，Director，Global Marketing Operations，Electronics for Imaging (EFI)
+**Naomi Liu**，Electronics for Imaging (EFI)全球营销运营总监
 
 ## 娜塔莉·克雷默 {#natalie-kremer}
 
@@ -54,7 +52,7 @@ Adobe Marketo Engage冠军（2015年）
 
 ![彼得·利瓦达斯](/help/marketo-tutorial-implementing-new-instance/assets/peter_livadas.png){width="150"}
 
-**Peter Livadas**，AdobeMarketo Engage高级技术顾问
+**Peter Livadas**，Adobe的Marketo Engage高级技术顾问
 
 ## 莎拉·巴留索 {#sara-barriuso}
 
