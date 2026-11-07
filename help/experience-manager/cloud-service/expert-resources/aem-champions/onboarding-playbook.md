@@ -48,7 +48,7 @@ ht-degree: 1%
 
 查看技术主管同事Rakesh Pasupuleti给出的这些提示。 Rakesh是[!DNL Adobe] Experience Manager冠军，他分享了关于如何使用入门剧本的想法。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419299?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3506885?captions=chi_hans&quality=12&learn=on)
 
 ## 其他资源 {#additional-resources}
 
